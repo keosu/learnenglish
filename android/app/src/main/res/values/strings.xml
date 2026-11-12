@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ContextFlow</string>
+    <string name="title_activity_main">ContextFlow</string>
+    <string name="package_name">com.contextflow.app</string>
+    <string name="custom_url_scheme">com.contextflow.app</string>
+</resources>
