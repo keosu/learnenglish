@@ -1,14 +1,14 @@
 {
  "latest": "2026-11-22",
- "updatedAt": "2026-11-22T09:26:09.993Z",
+ "updatedAt": "2026-11-22T09:50:53.665Z",
  "days": [
   {
    "date": "2026-11-22",
-   "count": 5,
-   "ai": 2,
-   "world": 3,
-   "sentences": 47,
-   "headline": "人工智能与人类都声称解决黎曼猜想"
+   "count": 10,
+   "ai": 6,
+   "world": 4,
+   "sentences": 97,
+   "headline": "Signal屏蔽截图以抗击AI监控"
   }
  ]
 }

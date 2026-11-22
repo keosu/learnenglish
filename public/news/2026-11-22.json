@@ -1,460 +1,1176 @@
 {
  "date": "2026-11-22",
- "generatedAt": "2026-11-22T09:26:09.989Z",
+ "generatedAt": "2026-11-22T09:50:53.663Z",
  "models": [
   "Pollinations · openai"
  ],
  "articles": [
-  {
-   "id": "iz254l",
-   "category": "ai",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "publishedAt": "2026-11-20T19:32:08.000Z",
-   "title": "AI and Human Both Claim to Solve Riemann Hypothesis",
-   "titleZh": "人工智能与人类都声称解决黎曼猜想",
-   "summaryZh": "数学家们惊讶于AI的最新成果，也有竞争性的人类解答。",
-   "level": "B2",
-   "sentences": [
-    {
-     "en": "Scientists are stunned by a new AI system that claims to solve the 167‑year‑old Riemann hypothesis.",
-     "zh": "科学家们对一套新的人工智能系统声称解决了已有167年的黎曼猜想感到震惊。",
-     "focus": [
-      {
-       "text": "stunned by a new AI system",
-       "meaning": "被新的人工智能系统震惊",
-       "note": "形容极度惊讶"
-      },
-      {
-       "text": "solve the 167‑year‑old Riemann hypothesis",
-       "meaning": "解决已有167年的黎曼猜想",
-       "note": "强调时间长度"
-      }
-     ]
-    },
-    {
-     "en": "The algorithm, developed by researchers at a leading university, uses deep learning to analyze complex number patterns.",
-     "zh": "该算法由一家顶尖大学的研究人员开发，利用深度学习分析复杂数值模式。",
-     "focus": []
-    },
-    {
-     "en": "At the same time, a mathematician named Dr. Li has published a paper outlining a traditional proof of the hypothesis.",
-     "zh": "与此同时，一位名叫李博士的数学家发表了一篇论文，提出了传统的黎曼猜想证明。",
-     "focus": []
-    },
-    {
-     "en": "Both claims have been reviewed by peer experts, who say the AI’s result is promising but still unverified.",
-     "zh": "两项主张都已被同行专家审查，专家表示AI的结果有前景，但仍未得到验证。",
-     "focus": [
-      {
-       "text": "reviewed by peer experts",
-       "meaning": "由同行专家审查",
-       "note": "学术流程"
-      }
-     ]
-    },
-    {
-     "en": "The mathematician’s proof, meanwhile, follows classical methods and has passed initial scrutiny.",
-     "zh": "与此同时，数学家的证明遵循经典方法，并已通过初步审查。",
-     "focus": [
-      {
-       "text": "follows classical methods",
-       "meaning": "遵循经典方法",
-       "note": "传统方法"
-      }
-     ]
-    },
-    {
-     "en": "The Riemann hypothesis, which predicts patterns in prime numbers, has been a central challenge in mathematics for over a century.",
-     "zh": "黎曼猜想预测质数的模式，已成为数学中心挑战超过一百年。",
-     "focus": [
-      {
-       "text": "predicts patterns in prime numbers",
-       "meaning": "预测质数的模式",
-       "note": "核心内容"
-      }
-     ]
-    },
-    {
-     "en": "If either solution is confirmed, it could reshape number theory and impact cryptography, which relies on prime numbers.",
-     "zh": "如果任何一项解决方案得到确认，可能会重塑数论，并影响依赖质数的密码学。",
-     "focus": [
-      {
-       "text": "could reshape number theory",
-       "meaning": "可能重塑数论",
-       "note": "未来影响"
-      }
-     ]
-    },
-    {
-     "en": "Researchers will continue testing both approaches, and the mathematical community eagerly awaits a definitive verdict.",
-     "zh": "研究人员将继续测试两种方法，数学界热切期待最终判决。",
-     "focus": [
-      {
-       "text": "eagerly awaits a definitive verdict",
-       "meaning": "热切期待最终判决",
-       "note": "表达期待"
-      }
-     ]
-    },
-    {
-     "en": "Stay tuned as updates come from top journals and conferences in the coming months.",
-     "zh": "请关注未来几个月顶级期刊和会议的最新动态。",
-     "focus": [
-      {
-       "text": "Stay tuned as updates come",
-       "meaning": "请关注最新动态",
-       "note": "广播用语"
-      }
-     ]
-    }
-   ],
-   "quiz": [
-    {
-     "q": "What is the main claim made by the AI system?",
-     "options": [
-      "It solved the Riemann hypothesis",
-      "It discovered a new prime number",
-      "It proved Fermat's Last Theorem",
-      "It solved the P versus NP problem"
-     ],
-     "answer": 0,
-     "explainZh": "AI声称已解决黎曼猜想。"
-    },
-    {
-     "q": "Which field would be most affected if the Riemann hypothesis is proven?",
-     "options": [
-      "Astronomy",
-      "Cryptography",
-      "Medicine",
-      "Art"
-     ],
-     "answer": 1,
-     "explainZh": "黎曼猜想与质数相关，影响密码学。"
-    }
-   ]
-  },
   {
    "id": "1a5jirw",
    "category": "ai",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
    "publishedAt": "2026-11-21T21:37:10.000Z",
-   "title": "Signal Blocks Screenshots to Fight AI Surveillance Threat",
-   "titleZh": "Signal屏蔽截图以应对AI监控威胁",
-   "summaryZh": "Signal限制安卓和iOS用户截图功能，旨在抵御人工智能监控的存在性威胁。",
+   "title": "Signal Blocks Screenshots to Fight AI Surveillance",
+   "titleZh": "Signal屏蔽截图以抗击AI监控",
+   "summaryZh": "Signal在Android和iOS应用中限制截图功能，以应对AI监控的存在性威胁。",
    "level": "B2",
    "sentences": [
     {
-     "en": "Signal, the secure messaging app, has announced it will block screenshots on both Android and iOS devices.",
-     "zh": "Signal这款安全通讯应用宣布将在安卓和iOS设备上阻止截图功能。",
+     "en": "Signal has announced a new privacy measure that blocks users from taking screenshots on both Android and iOS devices.",
+     "zh": "Signal宣布一项新的隐私措施，阻止用户在Android和iOS设备上截图。",
+     "tip": "主干：Signal announced a new privacy measure；听：注意短语blocks users from taking screenshots的弱读。",
      "focus": [
       {
-       "text": "block screenshots",
-       "meaning": "阻止截图",
-       "note": "常用来描述禁止拍照或截屏的功能"
-      },
-      {
-       "text": "secure messaging app",
-       "meaning": "安全通讯应用",
-       "note": "强调隐私保护"
+       "text": "blocks users from taking screenshots",
+       "meaning": "阻止用户截图",
+       "note": "常用隐私保护表达"
       }
      ]
     },
     {
-     "en": "The move comes after concerns that AI could analyze captured images and reconstruct private conversations.",
-     "zh": "此举是在担忧AI可能分析捕获的图像并重建私人对话后提出的。",
+     "en": "The change comes as the messaging app faces growing concerns about AI-powered surveillance tools that could capture private conversations.",
+     "zh": "此举是因为该消息应用面临越来越多关于AI驱动监控工具可能捕获私人对话的担忧。",
+     "tip": "主干：The change comes as；听：关注AI-powered surveillance的连读。",
      "focus": [
       {
-       "text": "AI could analyze",
-       "meaning": "AI可能分析",
-       "note": "描述人工智能的分析能力"
-      },
-      {
-       "text": "reconstruct private conversations",
-       "meaning": "重建私人对话",
-       "note": "强调隐私泄露风险"
-      }
-     ]
-    },
-    {
-     "en": "Signal’s policy update will affect all users, regardless of their device or operating system.",
-     "zh": "Signal的政策更新将影响所有用户，无论他们使用哪种设备或操作系统。",
-     "focus": [
-      {
-       "text": "all users",
-       "meaning": "所有用户",
-       "note": "强调普遍适用性"
-      },
-      {
-       "text": "operating system",
-       "meaning": "操作系统",
+       "text": "AI-powered surveillance tools",
+       "meaning": "AI驱动的监控工具",
        "note": "技术术语"
       }
      ]
     },
     {
-     "en": "The company says the restriction is temporary, aimed at protecting user privacy until a better solution is found.",
-     "zh": "公司表示此限制是临时的，旨在保护用户隐私，直至找到更好的解决方案。",
+     "en": "Signal’s CEO, Daniel M. Barrett, said the decision is a proactive step to protect user privacy.",
+     "zh": "Signal的CEO Daniel M. Barrett表示，这一决定是主动保护用户隐私的步骤。",
+     "tip": "主干：Signal’s CEO said the decision is a proactive step；听：注意proactive step的弱读。",
      "focus": [
       {
-       "text": "temporary",
-       "meaning": "临时的",
-       "note": "表示短期措施"
-      },
-      {
-       "text": "protecting user privacy",
-       "meaning": "保护用户隐私",
-       "note": "强调隐私保护"
+       "text": "proactive step",
+       "meaning": "主动步骤",
+       "note": "形容积极行动"
       }
      ]
     },
     {
-     "en": "Signal’s CEO, Brian Acton, said the decision reflects the company’s commitment to secure communication.",
-     "zh": "Signal的CEO布莱恩·阿克顿表示，此决定体现了公司对安全通讯的承诺。",
+     "en": "The app will still allow text messages to be copied, but screenshots of group chats and media will be disabled.",
+     "zh": "该应用仍允许复制文本消息，但会禁用群聊和媒体的截图。",
+     "tip": "主干：The app will still allow；听：关注still allow的连读。",
      "focus": [
       {
-       "text": "commitment to secure communication",
-       "meaning": "对安全通讯的承诺",
-       "note": "表达公司价值观"
+       "text": "group chats and media",
+       "meaning": "群聊和媒体",
+       "note": "常见聊天功能"
       }
      ]
     },
     {
-     "en": "The restriction will be rolled out in the next app update, expected in the coming weeks.",
-     "zh": "此限制将在即将发布的下一次应用更新中推出，预计在未来几周内。",
+     "en": "Users who try to capture a screenshot will see an error message explaining the restriction.",
+     "zh": "尝试截图的用户会看到解释限制的错误信息。",
+     "tip": "主干：Users who try to capture a screenshot will see；听：注意capture a screenshot的弱读。",
      "focus": [
       {
-       "text": "rolled out",
-       "meaning": "推出",
-       "note": "常见的发布用语"
-      },
-      {
-       "text": "app update",
-       "meaning": "应用更新",
-       "note": "技术术语"
+       "text": "error message",
+       "meaning": "错误信息",
+       "note": "常见提示"
       }
      ]
     },
     {
-     "en": "Users can still share text, audio, and video messages, but not screenshots of the conversation.",
-     "zh": "用户仍可分享文本、音频和视频信息，但不能截图对话。",
+     "en": "Signal’s move follows a broader industry trend where apps are tightening security to curb data misuse.",
+     "zh": "Signal的举措跟随行业更广泛的趋势，应用正在加强安全以遏制数据滥用。",
+     "tip": "主干：Signal’s move follows；听：关注broader industry trend的连读。",
      "focus": [
       {
-       "text": "share text, audio, and video messages",
-       "meaning": "分享文本、音频和视频信息",
-       "note": "描述功能"
+       "text": "data misuse",
+       "meaning": "数据滥用",
+       "note": "常见安全问题"
       }
      ]
     },
     {
-     "en": "Privacy advocates welcome the move, citing the growing threat of AI-powered surveillance.",
-     "zh": "隐私倡导者欢迎此举，指出AI驱动的监控威胁日益增长。",
+     "en": "Experts say that limiting screenshots may reduce the risk of private chats being leaked through third‑party apps.",
+     "zh": "专家表示，限制截图可能降低私人聊天通过第三方应用泄露的风险。",
+     "tip": "主干：Experts say that limiting screenshots may reduce；听：注意limiting screenshots的弱读。",
      "focus": [
       {
-       "text": "privacy advocates",
-       "meaning": "隐私倡导者",
-       "note": "指关注隐私的人士"
-      },
-      {
-       "text": "AI-powered surveillance",
-       "meaning": "AI驱动的监控",
-       "note": "描述技术威胁"
+       "text": "third‑party apps",
+       "meaning": "第三方应用",
+       "note": "常见术语"
       }
      ]
     },
     {
-     "en": "Signal users should check the app’s settings to understand how the new restriction will affect their conversations.",
-     "zh": "Signal用户应检查应用设置，以了解新限制如何影响他们的对话。",
+     "en": "The feature will roll out over the next few weeks, with updates expected for both Android and iOS platforms.",
+     "zh": "该功能将在接下来几周内推出，预计Android和iOS平台将更新。",
+     "tip": "主干：The feature will roll out；听：关注roll out的连读。",
      "focus": [
       {
-       "text": "check the app’s settings",
-       "meaning": "检查应用设置",
-       "note": "常用的操作指令"
+       "text": "over the next few weeks",
+       "meaning": "在接下来几周内",
+       "note": "时间表达"
       }
      ]
     },
     {
-     "en": "The company will monitor the impact and may lift the restriction if it proves ineffective.",
-     "zh": "公司将监测影响，并可能在无效时解除限制。",
+     "en": "Signal users can continue to enjoy end‑to‑end encryption, which remains the app’s core security promise.",
+     "zh": "Signal用户仍可享受端到端加密，这是该应用的核心安全承诺。",
+     "tip": "主干：Signal users can continue to enjoy；听：注意end‑to‑end encryption的弱读。",
      "focus": [
       {
-       "text": "monitor the impact",
-       "meaning": "监测影响",
-       "note": "表示评估措施效果"
+       "text": "end‑to‑end encryption",
+       "meaning": "端到端加密",
+       "note": "安全技术"
       }
      ]
+    },
+    {
+     "en": "If you’re concerned about privacy, it’s worth checking the app’s settings to ensure your data stays protected.",
+     "zh": "如果你关心隐私，值得检查应用设置，确保数据安全。",
+     "tip": "主干：If you’re concerned about privacy；听：关注check the app’s settings的连读。",
+     "focus": []
     }
    ],
    "quiz": [
     {
-     "q": "Why has Signal decided to block screenshots?",
+     "q": "What new feature has Signal introduced to protect user privacy?",
      "options": [
-      "To reduce app size",
-      "To fight AI surveillance",
-      "To improve battery life",
-      "To comply with regulations"
+      "It has added a new encryption method",
+      "It has blocked the ability to take screenshots",
+      "It has removed group chats",
+      "It has increased message limits"
      ],
      "answer": 1,
-     "explainZh": "Signal 之所以阻止截图，是为了抵御 AI 监控的存在性威胁。"
+     "explainZh": "Signal限制截图功能，以防止私人对话被捕获。"
     },
     {
-     "q": "Which devices will be affected by the screenshot restriction?",
+     "q": "Which type of content will still be allowed to be copied in Signal?",
      "options": [
-      "Only Android",
-      "Only iOS",
-      "Both Android and iOS",
-      "All mobile devices"
+      "Group chat screenshots",
+      "Media files",
+      "Text messages",
+      "Both group chats and media"
      ],
      "answer": 2,
-     "explainZh": "此限制将影响安卓和 iOS 两种设备的所有用户。"
+     "explainZh": "Signal仍允许复制文本消息，但禁用群聊和媒体截图。"
     }
    ]
   },
   {
-   "id": "1k15esz",
-   "category": "world",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "publishedAt": "2026-11-22T06:54:06.000Z",
-   "title": "Draft Deal Seeks to Save COP31 Negotiations",
-   "titleZh": "草案旨在挽救COP31谈判",
-   "summaryZh": "联合国COP31会议在土耳其进入第二天加班，国家间难以达成协议。",
+   "id": "iz254l",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "publishedAt": "2026-11-20T19:32:08.000Z",
+   "title": "AI and a Human Offer New Solutions to Riemann Hypothesis",
+   "titleZh": "AI与人类提出新的黎曼猜想解法",
+   "summaryZh": "AI提出了一个可能的解法，随后一名数学家也给出了类似的答案。",
    "level": "B2",
    "sentences": [
     {
-     "en": "The COP31 climate summit in Turkey has entered a second day of overtime negotiations.",
-     "zh": "土耳其的COP31气候峰会已进入第二天的加班谈判。",
+     "en": "Scientists are stunned by a new AI-generated proof that could solve the 167-year-old Riemann hypothesis.",
+     "zh": "科学家们对一份由人工智能生成的可能解决167年历史的黎曼猜想的证明感到震惊。",
+     "tip": "主干：Scientists are stunned by a new AI-generated proof; 听：注意弱化的“are stunned”。",
      "focus": [
       {
-       "text": "second day of overtime negotiations",
-       "meaning": "第二天的加班谈判",
-       "note": "用于描述会议延长时间"
+       "text": "AI-generated proof",
+       "meaning": "人工智能生成的证明",
+       "note": "常用来形容机器产生的结论"
+      },
+      {
+       "text": "167-year-old",
+       "meaning": "已有167年历史的",
+       "note": "形容时间久远的事物"
       }
      ]
     },
     {
-     "en": "Countries are struggling to agree on a new draft deal that could prevent the talks from collapsing.",
-     "zh": "各国正努力就一项新的草案达成一致，以防谈判崩溃。",
+     "en": "The AI model, trained on thousands of mathematical papers, identified a pattern that had eluded researchers for decades.",
+     "zh": "该人工智能模型在数千篇数学论文的训练下，发现了一个长期困扰研究者的模式。",
+     "tip": "主干：The AI model identified a pattern; 听：关注连读和弱化的“model trained”。",
      "focus": [
       {
-       "text": "new draft deal",
-       "meaning": "新的草案协议",
-       "note": "描述正在讨论的协议"
+       "text": "identified a pattern",
+       "meaning": "识别出一个模式",
+       "note": "常用来描述发现规律"
+      },
+      {
+       "text": "eluded researchers",
+       "meaning": "逃避研究者的",
+       "note": "形容难以解决的问题"
       }
      ]
     },
     {
-     "en": "The draft includes stronger emissions targets and clearer timelines for implementation.",
-     "zh": "该草案包含更严格的减排目标和更清晰的实施时间表。",
+     "en": "Within hours, a mathematician named Dr. Li announced a similar solution based on traditional analytical techniques.",
+     "zh": "几小时内，一位名叫李博士的数学家宣布了一个基于传统分析技术的类似解法。",
+     "tip": "主干：Dr. Li announced a similar solution; 听：注意名词短语的连读。",
      "focus": [
       {
-       "text": "stronger emissions targets",
-       "meaning": "更严格的减排目标",
-       "note": "常用于气候谈判"
+       "text": "announced a similar solution",
+       "meaning": "宣布了类似的解法",
+       "note": "常用来描述公开声明"
+      },
+      {
+       "text": "traditional analytical techniques",
+       "meaning": "传统分析技术",
+       "note": "形容经典方法"
       }
      ]
     },
     {
-     "en": "It also calls for increased financial support for developing countries to adapt to climate change.",
-     "zh": "它还呼吁为发展中国家适应气候变化提供更多财政支持。",
+     "en": "Both proofs rely on advanced calculus and complex analysis, but the AI's approach uses machine learning to test thousands of possibilities.",
+     "zh": "两份证明都依赖高级微积分和复分析，但人工智能的方法使用机器学习测试数千种可能性。",
+     "tip": "主干：Both proofs rely on advanced calculus; 听：注意连读和弱化的“both proofs”。",
      "focus": [
       {
-       "text": "financial support for developing countries",
-       "meaning": "为发展中国家提供财政支持",
-       "note": "国际援助常用表达"
+       "text": "advanced calculus",
+       "meaning": "高级微积分",
+       "note": "常用于数学领域"
+      },
+      {
+       "text": "machine learning",
+       "meaning": "机器学习",
+       "note": "常见技术术语"
       }
      ]
     },
     {
-     "en": "The United Nations Secretary‑General has urged all parties to keep the summit on track.",
-     "zh": "联合国秘书长敦促所有各方保持峰会进度。",
+     "en": "The mathematical community is debating whether the AI's proof meets the rigorous standards of peer review.",
+     "zh": "数学界正在争论人工智能的证明是否符合同行评议的严格标准。",
+     "tip": "主干：The mathematical community is debating; 听：注意弱化的“community”。",
      "focus": [
       {
-       "text": "keep the summit on track",
-       "meaning": "保持峰会进度",
-       "note": "会议管理常用短语"
+       "text": "peer review",
+       "meaning": "同行评议",
+       "note": "学术评审过程"
+      },
+      {
+       "text": "rigorous standards",
+       "meaning": "严格标准",
+       "note": "强调高要求"
       }
      ]
     },
     {
-     "en": "If the draft is accepted, it could set a precedent for future climate agreements.",
-     "zh": "如果草案被接受，它可能为未来的气候协议树立先例。",
+     "en": "If accepted, this could be the first time a computer has contributed a major theorem to mathematics.",
+     "zh": "如果被接受，这将可能是计算机首次为数学贡献重大定理。",
+     "tip": "主干：If accepted, this could be the first time; 听：注意条件句的弱化。",
      "focus": [
       {
-       "text": "set a precedent",
-       "meaning": "树立先例",
-       "note": "常用于法律和政策讨论"
+       "text": "computer has contributed",
+       "meaning": "计算机已贡献",
+       "note": "强调技术贡献"
+      },
+      {
+       "text": "major theorem",
+       "meaning": "重大定理",
+       "note": "形容重要成果"
       }
      ]
     },
     {
-     "en": "Opponents argue the deal lacks enforceable mechanisms and may delay action.",
-     "zh": "反对者认为该协议缺乏可执行机制，可能延迟行动。",
+     "en": "The results also raise questions about the role of AI in future research and how to verify machine-generated proofs.",
+     "zh": "这些结果也提出了关于人工智能在未来研究中的作用以及如何验证机器生成证明的问题。",
+     "tip": "主干：The results also raise questions; 听：注意连读和弱化的“results”。",
      "focus": [
       {
-       "text": "enforceable mechanisms",
-       "meaning": "可执行机制",
-       "note": "法律和政策讨论常用"
+       "text": "verify machine-generated proofs",
+       "meaning": "验证机器生成的证明",
+       "note": "技术验证过程"
       }
      ]
     },
     {
-     "en": "World leaders will decide by the end of the week whether to adopt the proposal.",
-     "zh": "世界领导人将在本周末决定是否采纳该提案。",
+     "en": "Experts say that both human and AI solutions must undergo thorough peer review before any claim is accepted.",
+     "zh": "专家表示，人工和人工智能的解法都必须经过彻底的同行评议，才能被接受。",
+     "tip": "主干：Experts say that both human and AI solutions must undergo; 听：注意弱化的“both”。",
      "focus": [
       {
-       "text": "by the end of the week",
-       "meaning": "本周末之前",
-       "note": "时间表达常用"
+       "text": "thorough peer review",
+       "meaning": "彻底的同行评议",
+       "note": "强调评审深度"
       }
      ]
     },
     {
-     "en": "The outcome will influence global climate policy and the next UN climate conference.",
-     "zh": "结果将影响全球气候政策和下一届联合国气候会议。",
+     "en": "In the coming weeks, journals will publish detailed analyses and the mathematics community will decide the final verdict.",
+     "zh": "在接下来的几周内，期刊将发布详细分析，数学界将决定最终判决。",
+     "tip": "主干：In the coming weeks, journals will publish; 听：注意连读和弱化的“journals”。",
      "focus": [
       {
-       "text": "global climate policy",
-       "meaning": "全球气候政策",
-       "note": "政策讨论常用"
+       "text": "final verdict",
+       "meaning": "最终判决",
+       "note": "形容最终决定"
       }
      ]
     },
     {
-     "en": "Stay tuned for updates as the summit moves toward a final agreement.",
-     "zh": "请关注更新，随着峰会向最终协议推进。",
+     "en": "Stay tuned for updates as the debate continues and the implications of AI in mathematics unfold.",
+     "zh": "请关注后续更新，了解争论继续以及人工智能在数学中的影响如何展开。",
+     "tip": "主干：Stay tuned for updates; 听：注意弱化的“stay tuned”。",
      "focus": [
       {
-       "text": "stay tuned for updates",
-       "meaning": "请关注更新",
-       "note": "广播常用表达"
+       "text": "implications of AI",
+       "meaning": "人工智能的影响",
+       "note": "形容可能的后果"
       }
      ]
     }
    ],
    "quiz": [
     {
-     "q": "What is the main purpose of the new draft deal discussed at COP31?",
+     "q": "What is the main claim of the AI-generated proof?",
      "options": [
-      "To increase financial aid for developed countries",
-      "To prevent the collapse of negotiations",
-      "To reduce the summit's duration",
-      "To postpone climate action"
+      "It solves the Riemann hypothesis",
+      "It disproves the Riemann hypothesis",
+      "It is unrelated to the Riemann hypothesis",
+      "It is a new mathematical field"
      ],
-     "answer": 1,
-     "explainZh": "该草案旨在防止谈判崩溃。"
+     "answer": 0,
+     "explainZh": "AI声称它可能解决了黎曼猜想。"
     },
     {
-     "q": "Which of the following is NOT mentioned as part of the draft deal?",
+     "q": "Which field is NOT mentioned as part of the proofs?",
      "options": [
-      "Stronger emissions targets",
-      "Clearer implementation timelines",
-      "Enforceable mechanisms",
-      "Increased financial support"
+      "Advanced calculus",
+      "Complex analysis",
+      "Quantum physics",
+      "Machine learning"
      ],
      "answer": 2,
-     "explainZh": "文中未提到可执行机制是草案的一部分。"
+     "explainZh": "文中没有提到量子物理。"
+    }
+   ]
+  },
+  {
+   "id": "1q6864l",
+   "category": "ai",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "publishedAt": "2026-11-20T10:00:00.000Z",
+   "title": "OpenAI Tackles Adversarial Distillation with Layered Defense",
+   "titleZh": "OpenAI 通过分层防御应对对抗性蒸馏",
+   "summaryZh": "OpenAI 采用多层防御策略，结合模型训练、保障措施、检测和执法，防止能力被提取。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "OpenAI has announced a new strategy to stop adversarial distillation, a technique that steals model knowledge.",
+     "zh": "OpenAI 宣布了一项新策略，阻止对抗性蒸馏，这是一种窃取模型知识的技术。",
+     "focus": [
+      {
+       "text": "adversarial distillation",
+       "meaning": "对抗性蒸馏",
+       "note": "指窃取模型知识的技术"
+      },
+      {
+       "text": "new strategy",
+       "meaning": "新策略",
+       "note": "强调创新方法"
+      }
+     ]
+    },
+    {
+     "en": "The approach combines four layers: model training, safeguards, detection, and enforcement.",
+     "zh": "该方法结合了四个层面：模型训练、保障措施、检测和执法。",
+     "focus": [
+      {
+       "text": "model training",
+       "meaning": "模型训练",
+       "note": "基础训练过程"
+      },
+      {
+       "text": "safeguards",
+       "meaning": "保障措施",
+       "note": "防护措施"
+      },
+      {
+       "text": "detection",
+       "meaning": "检测",
+       "note": "识别行为"
+      }
+     ]
+    },
+    {
+     "en": "First, OpenAI trains models with built‑in resistance to extraction attacks.",
+     "zh": "首先，OpenAI 在模型训练中加入了对提取攻击的抗性。",
+     "focus": [
+      {
+       "text": "built‑in resistance",
+       "meaning": "内置抗性",
+       "note": "防止攻击"
+      }
+     ]
+    },
+    {
+     "en": "Second, the company implements safeguards that limit how much information a user can request.",
+     "zh": "其次，公司实施了保障措施，限制用户可以请求的信息量。",
+     "focus": [
+      {
+       "text": "limit how much information",
+       "meaning": "限制信息量",
+       "note": "控制访问"
+      }
+     ]
+    },
+    {
+     "en": "Third, OpenAI deploys automated detection tools that flag suspicious patterns in user queries.",
+     "zh": "第三，OpenAI 部署了自动检测工具，标记用户查询中的可疑模式。",
+     "focus": [
+      {
+       "text": "automated detection tools",
+       "meaning": "自动检测工具",
+       "note": "监测异常"
+      }
+     ]
+    },
+    {
+     "en": "Finally, the organization enforces usage policies by blocking or throttling accounts that violate rules.",
+     "zh": "最后，组织通过阻止或限速违反规则的账户来执行使用政策。",
+     "focus": [
+      {
+       "text": "enforces usage policies",
+       "meaning": "执行使用政策",
+       "note": "强制执行"
+      }
+     ]
+    },
+    {
+     "en": "This layered defense is designed to make it harder for attackers to extract useful data from the model.",
+     "zh": "这种分层防御旨在使攻击者更难从模型中提取有用数据。",
+     "focus": [
+      {
+       "text": "layered defense",
+       "meaning": "分层防御",
+       "note": "多层保护"
+      }
+     ]
+    },
+    {
+     "en": "OpenAI’s strategy follows a broader industry trend toward secure AI deployment.",
+     "zh": "OpenAI 的策略符合行业更广泛的安全 AI 部署趋势。",
+     "focus": [
+      {
+       "text": "secure AI deployment",
+       "meaning": "安全 AI 部署",
+       "note": "行业趋势"
+      }
+     ]
+    },
+    {
+     "en": "The company will release detailed technical papers next month to help researchers understand the methods.",
+     "zh": "公司将在下个月发布详细技术论文，帮助研究人员了解这些方法。",
+     "focus": [
+      {
+       "text": "detailed technical papers",
+       "meaning": "详细技术论文",
+       "note": "学术分享"
+      }
+     ]
+    },
+    {
+     "en": "Users and developers should stay informed about these updates to ensure compliance and protection.",
+     "zh": "用户和开发者应关注这些更新，以确保合规和安全。",
+     "focus": [
+      {
+       "text": "stay informed",
+       "meaning": "保持知情",
+       "note": "持续关注"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main purpose of OpenAI's new strategy?",
+     "options": [
+      "To improve model speed",
+      "To stop adversarial distillation",
+      "To increase data collection",
+      "To reduce costs"
+     ],
+     "answer": 1,
+     "explainZh": "该策略旨在阻止对抗性蒸馏，防止模型知识被窃取。"
+    },
+    {
+     "q": "Which layer is NOT part of OpenAI's defense?",
+     "options": [
+      "Model training",
+      "Data encryption",
+      "Detection",
+      "Enforcement"
+     ],
+     "answer": 1,
+     "explainZh": "数据加密未被列为四个防御层之一。"
+    }
+   ]
+  },
+  {
+   "id": "48ss9z",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "publishedAt": "2026-11-21T15:00:00.000Z",
+   "title": "Anthropic Goes Public: Can It Prioritize Safety?",
+   "titleZh": "Anthropic上市：能否把安全放在首位？",
+   "summaryZh": "Anthropic的AI实验室Claude上市，讨论其是否能在盈利与安全之间取得平衡。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Anthropic, the company behind the Claude AI model, has just listed on the Nasdaq stock exchange.",
+     "zh": "Anthropic，Claude AI模型的背后公司，刚刚在纳斯达克上市。",
+     "tip": "主干：Anthropic ... listed on the Nasdaq；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "listed on the Nasdaq",
+       "meaning": "在纳斯达克上市",
+       "note": "常用的上市表述"
+      }
+     ]
+    },
+    {
+     "en": "The IPO raised billions of dollars, but the exact figures are not the focus of today’s discussion.",
+     "zh": "首次公开募股筹集了数十亿美元，但今天的讨论重点不是具体数字。",
+     "tip": "主干：The IPO raised billions; 听：注意强读的“raised”。",
+     "focus": [
+      {
+       "text": "raised billions of dollars",
+       "meaning": "筹集数十亿美元",
+       "note": "强调筹资规模"
+      }
+     ]
+    },
+    {
+     "en": "Hayden Field, a senior AI reporter for The Verge, is speaking with the company’s executives about future plans.",
+     "zh": "The Verge的高级AI记者Hayden Field正与公司高管交谈未来计划。",
+     "tip": "主干：Hayden Field ... speaking with ... executives；听：注意名词短语的连读。",
+     "focus": []
+    },
+    {
+     "en": "One key question is whether Anthropic can maintain a strong focus on safety while also meeting investor expectations.",
+     "zh": "一个关键问题是Anthropic是否能在满足投资者期望的同时，保持对安全的强烈关注。",
+     "tip": "主干：One key question ... can maintain a strong focus on safety；听：注意“can maintain”的弱化。",
+     "focus": [
+      {
+       "text": "maintain a strong focus on safety",
+       "meaning": "保持对安全的强烈关注",
+       "note": "强调持续关注"
+      }
+     ]
+    },
+    {
+     "en": "The company has already announced plans to invest heavily in safety research and development.",
+     "zh": "该公司已宣布计划在安全研发上大量投资。",
+     "tip": "主干：The company ... announced plans to invest heavily; 听：注意“invest heavily”的连读。",
+     "focus": [
+      {
+       "text": "invest heavily in safety research",
+       "meaning": "在安全研发上大量投资",
+       "note": "常见投资表述"
+      }
+     ]
+    },
+    {
+     "en": "Experts say that balancing profit and safety is a major challenge for all AI firms in the market.",
+     "zh": "专家表示，在市场上，平衡利润与安全是所有AI公司面临的主要挑战。",
+     "tip": "主干：Experts say ... balancing profit and safety is a major challenge；听：注意“balancing”的弱化。",
+     "focus": [
+      {
+       "text": "balancing profit and safety",
+       "meaning": "平衡利润与安全",
+       "note": "行业常用术语"
+      }
+     ]
+    },
+    {
+     "en": "Anthropic’s leadership believes that a clear safety roadmap will help attract long‑term investors.",
+     "zh": "Anthropic的领导层认为，明确的安全路线图有助于吸引长期投资者。",
+     "tip": "主干：Anthropic’s leadership ... believes that a clear safety roadmap；听：注意“long‑term investors”的连读。",
+     "focus": [
+      {
+       "text": "clear safety roadmap",
+       "meaning": "清晰的安全路线图",
+       "note": "战略规划用语"
+      }
+     ]
+    },
+    {
+     "en": "The company will release more detailed financial forecasts next month, which will be closely watched by analysts.",
+     "zh": "公司将在下个月公布更详细的财务预测，分析师将密切关注。",
+     "tip": "主干：The company will release ... next month；听：注意“release more detailed”的弱化。",
+     "focus": [
+      {
+       "text": "release more detailed financial forecasts",
+       "meaning": "公布更详细的财务预测",
+       "note": "财经报道常用"
+      }
+     ]
+    },
+    {
+     "en": "Investors and regulators alike will be watching to see if Anthropic can deliver on its safety promises.",
+     "zh": "投资者和监管机构都将关注Anthropic是否能兑现其安全承诺。",
+     "tip": "主干：Investors and regulators alike ... watching to see if ...；听：注意“watching to see”。",
+     "focus": []
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main concern discussed about Anthropic's IPO?",
+     "options": [
+      "Its marketing strategy",
+      "Its safety focus",
+      "Its product pricing",
+      "Its office location"
+     ],
+     "answer": 1,
+     "explainZh": "讨论的重点是公司能否在盈利与安全之间取得平衡。"
+    },
+    {
+     "q": "Who is speaking with Anthropic's executives?",
+     "options": [
+      "A government official",
+      "A senior AI reporter",
+      "A competitor CEO",
+      "A university professor"
+     ],
+     "answer": 1,
+     "explainZh": "The Verge的高级AI记者Hayden Field正在与高管交谈。"
+    }
+   ]
+  },
+  {
+   "id": "k4fs4w",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "publishedAt": "2026-11-21T21:07:42.000Z",
+   "title": "Nvidia’s Earnings vs. Calls for CEO Return",
+   "titleZh": "英伟达：财报与CEO回归呼声",
+   "summaryZh": "英伟达公布最新财报，业绩表现与行业预期不同；与此同时，部分技术高管公开呼吁CEO黄仁勋重返公司。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Nvidia released its quarterly earnings report, showing higher revenue but lower profit than analysts expected.",
+     "zh": "英伟达公布季度财报，收入较高但利润低于分析师预期。",
+     "tip": "主干：Nvidia released its quarterly earnings report；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "quarterly earnings report",
+       "meaning": "季度财报",
+       "note": "常用短语"
+      },
+      {
+       "text": "higher revenue",
+       "meaning": "更高收入",
+       "note": "形容词+名词"
+      },
+      {
+       "text": "lower profit",
+       "meaning": "更低利润",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "The company’s shares fell by about 3 percent in after‑market trading.",
+     "zh": "公司股价在盘后交易中下跌约3%。",
+     "tip": "主干：The company’s shares fell；听：连读的所有格与动词过去式。",
+     "focus": [
+      {
+       "text": "shares fell",
+       "meaning": "股价下跌",
+       "note": "常用表达"
+      },
+      {
+       "text": "after‑market trading",
+       "meaning": "盘后交易",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Meanwhile, several top tech executives publicly urged Jensen Huang to return as CEO.",
+     "zh": "与此同时，数位顶尖技术高管公开呼吁黄仁勋重返CEO职位。",
+     "tip": "主干：Meanwhile, several top tech executives urged；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "publicly urged",
+       "meaning": "公开呼吁",
+       "note": "动词短语"
+      },
+      {
+       "text": "Jensen Huang",
+       "meaning": "黄仁勋",
+       "note": "人名"
+      },
+      {
+       "text": "return as CEO",
+       "meaning": "重返CEO职位",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "They said Huang’s leadership was essential for guiding Nvidia’s AI strategy and maintaining investor confidence.",
+     "zh": "他们表示黄的领导对引导英伟达AI战略和维持投资者信心至关重要。",
+     "tip": "主干：They said Huang’s leadership was essential；听：弱化的冠词和连读。",
+     "focus": [
+      {
+       "text": "essential for guiding",
+       "meaning": "对……至关重要",
+       "note": "形容词短语"
+      },
+      {
+       "text": "AI strategy",
+       "meaning": "AI战略",
+       "note": "名词短语"
+      },
+      {
+       "text": "investor confidence",
+       "meaning": "投资者信心",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Nvidia’s board has not yet responded to the executives’ request.",
+     "zh": "英伟达董事会尚未回应高管的请求。",
+     "tip": "主干：Nvidia’s board has not yet responded；听：注意所有格和过去完成时。",
+     "focus": [
+      {
+       "text": "has not yet responded",
+       "meaning": "尚未回应",
+       "note": "现在完成时"
+      }
+     ]
+    },
+    {
+     "en": "Analysts warn that a leadership change could add uncertainty to an already volatile market.",
+     "zh": "分析师警告，领导层变动可能给本已波动的市场增添不确定性。",
+     "tip": "主干：Analysts warn that a leadership change could add；听：弱化的冠词和连读。",
+     "focus": [
+      {
+       "text": "leadership change",
+       "meaning": "领导层变动",
+       "note": "名词短语"
+      },
+      {
+       "text": "volatile market",
+       "meaning": "波动市场",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "The tech community is watching closely, hoping the board will act swiftly to reassure investors.",
+     "zh": "技术界密切关注，希望董事会迅速行动以安抚投资者。",
+     "tip": "主干：The tech community is watching closely；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "watching closely",
+       "meaning": "密切关注",
+       "note": "动词短语"
+      },
+      {
+       "text": "reassure investors",
+       "meaning": "安抚投资者",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Investors will be looking for a formal statement from Nvidia later this week.",
+     "zh": "投资者将会在本周晚些时候关注英伟达的正式声明。",
+     "tip": "主干：Investors will be looking for a formal statement；听：注意未来式和连读。",
+     "focus": [
+      {
+       "text": "formal statement",
+       "meaning": "正式声明",
+       "note": "名词短语"
+      },
+      {
+       "text": "later this week",
+       "meaning": "本周晚些时候",
+       "note": "时间短语"
+      }
+     ]
+    },
+    {
+     "en": "If the board delays, market volatility could rise, affecting Nvidia’s stock and the broader AI sector.",
+     "zh": "如果董事会延迟，市场波动可能上升，影响英伟达股价和更广泛的AI行业。",
+     "tip": "主干：If the board delays, market volatility could rise；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "market volatility",
+       "meaning": "市场波动",
+       "note": "名词短语"
+      },
+      {
+       "text": "broader AI sector",
+       "meaning": "更广泛的AI行业",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "Stay tuned for updates as Nvidia’s leadership debate continues to unfold.",
+     "zh": "请持续关注英伟达领导层争论的进一步发展。",
+     "tip": "主干：Stay tuned for updates；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "Stay tuned",
+       "meaning": "请持续关注",
+       "note": "动词短语"
+      },
+      {
+       "text": "as Nvidia’s leadership debate continues",
+       "meaning": "英伟达领导层争论继续",
+       "note": "名词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main reason some executives called for Jensen Huang’s return?",
+     "options": [
+      "To improve sales",
+      "To guide AI strategy",
+      "To cut costs",
+      "To launch a new product"
+     ],
+     "answer": 1,
+     "explainZh": "他们认为黄的领导对AI战略至关重要。"
+    },
+    {
+     "q": "How did Nvidia’s stock react after the earnings report?",
+     "options": [
+      "It rose 5%",
+      "It fell 3%",
+      "It stayed the same",
+      "It doubled"
+     ],
+     "answer": 1,
+     "explainZh": "股价在盘后交易中下跌约3%。"
+    }
+   ]
+  },
+  {
+   "id": "eigvkj",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "publishedAt": "2026-11-21T20:03:37.000Z",
+   "title": "UN Fails to Agree on Rules for Killer Robots",
+   "titleZh": "联合国未能就“杀手机器人”制定规则达成一致",
+   "summaryZh": "联合国外交官在日内瓦会议上讨论自主武器规则，但未达成协议。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "This week, UN diplomats met in Geneva to discuss rules for autonomous weapons, often called killer robots.",
+     "zh": "本周，联合国外交官在日内瓦会面，讨论自主武器的规则，通常称为杀手机器人。",
+     "tip": "主干：UN diplomats met in Geneva to discuss rules；听：注意连读和弱化词。",
+     "focus": [
+      {
+       "text": "UN diplomats met in Geneva",
+       "meaning": "联合国外交官在日内瓦会面",
+       "note": "常用地点短语"
+      },
+      {
+       "text": "autonomous weapons",
+       "meaning": "自主武器",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "They aimed to create guidelines that would limit how these weapons could be used in armed conflicts.",
+     "zh": "他们的目标是制定准则，限制这些武器在武装冲突中的使用方式。",
+     "tip": "主干：They aimed to create guidelines；听：关注动词短语和名词短语。",
+     "focus": [
+      {
+       "text": "create guidelines",
+       "meaning": "制定准则",
+       "note": "动词短语"
+      },
+      {
+       "text": "armed conflicts",
+       "meaning": "武装冲突",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "However, after a week of talks, the diplomats could not agree on any specific rules.",
+     "zh": "然而，经过一周的讨论，外交官们未能就任何具体规则达成一致。",
+     "tip": "主干：could not agree on any specific rules；听：注意否定词和形容词。",
+     "focus": [
+      {
+       "text": "could not agree",
+       "meaning": "未能达成一致",
+       "note": "否定结构"
+      },
+      {
+       "text": "specific rules",
+       "meaning": "具体规则",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "They decided instead to start discussing options for future negotiations, hoping to find common ground later.",
+     "zh": "他们决定改为开始讨论未来谈判的选项，希望以后能找到共同点。",
+     "tip": "主干：decided to start discussing options；听：注意动词搭配和连词。",
+     "focus": [
+      {
+       "text": "start discussing options",
+       "meaning": "开始讨论选项",
+       "note": "动词短语"
+      },
+      {
+       "text": "common ground",
+       "meaning": "共同点",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The failure reflects the difficulty of balancing national security interests with global safety concerns.",
+     "zh": "失败反映了平衡国家安全利益与全球安全关切的难度。",
+     "tip": "主干：failure reflects the difficulty；听：注意名词短语的搭配。",
+     "focus": [
+      {
+       "text": "global safety concerns",
+       "meaning": "全球安全关切",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Experts say the lack of agreement could slow the development of international norms on autonomous weapons.",
+     "zh": "专家表示，缺乏协议可能会减缓国际自主武器规范的发展。",
+     "tip": "主干：lack of agreement could slow；听：注意情态动词和名词短语。",
+     "focus": [
+      {
+       "text": "lack of agreement",
+       "meaning": "缺乏协议",
+       "note": "常用短语"
+      },
+      {
+       "text": "international norms",
+       "meaning": "国际规范",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The United Nations has been working on this issue since 2015, following growing concerns about lethal autonomous systems.",
+     "zh": "自2015年以来，联合国一直在处理此问题，因对致命自主系统的担忧日益增加。",
+     "tip": "主干：United Nations has been working；听：注意现在完成进行时。",
+     "focus": [
+      {
+       "text": "working on this issue",
+       "meaning": "处理此问题",
+       "note": "动词短语"
+      },
+      {
+       "text": "lethal autonomous systems",
+       "meaning": "致命自主系统",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "Next week, the UN will hold a follow‑up meeting in Geneva to revisit the topic and try new approaches.",
+     "zh": "下周，联合国将在日内瓦举行后续会议，重新审视该主题并尝试新方法。",
+     "tip": "主干：will hold a follow‑up meeting；听：注意未来时和连词。",
+     "focus": [
+      {
+       "text": "follow‑up meeting",
+       "meaning": "后续会议",
+       "note": "常用短语"
+      },
+      {
+       "text": "try new approaches",
+       "meaning": "尝试新方法",
+       "note": "动词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main goal of the UN diplomats' meeting in Geneva?",
+     "options": [
+      "To ban all autonomous weapons",
+      "To create guidelines for autonomous weapons",
+      "To increase funding for military research",
+      "To train soldiers in using robots"
+     ],
+     "answer": 1,
+     "explainZh": "会议的目标是制定自主武器的准则，而不是全面禁用或增加资金。"
+    }
+   ]
+  },
+  {
+   "id": "35yarg",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-22T09:20:45.000Z",
+   "title": "South Korea Education Minister Resigns Over Exam Cheating Scandal",
+   "titleZh": "韩国教育部长因考试作弊丑闻辞职",
+   "summaryZh": "韩国教育部长崔奎振因在大学入学考试中实施最后时刻的 AI 作弊防范措施而辞职，事件引发公众关注。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The South Korean education minister, Choi Kyo-jin, resigned yesterday after a scandal involving AI‑assisted cheating at the college entrance exam.",
+     "zh": "韩国教育部长崔奎振因大学入学考试中的 AI 辅助作弊丑闻，于昨日辞职。",
+     "tip": "主干：minister resigned；听：注意弱化动词‘resigned’的弱化音，连读‘after a scandal’。",
+     "focus": [
+      {
+       "text": "education minister",
+       "meaning": "教育部长",
+       "note": "常用职位称谓"
+      },
+      {
+       "text": "AI‑assisted cheating",
+       "meaning": "人工智能辅助作弊",
+       "note": "科技与教育结合的常见说法"
+      }
+     ]
+    },
+    {
+     "en": "Choi admitted that he ordered last‑minute measures to stop cheating, but the plan caused confusion and chaos among students.",
+     "zh": "崔承认他下令实施最后时刻的防作弊措施，但该计划导致学生们混乱不堪。",
+     "tip": "主干：Choi admitted; 听：注意连读‘last‑minute’和‘caused chaos’的弱化。",
+     "focus": [
+      {
+       "text": "last‑minute measures",
+       "meaning": "最后时刻的措施",
+       "note": "形容紧急行动"
+      }
+     ]
+    },
+    {
+     "en": "The exam, held nationwide, is the most important test for students aiming to enter university in South Korea.",
+     "zh": "这场全国性考试是学生进入韩国大学的最重要测试。",
+     "tip": "主干：exam is the most important test；听：注意‘most important’的重读。",
+     "focus": [
+      {
+       "text": "most important test",
+       "meaning": "最重要的考试",
+       "note": "强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "The government had previously warned that AI tools could be used by students to cheat, prompting a rapid response.",
+     "zh": "政府此前警告学生可能使用 AI 工具作弊，促使其迅速采取行动。",
+     "tip": "主干：government had warned；听：注意‘rapid response’的连读。",
+     "focus": [
+      {
+       "text": "warned that AI tools",
+       "meaning": "警告 AI 工具",
+       "note": "科技风险警示"
+      }
+     ]
+    },
+    {
+     "en": "Critics argue that the sudden crackdown was poorly planned and disrupted many students’ preparation.",
+     "zh": "批评者认为突然的打击计划不周，扰乱了许多学生的备考。",
+     "tip": "主干：Critics argue；听：注意‘sudden crackdown’的弱化。",
+     "focus": [
+      {
+       "text": "sudden crackdown",
+       "meaning": "突然的打击",
+       "note": "形容措施突然"
+      }
+     ]
+    },
+    {
+     "en": "Choi’s resignation follows a series of protests demanding accountability from the education ministry.",
+     "zh": "崔的辞职是在一系列要求教育部承担责任的抗议之后。",
+     "tip": "主干：resignation follows；听：注意‘series of protests’的连读。",
+     "focus": [
+      {
+       "text": "series of protests",
+       "meaning": "一系列抗议",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The scandal highlights the growing challenge of regulating AI in high‑stakes exams worldwide.",
+     "zh": "这起丑闻凸显了全球在高风险考试中监管 AI 的日益挑战。",
+     "tip": "主干：scandal highlights；听：注意‘high‑stakes exams’的弱化。",
+     "focus": [
+      {
+       "text": "high‑stakes exams",
+       "meaning": "高风险考试",
+       "note": "强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "The ministry has pledged to review exam security and improve digital monitoring tools.",
+     "zh": "教育部承诺审查考试安全并改进数字监测工具。",
+     "tip": "主干：ministry has pledged；听：注意‘digital monitoring tools’的连读。",
+     "focus": [
+      {
+       "text": "digital monitoring tools",
+       "meaning": "数字监测工具",
+       "note": "技术手段"
+      }
+     ]
+    },
+    {
+     "en": "Observers will watch how the new policies affect student fairness and the integrity of future exams.",
+     "zh": "观察者将关注新政策如何影响学生公平和未来考试的完整性。",
+     "tip": "主干：observers will watch；听：注意‘student fairness’的弱化。",
+     "focus": [
+      {
+       "text": "student fairness",
+       "meaning": "学生公平",
+       "note": "教育公平"
+      }
+     ]
+    },
+    {
+     "en": "Meanwhile, students and parents are calling for clearer guidelines on acceptable use of technology during tests.",
+     "zh": "与此同时，学生和家长要求制定更清晰的技术使用准则。",
+     "tip": "主干：students and parents are calling；听：注意‘clearer guidelines’的连读。",
+     "focus": [
+      {
+       "text": "clearer guidelines",
+       "meaning": "更清晰的准则",
+       "note": "规范制定"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main reason Choi Kyo-jin resigned?",
+     "options": [
+      "He was caught cheating",
+      "He ordered last-minute anti‑cheating measures",
+      "He was promoted",
+      "He retired voluntarily"
+     ],
+     "answer": 1,
+     "explainZh": "他因在考试中实施最后时刻的反作弊措施导致混乱而辞职。"
+    },
+    {
+     "q": "Which of the following best describes the exam's significance?",
+     "options": [
+      "A local test",
+      "An international competition",
+      "The most important test for university entry",
+      "A recreational activity"
+     ],
+     "answer": 2,
+     "explainZh": "这场考试是学生进入大学的最重要考试。"
     }
    ]
   },
@@ -464,146 +1180,194 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
    "publishedAt": "2026-11-21T19:20:22.000Z",
-   "title": "Russia-bound Ship Attacked in Gulf of Finland",
-   "titleZh": "俄罗斯船只在芬兰湾遭遇袭击",
-   "summaryZh": "一艘驶往俄罗斯的船只在芬兰湾被无人机攻击，芬兰防卫部队怀疑乌克兰负责。",
+   "title": "Russia‑bound Ship Attacked in Gulf of Finland",
+   "titleZh": "俄国航运船只在芬兰湾遭袭",
+   "summaryZh": "乌克兰可能使用无人机袭击了驶往俄罗斯的船只，芬兰防卫部队已确认。",
    "level": "B2",
    "sentences": [
     {
-     "en": "A cargo ship heading to Russia was struck by a drone in the Gulf of Finland yesterday.",
-     "zh": "一艘驶往俄罗斯的货船在昨天的芬兰湾被无人机击中。",
+     "en": "A ship heading to Russia was attacked by a drone in the Gulf of Finland.",
+     "zh": "一艘驶往俄罗斯的船只在芬兰湾被无人机袭击。",
      "focus": [
       {
-       "text": "cargo ship",
-       "meaning": "货船",
-       "note": "常用于描述运输货物的船只"
-      }
-     ]
-    },
-    {
-     "en": "Finnish defence forces say the attack was likely carried out by Ukraine.",
-     "zh": "芬兰防卫部队表示，这次袭击很可能是乌克兰实施的。",
-     "focus": [
-      {
-       "text": "likely carried out",
-       "meaning": "很可能实施",
-       "note": "用来表达推测的可能性"
+       "text": "heading to Russia",
+       "meaning": "驶往俄罗斯",
+       "note": "常用来描述航向"
       },
       {
-       "text": "by Ukraine",
-       "meaning": "由乌克兰",
-       "note": "指责任方"
+       "text": "attacked by a drone",
+       "meaning": "被无人机袭击",
+       "note": "常见军事用语"
       }
      ]
     },
     {
-     "en": "The vessel was en route to a Russian port when the drone struck its side.",
-     "zh": "船只正驶向俄罗斯港口时，被无人机击中侧面。",
+     "en": "Finnish defence forces said the attack likely involved Ukrainian drones.",
+     "zh": "芬兰防卫部队表示袭击很可能使用了乌克兰无人机。",
      "focus": [
       {
-       "text": "en route to",
-       "meaning": "驶往",
-       "note": "描述航行方向"
+       "text": "likely involved",
+       "meaning": "很可能涉及",
+       "note": "表示推测"
       },
       {
-       "text": "struck its side",
-       "meaning": "击中侧面",
-       "note": "形容攻击位置"
+       "text": "Ukrainian drones",
+       "meaning": "乌克兰无人机",
+       "note": "常见国际冲突词汇"
       }
      ]
     },
     {
-     "en": "No crew members were injured, and the ship continued its journey after emergency repairs.",
-     "zh": "船员未受伤，船只在紧急修理后继续航行。",
+     "en": "The vessel was on a commercial route between Helsinki and St. Petersburg.",
+     "zh": "该船正沿着赫尔辛基至圣彼得堡的商业航线航行。",
+     "focus": [
+      {
+       "text": "commercial route",
+       "meaning": "商业航线",
+       "note": "常用航运术语"
+      },
+      {
+       "text": "between Helsinki and St. Petersburg",
+       "meaning": "从赫尔辛基到圣彼得堡",
+       "note": "地理位置"
+      }
+     ]
+    },
+    {
+     "en": "No crew members were injured, and the ship remained afloat after the strike.",
+     "zh": "船员没有受伤，船只在袭击后仍保持漂浮。",
      "focus": [
       {
        "text": "no crew members were injured",
-       "meaning": "船员未受伤",
-       "note": "说明人员安全"
+       "meaning": "船员没有受伤",
+       "note": "安全情况"
       },
       {
-       "text": "emergency repairs",
-       "meaning": "紧急修理",
-       "note": "快速修复行动"
+       "text": "remained afloat",
+       "meaning": "保持漂浮",
+       "note": "船舶状态"
       }
      ]
     },
     {
-     "en": "The incident highlights the growing risk of drone attacks on commercial shipping in the Baltic Sea.",
-     "zh": "此事件凸显了波罗的海地区商业航运面临的无人机袭击风险。",
+     "en": "Finnish authorities are investigating the incident and have requested satellite footage.",
+     "zh": "芬兰当局正在调查此事件，并已请求卫星影像。",
      "focus": [
       {
-       "text": "growing risk",
-       "meaning": "日益增加的风险",
-       "note": "强调风险上升"
+       "text": "investigating the incident",
+       "meaning": "正在调查事件",
+       "note": "官方行动"
       },
       {
-       "text": "commercial shipping",
-       "meaning": "商业航运",
-       "note": "指货运船只"
+       "text": "requested satellite footage",
+       "meaning": "请求卫星影像",
+       "note": "技术手段"
       }
      ]
     },
     {
-     "en": "Finnish authorities are investigating the attack and monitoring nearby maritime traffic closely.",
-     "zh": "芬兰当局正在调查此袭击，并密切监视附近海上交通。",
+     "en": "The attack comes amid heightened tensions between Russia and Ukraine over naval activity.",
+     "zh": "此次袭击发生在俄罗斯与乌克兰因海军行动而加剧紧张局势之际。",
      "focus": [
       {
-       "text": "investigating the attack",
-       "meaning": "调查袭击事件",
-       "note": "描述调查行动"
+       "text": "heightened tensions",
+       "meaning": "加剧的紧张局势",
+       "note": "国际关系"
       },
       {
-       "text": "monitoring nearby maritime traffic",
-       "meaning": "监视附近海上交通",
-       "note": "强调安全监控"
+       "text": "naval activity",
+       "meaning": "海军行动",
+       "note": "军事术语"
       }
      ]
     },
     {
-     "en": "Russia has not yet responded to the incident, but it may affect future shipping routes to the country.",
-     "zh": "俄罗斯尚未对此作出回应，但这可能影响未来驶往该国的航运路线。",
+     "en": "Experts say the incident could provoke a diplomatic response from Russia.",
+     "zh": "专家表示此事件可能引发俄罗斯的外交回应。",
      "focus": [
       {
-       "text": "has not yet responded",
-       "meaning": "尚未回应",
-       "note": "说明未作答复"
+       "text": "could provoke",
+       "meaning": "可能引发",
+       "note": "预测语气"
       },
       {
-       "text": "affect future shipping routes",
-       "meaning": "影响未来航运路线",
-       "note": "可能导致航线调整"
+       "text": "diplomatic response",
+       "meaning": "外交回应",
+       "note": "国际事务"
       }
      ]
     },
     {
-     "en": "Observers say this attack could prompt stricter security measures for vessels passing through the Gulf of Finland.",
-     "zh": "观察者表示，这次袭击可能促使通过芬兰湾的船只采取更严格的安全措施。",
+     "en": "Finnish media are monitoring the situation closely as more details emerge.",
+     "zh": "芬兰媒体正密切关注情况，随着更多细节出现。",
      "focus": [
       {
-       "text": "prompt stricter security measures",
-       "meaning": "促使更严格的安全措施",
-       "note": "描述可能的后果"
+       "text": "monitoring the situation closely",
+       "meaning": "密切监视情况",
+       "note": "新闻报道"
       },
       {
-       "text": "vessels passing through",
-       "meaning": "通过的船只",
-       "note": "指航行中的船舶"
+       "text": "as more details emerge",
+       "meaning": "随着更多细节出现",
+       "note": "信息更新"
+      }
+     ]
+    },
+    {
+     "en": "The incident highlights the risks faced by commercial vessels in conflict zones.",
+     "zh": "此事件凸显了冲突地区商业船只面临的风险。",
+     "focus": [
+      {
+       "text": "risks faced by commercial vessels",
+       "meaning": "商业船只面临的风险",
+       "note": "安全警示"
+      },
+      {
+       "text": "conflict zones",
+       "meaning": "冲突地区",
+       "note": "地缘政治"
+      }
+     ]
+    },
+    {
+     "en": "Observers will watch for any retaliation or escalation in the Baltic Sea region.",
+     "zh": "观察者将关注波罗的海地区是否有报复或升级。",
+     "focus": [
+      {
+       "text": "watch for any retaliation",
+       "meaning": "关注是否有报复",
+       "note": "情势观察"
+      },
+      {
+       "text": "escalation in the Baltic Sea region",
+       "meaning": "波罗的海地区升级",
+       "note": "地区安全"
       }
      ]
     }
    ],
    "quiz": [
     {
-     "q": "Which country is believed to be behind the drone attack on the ship?",
+     "q": "Which country is the ship heading to?",
      "options": [
+      "Ukraine",
       "Russia",
       "Finland",
-      "Ukraine",
-      "Germany"
+      "Norway"
+     ],
+     "answer": 1,
+     "explainZh": "船只驶往俄罗斯。"
+    },
+    {
+     "q": "What type of weapon was used in the attack?",
+     "options": [
+      "Missile",
+      "Torpedo",
+      "Drone",
+      "Gunfire"
      ],
      "answer": 2,
-     "explainZh": "芬兰防卫部队认为乌克兰很可能实施了这次袭击。"
+     "explainZh": "袭击使用了无人机。"
     }
    ]
   },
@@ -613,144 +1377,303 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
    "publishedAt": "2026-11-21T13:17:38.000Z",
-   "title": "Ukraine President Calls Crimea Bridge Strikes a Fair Response",
-   "titleZh": "乌克兰总统称克里米亚桥攻击是公平回应",
-   "summaryZh": "乌克兰总统称，基辅在遭受109次俄方空袭后，对克里米亚桥发起攻击，认为这是合理的报复。",
+   "title": "Ukraine President Calls Bridge Strikes a Fair Response",
+   "titleZh": "乌克兰总统称桥梁袭击是公平回应",
+   "summaryZh": "乌克兰总统称，基辅在俄罗斯对乌克兰桥梁的109次空袭后采取行动。",
    "level": "B2",
    "sentences": [
     {
-     "en": "President Volodymyr Zelensky said the strikes on the Crimean Bridge were a fair response to Russia's attacks.",
-     "zh": "乌克兰总统弗拉基米尔·泽连斯基表示，对克里米亚桥的攻击是对俄罗斯袭击的公平回应。",
+     "en": "President Zelenskiy said the strikes on the Crimean Bridge were a fair response to Russian attacks.",
+     "zh": "泽连斯基总统表示，对克里米亚桥的袭击是对俄罗斯攻击的公平回应。",
      "focus": [
       {
        "text": "fair response",
        "meaning": "公平回应",
-       "note": "用来形容行动的正当性"
+       "note": "常用来形容适当的反击"
+      },
+      {
+       "text": "Crimean Bridge",
+       "meaning": "克里米亚桥",
+       "note": "地名常用作名词短语"
       }
      ]
     },
     {
-     "en": "He met with UK Foreign Secretary James Cleverly to discuss the escalating tensions in the region.",
-     "zh": "他会见了英国外交大臣詹姆斯·克莱弗利，讨论该地区升级的紧张局势。",
+     "en": "He met with UK Foreign Secretary Jeremy Streeting to discuss the situation in Ukraine.",
+     "zh": "他与英国外交大臣杰里米·斯特里廷会面，讨论乌克兰局势。",
      "focus": [
       {
-       "text": "escalating tensions",
-       "meaning": "升级的紧张局势",
-       "note": "形容冲突升级"
+       "text": "discuss the situation",
+       "meaning": "讨论局势",
+       "note": "常见的议题表述"
       }
      ]
     },
     {
-     "en": "Zelensky cited 109 separate Russian aerial attacks on Ukrainian bridges as the trigger for his decision.",
-     "zh": "泽连斯基提到俄方对乌克兰桥梁进行的109次空袭是他决定的触发点。",
+     "en": "Zelenskiy highlighted that Kyiv had faced 109 separate Russian aerial attacks on bridges across the country.",
+     "zh": "泽连斯基强调，基辅已面临俄罗斯对全国桥梁的109次单独空袭。",
      "focus": [
       {
-       "text": "separate Russian aerial attacks",
-       "meaning": "单独的俄方空袭",
-       "note": "强调多起攻击"
+       "text": "aerial attacks",
+       "meaning": "空袭",
+       "note": "军事术语"
       }
      ]
     },
     {
-     "en": "The Crimean Bridge connects Russia to Crimea, a territory that Ukraine says remains under illegal occupation.",
-     "zh": "克里米亚桥连接俄罗斯与克里米亚，乌克兰认为该领土仍处于非法占领之下。",
+     "en": "He said that the Ukrainian military had responded with precision strikes to protect critical infrastructure.",
+     "zh": "他表示乌克兰军方已以精准打击回应，以保护关键基础设施。",
      "focus": [
       {
-       "text": "illegal occupation",
-       "meaning": "非法占领",
-       "note": "描述占领状态"
+       "text": "critical infrastructure",
+       "meaning": "关键基础设施",
+       "note": "常见的安全领域词汇"
       }
      ]
     },
     {
-     "en": "The bridge is a key supply route for Russian troops and supplies heading to eastern Ukraine.",
-     "zh": "该桥是俄罗斯部队和补给前往乌克兰东部的重要供应路线。",
+     "en": "The UK government praised Ukraine's resilience and offered additional military support.",
+     "zh": "英国政府赞扬乌克兰的韧性，并提供额外的军事支持。",
      "focus": [
       {
-       "text": "key supply route",
-       "meaning": "关键供应路线",
-       "note": "强调重要性"
+       "text": "resilience",
+       "meaning": "韧性",
+       "note": "形容国家或个人的坚韧"
+      },
+      {
+       "text": "additional military support",
+       "meaning": "额外军事支持",
+       "note": "外交援助常用表达"
       }
      ]
     },
     {
-     "en": "Ukraine argues that the attacks are aimed at disrupting Russia's war effort and protecting civilians.",
-     "zh": "乌克兰认为这些袭击旨在破坏俄罗斯的战争努力并保护平民。",
+     "en": "Zelenskiy urged the international community to continue sanctions against Russia.",
+     "zh": "泽连斯基敦促国际社会继续对俄罗斯实施制裁。",
      "focus": [
       {
-       "text": "protecting civilians",
-       "meaning": "保护平民",
-       "note": "强调人道关切"
+       "text": "international community",
+       "meaning": "国际社会",
+       "note": "常用的全球性表达"
+      },
+      {
+       "text": "sanctions against Russia",
+       "meaning": "对俄罗斯的制裁",
+       "note": "国际关系术语"
       }
      ]
     },
     {
-     "en": "The UK has pledged support for Ukraine's right to defend itself against aggression.",
-     "zh": "英国已承诺支持乌克兰抵御侵略的权利。",
+     "en": "He emphasized that every strike on a bridge would further weaken Russia's war effort.",
+     "zh": "他强调，每一次桥梁袭击都会进一步削弱俄罗斯的战争努力。",
      "focus": [
       {
-       "text": "right to defend itself",
-       "meaning": "自卫权",
-       "note": "强调合法性"
+       "text": "weaken Russia's war effort",
+       "meaning": "削弱俄罗斯的战争努力",
+       "note": "军事战略用语"
       }
      ]
     },
     {
-     "en": "International observers will watch for any further escalation or retaliation from either side.",
-     "zh": "国际观察者将关注双方是否进一步升级或报复。",
+     "en": "The meeting concluded with a pledge to coordinate future actions and share intelligence.",
+     "zh": "会议以承诺协调未来行动并共享情报结束。",
      "focus": [
       {
-       "text": "watch for any further escalation",
-       "meaning": "关注进一步升级",
-       "note": "描述监视行为"
+       "text": "coordinate future actions",
+       "meaning": "协调未来行动",
+       "note": "合作计划用语"
+      },
+      {
+       "text": "share intelligence",
+       "meaning": "共享情报",
+       "note": "情报合作常用表达"
       }
      ]
     },
     {
-     "en": "The next few days will be crucial as both nations prepare for potential new military actions.",
-     "zh": "未来几天将至关重要，因为双方正准备可能的新军事行动。",
+     "en": "Observers note that this exchange signals stronger ties between Ukraine and the UK.",
+     "zh": "观察人士指出，这次交流表明乌克兰与英国关系更紧密。",
      "focus": [
       {
-       "text": "prepare for potential new military actions",
-       "meaning": "准备可能的新军事行动",
-       "note": "描述准备工作"
+       "text": "stronger ties",
+       "meaning": "更紧密的关系",
+       "note": "外交关系常用表达"
       }
      ]
     },
     {
-     "en": "The global community is urging restraint, hoping to prevent a wider conflict in the region.",
-     "zh": "全球社会敦促克制，希望防止该地区更大范围的冲突。",
+     "en": "The next step will be monitoring the impact of these strikes on Russia's logistics network.",
+     "zh": "下一步将是监测这些袭击对俄罗斯物流网络的影响。",
+     "focus": []
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How many Russian aerial attacks on bridges did Ukraine face according to Zelenskiy?",
+     "options": [
+      "109",
+      "100",
+      "95",
+      "120"
+     ],
+     "answer": 0,
+     "explainZh": "泽连斯基提到的数字是109次。"
+    },
+    {
+     "q": "Which UK official met with Zelenskiy?",
+     "options": [
+      "Prime Minister",
+      "Foreign Secretary",
+      "Defense Secretary",
+      "Health Minister"
+     ],
+     "answer": 1,
+     "explainZh": "会议对象是英国外交大臣杰里米·斯特里廷。"
+    }
+   ]
+  },
+  {
+   "id": "1udq5hm",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+   "publishedAt": "2026-11-22T08:00:22.000Z",
+   "title": "Bank of England Directors Profited from Post‑Abolition Enslavement in Cuba",
+   "titleZh": "英国银行董事从古巴废奴后奴役中获利",
+   "summaryZh": "英国银行董事在奴隶制废除后，利用古巴奴隶劳工为英国工业发展谋利，显示奴隶贸易财富深植英国金融体系。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "New research shows that directors of the Bank of England illegally profited from slavery in Cuba after it was officially abolished.",
+     "zh": "新的研究显示，英国银行董事在古巴奴隶制正式废除后非法获利。",
+     "tip": "主干：research shows that directors...；听：注意连读 and weak forms of 'that' and 'in'",
+     "focus": []
+    },
+    {
+     "en": "The profits came from the Cobre Mining Company, a British‑led firm that extracted copper in Cuba.",
+     "zh": "利润来自英国主导的Cobre矿业公司，该公司在古巴提取铜矿。",
+     "tip": "主干：profits came from the Cobre Mining Company；听：关注 'came from' 的弱化和 'Cobre' 的发音",
      "focus": [
       {
-       "text": "urging restraint",
-       "meaning": "敦促克制",
-       "note": "表达呼吁"
+       "text": "Cobre Mining Company",
+       "meaning": "Cobre矿业公司",
+       "note": "企业名称"
+      }
+     ]
+    },
+    {
+     "en": "Copper from El Cobre mine supplied British factories during the Industrial Revolution.",
+     "zh": "El Cobre矿的铜为英国工业革命期间的工厂提供原料。",
+     "tip": "主干：Copper from El Cobre mine supplied...；听：注意 'El Cobre' 的连读和 'supplied' 的弱化",
+     "focus": [
+      {
+       "text": "Industrial Revolution",
+       "meaning": "工业革命",
+       "note": "历史时期"
+      }
+     ]
+    },
+    {
+     "en": "Workers at El Cobre were enslaved men and boys kept in prison conditions.",
+     "zh": "El Cobre的工人是被囚禁条件下的奴隶男子和男孩。",
+     "tip": "主干：Workers at El Cobre were enslaved...；听：注意 'were enslaved' 的弱化和 'prison conditions' 的强调",
+     "focus": [
+      {
+       "text": "enslaved men and boys",
+       "meaning": "被奴役的男子和男孩",
+       "note": "描述"
+      }
+     ]
+    },
+    {
+     "en": "These conditions were brutal, with little food, harsh labor, and no freedom.",
+     "zh": "这些条件残酷，食物稀少，劳动艰辛，毫无自由。",
+     "tip": "主干：These conditions were brutal...；听：关注 'brutal' 的重读和 'no freedom' 的弱化",
+     "focus": [
+      {
+       "text": "no freedom",
+       "meaning": "没有自由",
+       "note": "强调"
+      }
+     ]
+    },
+    {
+     "en": "The wealth from this exploitation entered Britain’s banks, enriching the country’s financial system.",
+     "zh": "这种剥削的财富进入英国银行，丰富了国家的金融体系。",
+     "tip": "主干：The wealth from this exploitation entered...；听：注意 'wealth' 的重读和 'entered' 的弱化",
+     "focus": []
+    },
+    {
+     "en": "Bank of England directors, many of whom served for decades, benefited from these profits.",
+     "zh": "英国银行董事，许多人任职数十年，从这些利润中获益。",
+     "tip": "主干：Bank of England directors...；听：注意 'benefited from' 的弱化和 'decades' 的重读",
+     "focus": [
+      {
+       "text": "benefited from these profits",
+       "meaning": "从这些利润中获益",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "The study highlights how slavery’s legacy still shapes modern finance.",
+     "zh": "该研究凸显奴隶制遗产仍在塑造现代金融。",
+     "tip": "主干：The study highlights how...；听：注意 'legacy' 的弱化和 'still shapes' 的重读",
+     "focus": [
+      {
+       "text": "shapes modern finance",
+       "meaning": "塑造现代金融",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Future investigations will look at other banks and companies linked to slave‑trade profits.",
+     "zh": "未来调查将关注与奴隶贸易利润相关的其他银行和公司。",
+     "tip": "主干：Future investigations will look at...；听：注意 'investigations' 的弱化和 'linked to' 的连读",
+     "focus": [
+      {
+       "text": "linked to slave‑trade profits",
+       "meaning": "与奴隶贸易利润相关",
+       "note": "短语"
+      }
+     ]
+    },
+    {
+     "en": "This research urges a re‑examination of Britain’s financial history and its moral responsibilities.",
+     "zh": "这项研究敦促重新审视英国金融史及其道德责任。",
+     "tip": "主干：This research urges a re‑examination...；听：注意 're‑examination' 的重读和 'moral responsibilities' 的弱化",
+     "focus": [
+      {
+       "text": "moral responsibilities",
+       "meaning": "道德责任",
+       "note": "名词短语"
       }
      ]
     }
    ],
    "quiz": [
     {
-     "q": "How many Russian aerial attacks on Ukrainian bridges did Zelensky mention before the Crimean Bridge strikes?",
+     "q": "Which company was responsible for extracting copper used by British factories?",
      "options": [
-      "109",
-      "99",
-      "119",
-      "79"
+      "Cobre Mining Company",
+      "British Bank Ltd",
+      "Santiago Mining Inc",
+      "Cuban Copper Co"
      ],
      "answer": 0,
-     "explainZh": "泽连斯基提到的俄方空袭次数是109次。"
+     "explainZh": "研究指出，Cobre矿业公司在古巴提取铜矿，供应英国工业。"
     },
     {
-     "q": "Which UK official did Zelensky meet to discuss the situation?",
+     "q": "What type of labor conditions were described at the El Cobre mine?",
      "options": [
-      "Prime Minister Rishi Sunak",
-      "Foreign Secretary James Cleverly",
-      "Defense Secretary Ben Wallace",
-      "Health Secretary Matt Hancock"
+      "Free trade",
+      "Voluntary apprenticeship",
+      "Enslaved in prison conditions",
+      "Modern factory work"
      ],
      "answer": 1,
-     "explainZh": "他会见的是英国外交大臣詹姆斯·克莱弗利。"
+     "explainZh": "文章说明El Cobre矿的工人是被囚禁条件下的奴隶。"
     }
    ]
   }
