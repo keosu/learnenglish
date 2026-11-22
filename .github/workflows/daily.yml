@@ -16,7 +16,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  models: read
 
 concurrency:
   group: pages
@@ -25,7 +24,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -39,8 +38,7 @@ jobs:
       - name: Generate lessons with free models
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.generate)
         continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        timeout-minutes: 40
         run: node scripts/news.mjs
 
       - name: Commit lessons

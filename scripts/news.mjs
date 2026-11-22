@@ -21,18 +21,10 @@ const FEEDS = {
 }
 const PICK = { ai: Number(process.env.NEWS_AI ?? 6), world: Number(process.env.NEWS_WORLD ?? 4) }
 const OUT = join(import.meta.dirname, '..', 'public', 'news')
-const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
-const only = process.env.NEWS_PROVIDER
+// Pollinations allows one anonymous reply per 45 s per IP, counted from the end of the previous reply.
 const providers = [
-  token && only !== 'pollinations' && {
-    name: 'GitHub Models',
-    model: process.env.NEWS_MODEL ?? 'openai/gpt-4.1-mini',
-    url: 'https://models.github.ai/inference/chat/completions',
-    headers: { authorization: `Bearer ${token}` },
-    gap: 4500,
-  },
   {
     name: 'Pollinations',
     model: 'openai',
@@ -40,7 +32,7 @@ const providers = [
     headers: {},
     gap: 46000,
   },
-].filter(Boolean)
+]
 
 const used = new Set()
 const readyAt = new Map()
