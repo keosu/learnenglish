@@ -1,62 +1,87 @@
-export type Topic = 'AI 前沿' | '软件开发' | '发布运维' | '数据实验' | '产品协作' | '技术沟通'
-export type Difficulty = '进阶' | '挑战'
+export type Category = 'ai' | 'world'
 
-export interface Expression {
-  id: string
-  phrase: string
+export interface Focus {
+  text: string
   meaning: string
-  note: string
-  example: string
-  relations: string[]
+  note?: string
 }
 
-export interface Exercise {
-  id: string
-  type: 'choice' | 'cloze' | 'order'
-  prompt: string
-  sentence: string
-  focus: string
+export interface Sentence {
+  en: string
+  zh: string
+  tip?: string
+  focus: Focus[]
+}
+
+export interface QuizItem {
+  q: string
   options: string[]
-  answer: string
-  explanation: string
+  answer: number
+  explainZh?: string
 }
 
-export interface Scene {
+export interface Article {
   id: string
+  category: Category
+  source: string
+  url: string
+  publishedAt: string | null
   title: string
-  subtitle: string
-  topic: Topic
-  difficulty: Difficulty
-  duration: number
-  icon: string
-  context: string
-  dialogue: { speaker: string; role: string; text: string }[]
-  expressions: string[]
-  exercises: Exercise[]
+  titleZh: string
+  summaryZh: string
+  level: string
+  sentences: Sentence[]
+  quiz: QuizItem[]
 }
 
-export interface LearningEvent {
-  id?: number
-  sceneId: string
-  expressionId?: string
-  kind: 'answer' | 'complete' | 'review'
-  correct?: boolean
-  confidence?: number
-  duration?: number
+export interface Day {
+  date: string
+  generatedAt: string
+  models: string[]
+  articles: Article[]
+}
+
+export interface DaySummary {
+  date: string
+  count: number
+  ai: number
+  world: number
+  sentences: number
+  headline: string
+}
+
+export interface NewsIndex {
+  latest: string
+  updatedAt: string
+  days: DaySummary[]
+}
+
+export interface Track {
+  key: string
+  date: string
+  articleId: string
+  articleTitle: string
+  category: Category
+  index: number
+  en: string
+  zh: string
+  tip?: string
+  focus: Focus[]
+}
+
+export interface Favorite extends Track {
+  id: string
+  kind: 'sentence' | 'phrase'
+  phrase?: string
+  meaning?: string
+  note?: string
   createdAt: string
 }
 
-export interface Mastery {
-  expressionId: string
-  score: number
-  stability: number
-  dueAt: string
-  reviews: number
-  lapses: number
-}
-
-export interface UserSettings {
-  dailyGoal: number
-  interests: Topic[]
-  joinedAt: string
+export interface Listen {
+  id?: number
+  key: string
+  day: string
+  articleId: string
+  at: string
 }

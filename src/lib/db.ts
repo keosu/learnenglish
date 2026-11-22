@@ -1,57 +1,54 @@
 import Dexie, { type EntityTable } from 'dexie'
-import type { LearningEvent, Mastery, UserSettings } from '../types'
+import type { Favorite, Listen, Track } from '../types'
 
-class ContextFlowDB extends Dexie {
-  events!: EntityTable<LearningEvent, 'id'>
-  mastery!: EntityTable<Mastery, 'expressionId'>
-  settings!: EntityTable<UserSettings & { id: string }, 'id'>
+class EchoDB extends Dexie {
+  favorites!: EntityTable<Favorite, 'id'>
+  listens!: EntityTable<Listen, 'id'>
 
   constructor() {
-    super('contextflow')
+    super('echo-news')
     this.version(1).stores({
-      events: '++id, sceneId, expressionId, kind, createdAt',
-      mastery: 'expressionId, dueAt, score',
-      settings: 'id',
+      favorites: 'id, kind, createdAt, date',
+      listens: '++id, key, day, articleId',
     })
   }
 }
 
-export const db = new ContextFlowDB()
+export const db = new EchoDB()
 
-export const defaultSettings: UserSettings = {
-  dailyGoal: 15,
-  interests: ['AI 前沿', '软件开发', '发布运维', '数据实验', '产品协作', '技术沟通'],
-  joinedAt: new Date().toISOString(),
+export const localDay = (date = new Date()) => {
+  const offset = date.getTimezoneOffset() * 60000
+  return new Date(date.getTime() - offset).toISOString().slice(0, 10)
 }
 
-export async function getSettings() {
-  const value = await db.settings.get('me')
-  return value ?? { ...defaultSettings, id: 'me' }
+export async function logListen(track: Track) {
+  await db.listens.add({ key: track.key, day: localDay(), articleId: track.articleId, at: new Date().toISOString() })
 }
 
-export async function exportData() {
-  return JSON.stringify({
-    version: 1,
-    exportedAt: new Date().toISOString(),
-    events: await db.events.toArray(),
-    mastery: await db.mastery.toArray(),
-    settings: await getSettings(),
-  }, null, 2)
+export function sentenceFavorite(track: Track): Favorite {
+  return { ...track, id: `s:${track.key}`, kind: 'sentence', createdAt: new Date().toISOString() }
 }
 
-export async function importData(raw: string) {
-  const data = JSON.parse(raw)
-  if (data.version !== 1 || !Array.isArray(data.events) || !Array.isArray(data.mastery)) throw new Error('不支持的数据文件')
-  await db.transaction('rw', [db.events, db.mastery, db.settings], async () => {
-    await Promise.all([db.events.clear(), db.mastery.clear(), db.settings.clear()])
-    await db.events.bulkAdd(data.events.map(({ id: _id, ...event }: LearningEvent) => event))
-    await db.mastery.bulkPut(data.mastery)
-    await db.settings.put({ ...defaultSettings, ...data.settings, id: 'me' })
-  })
+export function phraseFavorite(track: Track, phrase: string, meaning: string, note?: string): Favorite {
+  return { ...track, id: `p:${track.key}:${phrase.toLowerCase()}`, kind: 'phrase', phrase, meaning, note, createdAt: new Date().toISOString() }
 }
 
-export async function clearData() {
-  await db.transaction('rw', [db.events, db.mastery, db.settings], async () => {
-    await Promise.all([db.events.clear(), db.mastery.clear(), db.settings.clear()])
-  })
+export async function toggleFavorite(item: Favorite) {
+  if (await db.favorites.get(item.id)) await db.favorites.delete(item.id)
+  else await db.favorites.put(item)
+}
+
+export async function clearAll() {
+  await Promise.all([db.favorites.clear(), db.listens.clear()])
+}
+
+export function streak(days: Set<string>) {
+  let count = 0
+  const cursor = new Date()
+  if (!days.has(localDay(cursor))) cursor.setDate(cursor.getDate() - 1)
+  while (days.has(localDay(cursor))) {
+    count += 1
+    cursor.setDate(cursor.getDate() - 1)
+  }
+  return count
 }

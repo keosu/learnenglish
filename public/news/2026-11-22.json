@@ -1,0 +1,758 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T09:26:09.989Z",
+ "models": [
+  "Pollinations · openai"
+ ],
+ "articles": [
+  {
+   "id": "iz254l",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "publishedAt": "2026-11-20T19:32:08.000Z",
+   "title": "AI and Human Both Claim to Solve Riemann Hypothesis",
+   "titleZh": "人工智能与人类都声称解决黎曼猜想",
+   "summaryZh": "数学家们惊讶于AI的最新成果，也有竞争性的人类解答。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Scientists are stunned by a new AI system that claims to solve the 167‑year‑old Riemann hypothesis.",
+     "zh": "科学家们对一套新的人工智能系统声称解决了已有167年的黎曼猜想感到震惊。",
+     "focus": [
+      {
+       "text": "stunned by a new AI system",
+       "meaning": "被新的人工智能系统震惊",
+       "note": "形容极度惊讶"
+      },
+      {
+       "text": "solve the 167‑year‑old Riemann hypothesis",
+       "meaning": "解决已有167年的黎曼猜想",
+       "note": "强调时间长度"
+      }
+     ]
+    },
+    {
+     "en": "The algorithm, developed by researchers at a leading university, uses deep learning to analyze complex number patterns.",
+     "zh": "该算法由一家顶尖大学的研究人员开发，利用深度学习分析复杂数值模式。",
+     "focus": []
+    },
+    {
+     "en": "At the same time, a mathematician named Dr. Li has published a paper outlining a traditional proof of the hypothesis.",
+     "zh": "与此同时，一位名叫李博士的数学家发表了一篇论文，提出了传统的黎曼猜想证明。",
+     "focus": []
+    },
+    {
+     "en": "Both claims have been reviewed by peer experts, who say the AI’s result is promising but still unverified.",
+     "zh": "两项主张都已被同行专家审查，专家表示AI的结果有前景，但仍未得到验证。",
+     "focus": [
+      {
+       "text": "reviewed by peer experts",
+       "meaning": "由同行专家审查",
+       "note": "学术流程"
+      }
+     ]
+    },
+    {
+     "en": "The mathematician’s proof, meanwhile, follows classical methods and has passed initial scrutiny.",
+     "zh": "与此同时，数学家的证明遵循经典方法，并已通过初步审查。",
+     "focus": [
+      {
+       "text": "follows classical methods",
+       "meaning": "遵循经典方法",
+       "note": "传统方法"
+      }
+     ]
+    },
+    {
+     "en": "The Riemann hypothesis, which predicts patterns in prime numbers, has been a central challenge in mathematics for over a century.",
+     "zh": "黎曼猜想预测质数的模式，已成为数学中心挑战超过一百年。",
+     "focus": [
+      {
+       "text": "predicts patterns in prime numbers",
+       "meaning": "预测质数的模式",
+       "note": "核心内容"
+      }
+     ]
+    },
+    {
+     "en": "If either solution is confirmed, it could reshape number theory and impact cryptography, which relies on prime numbers.",
+     "zh": "如果任何一项解决方案得到确认，可能会重塑数论，并影响依赖质数的密码学。",
+     "focus": [
+      {
+       "text": "could reshape number theory",
+       "meaning": "可能重塑数论",
+       "note": "未来影响"
+      }
+     ]
+    },
+    {
+     "en": "Researchers will continue testing both approaches, and the mathematical community eagerly awaits a definitive verdict.",
+     "zh": "研究人员将继续测试两种方法，数学界热切期待最终判决。",
+     "focus": [
+      {
+       "text": "eagerly awaits a definitive verdict",
+       "meaning": "热切期待最终判决",
+       "note": "表达期待"
+      }
+     ]
+    },
+    {
+     "en": "Stay tuned as updates come from top journals and conferences in the coming months.",
+     "zh": "请关注未来几个月顶级期刊和会议的最新动态。",
+     "focus": [
+      {
+       "text": "Stay tuned as updates come",
+       "meaning": "请关注最新动态",
+       "note": "广播用语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main claim made by the AI system?",
+     "options": [
+      "It solved the Riemann hypothesis",
+      "It discovered a new prime number",
+      "It proved Fermat's Last Theorem",
+      "It solved the P versus NP problem"
+     ],
+     "answer": 0,
+     "explainZh": "AI声称已解决黎曼猜想。"
+    },
+    {
+     "q": "Which field would be most affected if the Riemann hypothesis is proven?",
+     "options": [
+      "Astronomy",
+      "Cryptography",
+      "Medicine",
+      "Art"
+     ],
+     "answer": 1,
+     "explainZh": "黎曼猜想与质数相关，影响密码学。"
+    }
+   ]
+  },
+  {
+   "id": "1a5jirw",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "publishedAt": "2026-11-21T21:37:10.000Z",
+   "title": "Signal Blocks Screenshots to Fight AI Surveillance Threat",
+   "titleZh": "Signal屏蔽截图以应对AI监控威胁",
+   "summaryZh": "Signal限制安卓和iOS用户截图功能，旨在抵御人工智能监控的存在性威胁。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Signal, the secure messaging app, has announced it will block screenshots on both Android and iOS devices.",
+     "zh": "Signal这款安全通讯应用宣布将在安卓和iOS设备上阻止截图功能。",
+     "focus": [
+      {
+       "text": "block screenshots",
+       "meaning": "阻止截图",
+       "note": "常用来描述禁止拍照或截屏的功能"
+      },
+      {
+       "text": "secure messaging app",
+       "meaning": "安全通讯应用",
+       "note": "强调隐私保护"
+      }
+     ]
+    },
+    {
+     "en": "The move comes after concerns that AI could analyze captured images and reconstruct private conversations.",
+     "zh": "此举是在担忧AI可能分析捕获的图像并重建私人对话后提出的。",
+     "focus": [
+      {
+       "text": "AI could analyze",
+       "meaning": "AI可能分析",
+       "note": "描述人工智能的分析能力"
+      },
+      {
+       "text": "reconstruct private conversations",
+       "meaning": "重建私人对话",
+       "note": "强调隐私泄露风险"
+      }
+     ]
+    },
+    {
+     "en": "Signal’s policy update will affect all users, regardless of their device or operating system.",
+     "zh": "Signal的政策更新将影响所有用户，无论他们使用哪种设备或操作系统。",
+     "focus": [
+      {
+       "text": "all users",
+       "meaning": "所有用户",
+       "note": "强调普遍适用性"
+      },
+      {
+       "text": "operating system",
+       "meaning": "操作系统",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "The company says the restriction is temporary, aimed at protecting user privacy until a better solution is found.",
+     "zh": "公司表示此限制是临时的，旨在保护用户隐私，直至找到更好的解决方案。",
+     "focus": [
+      {
+       "text": "temporary",
+       "meaning": "临时的",
+       "note": "表示短期措施"
+      },
+      {
+       "text": "protecting user privacy",
+       "meaning": "保护用户隐私",
+       "note": "强调隐私保护"
+      }
+     ]
+    },
+    {
+     "en": "Signal’s CEO, Brian Acton, said the decision reflects the company’s commitment to secure communication.",
+     "zh": "Signal的CEO布莱恩·阿克顿表示，此决定体现了公司对安全通讯的承诺。",
+     "focus": [
+      {
+       "text": "commitment to secure communication",
+       "meaning": "对安全通讯的承诺",
+       "note": "表达公司价值观"
+      }
+     ]
+    },
+    {
+     "en": "The restriction will be rolled out in the next app update, expected in the coming weeks.",
+     "zh": "此限制将在即将发布的下一次应用更新中推出，预计在未来几周内。",
+     "focus": [
+      {
+       "text": "rolled out",
+       "meaning": "推出",
+       "note": "常见的发布用语"
+      },
+      {
+       "text": "app update",
+       "meaning": "应用更新",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "Users can still share text, audio, and video messages, but not screenshots of the conversation.",
+     "zh": "用户仍可分享文本、音频和视频信息，但不能截图对话。",
+     "focus": [
+      {
+       "text": "share text, audio, and video messages",
+       "meaning": "分享文本、音频和视频信息",
+       "note": "描述功能"
+      }
+     ]
+    },
+    {
+     "en": "Privacy advocates welcome the move, citing the growing threat of AI-powered surveillance.",
+     "zh": "隐私倡导者欢迎此举，指出AI驱动的监控威胁日益增长。",
+     "focus": [
+      {
+       "text": "privacy advocates",
+       "meaning": "隐私倡导者",
+       "note": "指关注隐私的人士"
+      },
+      {
+       "text": "AI-powered surveillance",
+       "meaning": "AI驱动的监控",
+       "note": "描述技术威胁"
+      }
+     ]
+    },
+    {
+     "en": "Signal users should check the app’s settings to understand how the new restriction will affect their conversations.",
+     "zh": "Signal用户应检查应用设置，以了解新限制如何影响他们的对话。",
+     "focus": [
+      {
+       "text": "check the app’s settings",
+       "meaning": "检查应用设置",
+       "note": "常用的操作指令"
+      }
+     ]
+    },
+    {
+     "en": "The company will monitor the impact and may lift the restriction if it proves ineffective.",
+     "zh": "公司将监测影响，并可能在无效时解除限制。",
+     "focus": [
+      {
+       "text": "monitor the impact",
+       "meaning": "监测影响",
+       "note": "表示评估措施效果"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why has Signal decided to block screenshots?",
+     "options": [
+      "To reduce app size",
+      "To fight AI surveillance",
+      "To improve battery life",
+      "To comply with regulations"
+     ],
+     "answer": 1,
+     "explainZh": "Signal 之所以阻止截图，是为了抵御 AI 监控的存在性威胁。"
+    },
+    {
+     "q": "Which devices will be affected by the screenshot restriction?",
+     "options": [
+      "Only Android",
+      "Only iOS",
+      "Both Android and iOS",
+      "All mobile devices"
+     ],
+     "answer": 2,
+     "explainZh": "此限制将影响安卓和 iOS 两种设备的所有用户。"
+    }
+   ]
+  },
+  {
+   "id": "1k15esz",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-22T06:54:06.000Z",
+   "title": "Draft Deal Seeks to Save COP31 Negotiations",
+   "titleZh": "草案旨在挽救COP31谈判",
+   "summaryZh": "联合国COP31会议在土耳其进入第二天加班，国家间难以达成协议。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The COP31 climate summit in Turkey has entered a second day of overtime negotiations.",
+     "zh": "土耳其的COP31气候峰会已进入第二天的加班谈判。",
+     "focus": [
+      {
+       "text": "second day of overtime negotiations",
+       "meaning": "第二天的加班谈判",
+       "note": "用于描述会议延长时间"
+      }
+     ]
+    },
+    {
+     "en": "Countries are struggling to agree on a new draft deal that could prevent the talks from collapsing.",
+     "zh": "各国正努力就一项新的草案达成一致，以防谈判崩溃。",
+     "focus": [
+      {
+       "text": "new draft deal",
+       "meaning": "新的草案协议",
+       "note": "描述正在讨论的协议"
+      }
+     ]
+    },
+    {
+     "en": "The draft includes stronger emissions targets and clearer timelines for implementation.",
+     "zh": "该草案包含更严格的减排目标和更清晰的实施时间表。",
+     "focus": [
+      {
+       "text": "stronger emissions targets",
+       "meaning": "更严格的减排目标",
+       "note": "常用于气候谈判"
+      }
+     ]
+    },
+    {
+     "en": "It also calls for increased financial support for developing countries to adapt to climate change.",
+     "zh": "它还呼吁为发展中国家适应气候变化提供更多财政支持。",
+     "focus": [
+      {
+       "text": "financial support for developing countries",
+       "meaning": "为发展中国家提供财政支持",
+       "note": "国际援助常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The United Nations Secretary‑General has urged all parties to keep the summit on track.",
+     "zh": "联合国秘书长敦促所有各方保持峰会进度。",
+     "focus": [
+      {
+       "text": "keep the summit on track",
+       "meaning": "保持峰会进度",
+       "note": "会议管理常用短语"
+      }
+     ]
+    },
+    {
+     "en": "If the draft is accepted, it could set a precedent for future climate agreements.",
+     "zh": "如果草案被接受，它可能为未来的气候协议树立先例。",
+     "focus": [
+      {
+       "text": "set a precedent",
+       "meaning": "树立先例",
+       "note": "常用于法律和政策讨论"
+      }
+     ]
+    },
+    {
+     "en": "Opponents argue the deal lacks enforceable mechanisms and may delay action.",
+     "zh": "反对者认为该协议缺乏可执行机制，可能延迟行动。",
+     "focus": [
+      {
+       "text": "enforceable mechanisms",
+       "meaning": "可执行机制",
+       "note": "法律和政策讨论常用"
+      }
+     ]
+    },
+    {
+     "en": "World leaders will decide by the end of the week whether to adopt the proposal.",
+     "zh": "世界领导人将在本周末决定是否采纳该提案。",
+     "focus": [
+      {
+       "text": "by the end of the week",
+       "meaning": "本周末之前",
+       "note": "时间表达常用"
+      }
+     ]
+    },
+    {
+     "en": "The outcome will influence global climate policy and the next UN climate conference.",
+     "zh": "结果将影响全球气候政策和下一届联合国气候会议。",
+     "focus": [
+      {
+       "text": "global climate policy",
+       "meaning": "全球气候政策",
+       "note": "政策讨论常用"
+      }
+     ]
+    },
+    {
+     "en": "Stay tuned for updates as the summit moves toward a final agreement.",
+     "zh": "请关注更新，随着峰会向最终协议推进。",
+     "focus": [
+      {
+       "text": "stay tuned for updates",
+       "meaning": "请关注更新",
+       "note": "广播常用表达"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main purpose of the new draft deal discussed at COP31?",
+     "options": [
+      "To increase financial aid for developed countries",
+      "To prevent the collapse of negotiations",
+      "To reduce the summit's duration",
+      "To postpone climate action"
+     ],
+     "answer": 1,
+     "explainZh": "该草案旨在防止谈判崩溃。"
+    },
+    {
+     "q": "Which of the following is NOT mentioned as part of the draft deal?",
+     "options": [
+      "Stronger emissions targets",
+      "Clearer implementation timelines",
+      "Enforceable mechanisms",
+      "Increased financial support"
+     ],
+     "answer": 2,
+     "explainZh": "文中未提到可执行机制是草案的一部分。"
+    }
+   ]
+  },
+  {
+   "id": "tcazom",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-21T19:20:22.000Z",
+   "title": "Russia-bound Ship Attacked in Gulf of Finland",
+   "titleZh": "俄罗斯船只在芬兰湾遭遇袭击",
+   "summaryZh": "一艘驶往俄罗斯的船只在芬兰湾被无人机攻击，芬兰防卫部队怀疑乌克兰负责。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "A cargo ship heading to Russia was struck by a drone in the Gulf of Finland yesterday.",
+     "zh": "一艘驶往俄罗斯的货船在昨天的芬兰湾被无人机击中。",
+     "focus": [
+      {
+       "text": "cargo ship",
+       "meaning": "货船",
+       "note": "常用于描述运输货物的船只"
+      }
+     ]
+    },
+    {
+     "en": "Finnish defence forces say the attack was likely carried out by Ukraine.",
+     "zh": "芬兰防卫部队表示，这次袭击很可能是乌克兰实施的。",
+     "focus": [
+      {
+       "text": "likely carried out",
+       "meaning": "很可能实施",
+       "note": "用来表达推测的可能性"
+      },
+      {
+       "text": "by Ukraine",
+       "meaning": "由乌克兰",
+       "note": "指责任方"
+      }
+     ]
+    },
+    {
+     "en": "The vessel was en route to a Russian port when the drone struck its side.",
+     "zh": "船只正驶向俄罗斯港口时，被无人机击中侧面。",
+     "focus": [
+      {
+       "text": "en route to",
+       "meaning": "驶往",
+       "note": "描述航行方向"
+      },
+      {
+       "text": "struck its side",
+       "meaning": "击中侧面",
+       "note": "形容攻击位置"
+      }
+     ]
+    },
+    {
+     "en": "No crew members were injured, and the ship continued its journey after emergency repairs.",
+     "zh": "船员未受伤，船只在紧急修理后继续航行。",
+     "focus": [
+      {
+       "text": "no crew members were injured",
+       "meaning": "船员未受伤",
+       "note": "说明人员安全"
+      },
+      {
+       "text": "emergency repairs",
+       "meaning": "紧急修理",
+       "note": "快速修复行动"
+      }
+     ]
+    },
+    {
+     "en": "The incident highlights the growing risk of drone attacks on commercial shipping in the Baltic Sea.",
+     "zh": "此事件凸显了波罗的海地区商业航运面临的无人机袭击风险。",
+     "focus": [
+      {
+       "text": "growing risk",
+       "meaning": "日益增加的风险",
+       "note": "强调风险上升"
+      },
+      {
+       "text": "commercial shipping",
+       "meaning": "商业航运",
+       "note": "指货运船只"
+      }
+     ]
+    },
+    {
+     "en": "Finnish authorities are investigating the attack and monitoring nearby maritime traffic closely.",
+     "zh": "芬兰当局正在调查此袭击，并密切监视附近海上交通。",
+     "focus": [
+      {
+       "text": "investigating the attack",
+       "meaning": "调查袭击事件",
+       "note": "描述调查行动"
+      },
+      {
+       "text": "monitoring nearby maritime traffic",
+       "meaning": "监视附近海上交通",
+       "note": "强调安全监控"
+      }
+     ]
+    },
+    {
+     "en": "Russia has not yet responded to the incident, but it may affect future shipping routes to the country.",
+     "zh": "俄罗斯尚未对此作出回应，但这可能影响未来驶往该国的航运路线。",
+     "focus": [
+      {
+       "text": "has not yet responded",
+       "meaning": "尚未回应",
+       "note": "说明未作答复"
+      },
+      {
+       "text": "affect future shipping routes",
+       "meaning": "影响未来航运路线",
+       "note": "可能导致航线调整"
+      }
+     ]
+    },
+    {
+     "en": "Observers say this attack could prompt stricter security measures for vessels passing through the Gulf of Finland.",
+     "zh": "观察者表示，这次袭击可能促使通过芬兰湾的船只采取更严格的安全措施。",
+     "focus": [
+      {
+       "text": "prompt stricter security measures",
+       "meaning": "促使更严格的安全措施",
+       "note": "描述可能的后果"
+      },
+      {
+       "text": "vessels passing through",
+       "meaning": "通过的船只",
+       "note": "指航行中的船舶"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which country is believed to be behind the drone attack on the ship?",
+     "options": [
+      "Russia",
+      "Finland",
+      "Ukraine",
+      "Germany"
+     ],
+     "answer": 2,
+     "explainZh": "芬兰防卫部队认为乌克兰很可能实施了这次袭击。"
+    }
+   ]
+  },
+  {
+   "id": "3f4bie",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-21T13:17:38.000Z",
+   "title": "Ukraine President Calls Crimea Bridge Strikes a Fair Response",
+   "titleZh": "乌克兰总统称克里米亚桥攻击是公平回应",
+   "summaryZh": "乌克兰总统称，基辅在遭受109次俄方空袭后，对克里米亚桥发起攻击，认为这是合理的报复。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "President Volodymyr Zelensky said the strikes on the Crimean Bridge were a fair response to Russia's attacks.",
+     "zh": "乌克兰总统弗拉基米尔·泽连斯基表示，对克里米亚桥的攻击是对俄罗斯袭击的公平回应。",
+     "focus": [
+      {
+       "text": "fair response",
+       "meaning": "公平回应",
+       "note": "用来形容行动的正当性"
+      }
+     ]
+    },
+    {
+     "en": "He met with UK Foreign Secretary James Cleverly to discuss the escalating tensions in the region.",
+     "zh": "他会见了英国外交大臣詹姆斯·克莱弗利，讨论该地区升级的紧张局势。",
+     "focus": [
+      {
+       "text": "escalating tensions",
+       "meaning": "升级的紧张局势",
+       "note": "形容冲突升级"
+      }
+     ]
+    },
+    {
+     "en": "Zelensky cited 109 separate Russian aerial attacks on Ukrainian bridges as the trigger for his decision.",
+     "zh": "泽连斯基提到俄方对乌克兰桥梁进行的109次空袭是他决定的触发点。",
+     "focus": [
+      {
+       "text": "separate Russian aerial attacks",
+       "meaning": "单独的俄方空袭",
+       "note": "强调多起攻击"
+      }
+     ]
+    },
+    {
+     "en": "The Crimean Bridge connects Russia to Crimea, a territory that Ukraine says remains under illegal occupation.",
+     "zh": "克里米亚桥连接俄罗斯与克里米亚，乌克兰认为该领土仍处于非法占领之下。",
+     "focus": [
+      {
+       "text": "illegal occupation",
+       "meaning": "非法占领",
+       "note": "描述占领状态"
+      }
+     ]
+    },
+    {
+     "en": "The bridge is a key supply route for Russian troops and supplies heading to eastern Ukraine.",
+     "zh": "该桥是俄罗斯部队和补给前往乌克兰东部的重要供应路线。",
+     "focus": [
+      {
+       "text": "key supply route",
+       "meaning": "关键供应路线",
+       "note": "强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "Ukraine argues that the attacks are aimed at disrupting Russia's war effort and protecting civilians.",
+     "zh": "乌克兰认为这些袭击旨在破坏俄罗斯的战争努力并保护平民。",
+     "focus": [
+      {
+       "text": "protecting civilians",
+       "meaning": "保护平民",
+       "note": "强调人道关切"
+      }
+     ]
+    },
+    {
+     "en": "The UK has pledged support for Ukraine's right to defend itself against aggression.",
+     "zh": "英国已承诺支持乌克兰抵御侵略的权利。",
+     "focus": [
+      {
+       "text": "right to defend itself",
+       "meaning": "自卫权",
+       "note": "强调合法性"
+      }
+     ]
+    },
+    {
+     "en": "International observers will watch for any further escalation or retaliation from either side.",
+     "zh": "国际观察者将关注双方是否进一步升级或报复。",
+     "focus": [
+      {
+       "text": "watch for any further escalation",
+       "meaning": "关注进一步升级",
+       "note": "描述监视行为"
+      }
+     ]
+    },
+    {
+     "en": "The next few days will be crucial as both nations prepare for potential new military actions.",
+     "zh": "未来几天将至关重要，因为双方正准备可能的新军事行动。",
+     "focus": [
+      {
+       "text": "prepare for potential new military actions",
+       "meaning": "准备可能的新军事行动",
+       "note": "描述准备工作"
+      }
+     ]
+    },
+    {
+     "en": "The global community is urging restraint, hoping to prevent a wider conflict in the region.",
+     "zh": "全球社会敦促克制，希望防止该地区更大范围的冲突。",
+     "focus": [
+      {
+       "text": "urging restraint",
+       "meaning": "敦促克制",
+       "note": "表达呼吁"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How many Russian aerial attacks on Ukrainian bridges did Zelensky mention before the Crimean Bridge strikes?",
+     "options": [
+      "109",
+      "99",
+      "119",
+      "79"
+     ],
+     "answer": 0,
+     "explainZh": "泽连斯基提到的俄方空袭次数是109次。"
+    },
+    {
+     "q": "Which UK official did Zelensky meet to discuss the situation?",
+     "options": [
+      "Prime Minister Rishi Sunak",
+      "Foreign Secretary James Cleverly",
+      "Defense Secretary Ben Wallace",
+      "Health Secretary Matt Hancock"
+     ],
+     "answer": 1,
+     "explainZh": "他会见的是英国外交大臣詹姆斯·克莱弗利。"
+    }
+   ]
+  }
+ ]
+}
