@@ -1,0 +1,1575 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T02:59:02.655Z",
+ "models": [
+  "Pollinations · openai"
+ ],
+ "articles": [
+  {
+   "id": "1lnqh7j",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "publishedAt": "2026-11-23T01:25:53.000Z",
+   "title": "Three major investors bet billions on Anthropic before its IPO",
+   "titleZh": "三大投资者在Anthropic IPO前押注数十亿美元",
+   "summaryZh": "三家机构对Anthropic的信心来自其技术实力和市场潜力。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Three major investors, Notable Capital, GIC, and Baillie Gifford, invested billions in Anthropic before its public offering.",
+     "zh": "三大投资者——Notable Capital、GIC和Baillie Gifford，在Anthropic公开募股前投入数十亿美元。",
+     "focus": [
+      {
+       "text": "invested billions",
+       "meaning": "投入数十亿美元",
+       "note": "常用短语"
+      },
+      {
+       "text": "before its public offering",
+       "meaning": "在公开募股之前",
+       "note": "时间状语"
+      }
+     ]
+    },
+    {
+     "en": "They were convinced Anthropic’s advanced AI models could outperform competitors in safety and performance.",
+     "zh": "他们确信Anthropic的先进AI模型在安全性和性能上能超越竞争对手。",
+     "focus": [
+      {
+       "text": "convinced",
+       "meaning": "确信",
+       "note": "形容词"
+      },
+      {
+       "text": "outperform competitors",
+       "meaning": "超越竞争对手",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "The company’s founders, including former OpenAI researchers, brought deep expertise to the team.",
+     "zh": "该公司的创始人，包括前OpenAI研究员，为团队带来了深厚的专业知识。",
+     "focus": [
+      {
+       "text": "former OpenAI researchers",
+       "meaning": "前OpenAI研究员",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Notable Capital highlighted Anthropic’s commitment to responsible AI as a key differentiator.",
+     "zh": "Notable Capital 强调Anthropic对负责任AI的承诺是一个关键差异点。",
+     "focus": [
+      {
+       "text": "responsible AI",
+       "meaning": "负责任AI",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "GIC noted the company’s strong partnership with major cloud providers, ensuring robust infrastructure.",
+     "zh": "GIC 指出公司与主要云服务商的强大合作，确保了可靠的基础设施。",
+     "focus": [
+      {
+       "text": "strong partnership",
+       "meaning": "强大合作",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Baillie Gifford praised Anthropic’s transparent governance, which builds trust among users and regulators.",
+     "zh": "Baillie Gifford 称赞Anthropic的透明治理，建立了用户和监管机构的信任。",
+     "focus": [
+      {
+       "text": "transparent governance",
+       "meaning": "透明治理",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "All three investors saw a growing demand for safer AI tools in both enterprise and consumer markets.",
+     "zh": "所有三位投资者都看到企业和消费者市场对更安全AI工具的需求日益增长。",
+     "focus": [
+      {
+       "text": "growing demand",
+       "meaning": "需求增长",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Their investments also aimed to support Anthropic’s roadmap for expanding model capabilities and user accessibility.",
+     "zh": "他们的投资还旨在支持Anthropic扩展模型能力和用户可访问性的路线图。",
+     "focus": [
+      {
+       "text": "roadmap for expanding",
+       "meaning": "扩展路线图",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "The IPO, scheduled for early 2027, will test whether the market rewards Anthropic’s vision and technology.",
+     "zh": "预计2027年初的IPO将检验市场是否奖励Anthropic的愿景和技术。",
+     "focus": [
+      {
+       "text": "scheduled for early 2027",
+       "meaning": "预计在2027年初",
+       "note": "时间状语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Which aspect did Notable Capital emphasize about Anthropic?",
+     "options": [
+      "Its marketing strategy",
+      "Its commitment to responsible AI",
+      "Its pricing model",
+      "Its office location"
+     ],
+     "answer": 1,
+     "explainZh": "Notable Capital 强调了 Anthropic 对负责任 AI 的承诺。"
+    },
+    {
+     "q": "What is a common theme among the three investors' reasons to invest?",
+     "options": [
+      "They all value cost-cutting",
+      "They all focus on cloud partnerships",
+      "They all prioritize safety and transparency",
+      "They all aim for short-term profits"
+     ],
+     "answer": 2,
+     "explainZh": "三位投资者都重视安全性和透明度。"
+    }
+   ]
+  },
+  {
+   "id": "1dqwghf",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "publishedAt": "2026-11-22T21:14:07.000Z",
+   "title": "OpenAI Chief Scientist Suggests Speed Limits for AI Development",
+   "titleZh": "OpenAI首席科学家建议为AI发展设定速度限制",
+   "summaryZh": "OpenAI首席科学家提出，要限制AI发展速度，首先需要统一衡量速度的方法。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "OpenAI’s chief scientist said we need a speed limit on AI development.",
+     "zh": "OpenAI的首席科学家表示，我们需要为AI发展设定速度限制。",
+     "tip": "主干：OpenAI’s chief scientist said…；听：注意弱化的动词said，连读。",
+     "focus": [
+      {
+       "text": "speed limit on AI development",
+       "meaning": "AI发展的速度限制",
+       "note": "常用来讨论技术进步的节奏"
+      }
+     ]
+    },
+    {
+     "en": "He explained that to set a limit, we must first agree on how to measure speed.",
+     "zh": "他解释说，要设定限制，首先我们必须同意如何衡量速度。",
+     "tip": "主干：He explained that…；听：注意连读 on how to measure。",
+     "focus": [
+      {
+       "text": "measure speed",
+       "meaning": "衡量速度",
+       "note": "常用于评估进度"
+      }
+     ]
+    },
+    {
+     "en": "The scientist highlighted that different AI systems run at varying speeds, causing confusion.",
+     "zh": "该科学家强调，不同的AI系统运行速度不同，导致混乱。",
+     "tip": "主干：The scientist highlighted that…；听：注意弱化的动词highlighted。",
+     "focus": [
+      {
+       "text": "varying speeds",
+       "meaning": "不同速度",
+       "note": "形容多样的速度"
+      }
+     ]
+    },
+    {
+     "en": "He said clear metrics would help regulators set fair and consistent rules.",
+     "zh": "他说，清晰的指标将帮助监管者制定公平一致的规则。",
+     "tip": "主干：He said clear metrics…；听：注意连读 clear metrics。",
+     "focus": [
+      {
+       "text": "clear metrics",
+       "meaning": "清晰的指标",
+       "note": "用于评估标准"
+      }
+     ]
+    },
+    {
+     "en": "The idea follows a growing global debate about AI safety and ethics.",
+     "zh": "这一想法源于全球关于AI安全与伦理的日益激烈的辩论。",
+     "tip": "主干：The idea follows…；听：注意弱化的动词follows。",
+     "focus": [
+      {
+       "text": "AI safety and ethics",
+       "meaning": "AI安全与伦理",
+       "note": "常见讨论主题"
+      }
+     ]
+    },
+    {
+     "en": "Experts say setting a speed limit could prevent runaway AI progress.",
+     "zh": "专家们表示，设定速度限制可能防止AI快速失控。",
+     "tip": "主干：Experts say setting…；听：注意连读 setting a speed limit。",
+     "focus": [
+      {
+       "text": "runaway AI progress",
+       "meaning": "失控的AI进步",
+       "note": "形容过快发展"
+      }
+     ]
+    },
+    {
+     "en": "The scientist urged governments to collaborate on a global standard for AI speed.",
+     "zh": "该科学家敦促各国政府合作制定AI速度的全球标准。",
+     "tip": "主干：The scientist urged…；听：注意弱化的动词urged。",
+     "focus": [
+      {
+       "text": "global standard for AI speed",
+       "meaning": "AI速度的全球标准",
+       "note": "国际合作目标"
+      }
+     ]
+    },
+    {
+     "en": "Next, researchers will test different measurement methods in simulated environments.",
+     "zh": "接下来，研究人员将在模拟环境中测试不同的测量方法。",
+     "tip": "主干：Next, researchers will test…；听：注意连读 different measurement methods。",
+     "focus": [
+      {
+       "text": "simulated environments",
+       "meaning": "模拟环境",
+       "note": "实验场景"
+      }
+     ]
+    },
+    {
+     "en": "The results could shape future policies on how fast AI can safely evolve.",
+     "zh": "结果可能决定未来关于AI安全演进速度的政策。",
+     "tip": "主干：The results could shape…；听：注意弱化的动词could。",
+     "focus": [
+      {
+       "text": "how fast AI can safely evolve",
+       "meaning": "AI能安全演进的速度",
+       "note": "政策制定关键点"
+      }
+     ]
+    },
+    {
+     "en": "Stay tuned as the debate continues and new guidelines emerge.",
+     "zh": "请继续关注，随着辩论持续，新的准则将出现。",
+     "tip": "主干：Stay tuned as…；听：注意连读 stay tuned as。",
+     "focus": [
+      {
+       "text": "new guidelines emerge",
+       "meaning": "新的准则出现",
+       "note": "未来发展预告"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What does the scientist suggest is needed before setting a speed limit on AI?",
+     "options": [
+      "A new AI model",
+      "A global treaty",
+      "Clear metrics",
+      "More funding"
+     ],
+     "answer": 2,
+     "explainZh": "他认为需要先制定清晰的衡量速度的指标。"
+    },
+    {
+     "q": "Which area is NOT mentioned as a concern in the briefing?",
+     "options": [
+      "AI safety",
+      "Ethics",
+      "Economic impact",
+      "Global collaboration"
+     ],
+     "answer": 2,
+     "explainZh": "演讲中未提及经济影响。"
+    }
+   ]
+  },
+  {
+   "id": "k4fs4w",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "publishedAt": "2026-11-21T21:07:42.000Z",
+   "title": "Nvidia’s Earnings vs. Calls for CEO Return",
+   "titleZh": "英伟达：财报与CEO回归呼声",
+   "summaryZh": "英伟达公布最新财报，业绩表现与行业预期不同；与此同时，部分技术高管公开呼吁CEO黄仁勋重返公司。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Nvidia released its quarterly earnings report, showing higher revenue but lower profit than analysts expected.",
+     "zh": "英伟达公布季度财报，收入较高但利润低于分析师预期。",
+     "tip": "主干：Nvidia released its quarterly earnings report；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "quarterly earnings report",
+       "meaning": "季度财报",
+       "note": "常用短语"
+      },
+      {
+       "text": "higher revenue",
+       "meaning": "更高收入",
+       "note": "形容词+名词"
+      },
+      {
+       "text": "lower profit",
+       "meaning": "更低利润",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "The company’s shares fell by about 3 percent in after‑market trading.",
+     "zh": "公司股价在盘后交易中下跌约3%。",
+     "tip": "主干：The company’s shares fell；听：连读的所有格与动词过去式。",
+     "focus": [
+      {
+       "text": "shares fell",
+       "meaning": "股价下跌",
+       "note": "常用表达"
+      },
+      {
+       "text": "after‑market trading",
+       "meaning": "盘后交易",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Meanwhile, several top tech executives publicly urged Jensen Huang to return as CEO.",
+     "zh": "与此同时，数位顶尖技术高管公开呼吁黄仁勋重返CEO职位。",
+     "tip": "主干：Meanwhile, several top tech executives urged；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "publicly urged",
+       "meaning": "公开呼吁",
+       "note": "动词短语"
+      },
+      {
+       "text": "Jensen Huang",
+       "meaning": "黄仁勋",
+       "note": "人名"
+      },
+      {
+       "text": "return as CEO",
+       "meaning": "重返CEO职位",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "They said Huang’s leadership was essential for guiding Nvidia’s AI strategy and maintaining investor confidence.",
+     "zh": "他们表示黄的领导对引导英伟达AI战略和维持投资者信心至关重要。",
+     "tip": "主干：They said Huang’s leadership was essential；听：弱化的冠词和连读。",
+     "focus": [
+      {
+       "text": "essential for guiding",
+       "meaning": "对……至关重要",
+       "note": "形容词短语"
+      },
+      {
+       "text": "AI strategy",
+       "meaning": "AI战略",
+       "note": "名词短语"
+      },
+      {
+       "text": "investor confidence",
+       "meaning": "投资者信心",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Nvidia’s board has not yet responded to the executives’ request.",
+     "zh": "英伟达董事会尚未回应高管的请求。",
+     "tip": "主干：Nvidia’s board has not yet responded；听：注意所有格和过去完成时。",
+     "focus": [
+      {
+       "text": "has not yet responded",
+       "meaning": "尚未回应",
+       "note": "现在完成时"
+      }
+     ]
+    },
+    {
+     "en": "Analysts warn that a leadership change could add uncertainty to an already volatile market.",
+     "zh": "分析师警告，领导层变动可能给本已波动的市场增添不确定性。",
+     "tip": "主干：Analysts warn that a leadership change could add；听：弱化的冠词和连读。",
+     "focus": [
+      {
+       "text": "leadership change",
+       "meaning": "领导层变动",
+       "note": "名词短语"
+      },
+      {
+       "text": "volatile market",
+       "meaning": "波动市场",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "The tech community is watching closely, hoping the board will act swiftly to reassure investors.",
+     "zh": "技术界密切关注，希望董事会迅速行动以安抚投资者。",
+     "tip": "主干：The tech community is watching closely；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "watching closely",
+       "meaning": "密切关注",
+       "note": "动词短语"
+      },
+      {
+       "text": "reassure investors",
+       "meaning": "安抚投资者",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Investors will be looking for a formal statement from Nvidia later this week.",
+     "zh": "投资者将会在本周晚些时候关注英伟达的正式声明。",
+     "tip": "主干：Investors will be looking for a formal statement；听：注意未来式和连读。",
+     "focus": [
+      {
+       "text": "formal statement",
+       "meaning": "正式声明",
+       "note": "名词短语"
+      },
+      {
+       "text": "later this week",
+       "meaning": "本周晚些时候",
+       "note": "时间短语"
+      }
+     ]
+    },
+    {
+     "en": "If the board delays, market volatility could rise, affecting Nvidia’s stock and the broader AI sector.",
+     "zh": "如果董事会延迟，市场波动可能上升，影响英伟达股价和更广泛的AI行业。",
+     "tip": "主干：If the board delays, market volatility could rise；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "market volatility",
+       "meaning": "市场波动",
+       "note": "名词短语"
+      },
+      {
+       "text": "broader AI sector",
+       "meaning": "更广泛的AI行业",
+       "note": "形容词+名词"
+      }
+     ]
+    },
+    {
+     "en": "Stay tuned for updates as Nvidia’s leadership debate continues to unfold.",
+     "zh": "请持续关注英伟达领导层争论的进一步发展。",
+     "tip": "主干：Stay tuned for updates；听：连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "Stay tuned",
+       "meaning": "请持续关注",
+       "note": "动词短语"
+      },
+      {
+       "text": "as Nvidia’s leadership debate continues",
+       "meaning": "英伟达领导层争论继续",
+       "note": "名词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main reason some executives called for Jensen Huang’s return?",
+     "options": [
+      "To improve sales",
+      "To guide AI strategy",
+      "To cut costs",
+      "To launch a new product"
+     ],
+     "answer": 1,
+     "explainZh": "他们认为黄的领导对AI战略至关重要。"
+    },
+    {
+     "q": "How did Nvidia’s stock react after the earnings report?",
+     "options": [
+      "It rose 5%",
+      "It fell 3%",
+      "It stayed the same",
+      "It doubled"
+     ],
+     "answer": 1,
+     "explainZh": "股价在盘后交易中下跌约3%。"
+    }
+   ]
+  },
+  {
+   "id": "48ss9z",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "publishedAt": "2026-11-21T15:00:00.000Z",
+   "title": "Anthropic Goes Public: Can It Prioritize Safety?",
+   "titleZh": "Anthropic上市：能否把安全放在首位？",
+   "summaryZh": "Anthropic的AI实验室Claude上市，讨论其是否能在盈利与安全之间取得平衡。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Anthropic, the company behind the Claude AI model, has just listed on the Nasdaq stock exchange.",
+     "zh": "Anthropic，Claude AI模型的背后公司，刚刚在纳斯达克上市。",
+     "tip": "主干：Anthropic ... listed on the Nasdaq；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "listed on the Nasdaq",
+       "meaning": "在纳斯达克上市",
+       "note": "常用的上市表述"
+      }
+     ]
+    },
+    {
+     "en": "The IPO raised billions of dollars, but the exact figures are not the focus of today’s discussion.",
+     "zh": "首次公开募股筹集了数十亿美元，但今天的讨论重点不是具体数字。",
+     "tip": "主干：The IPO raised billions; 听：注意强读的“raised”。",
+     "focus": [
+      {
+       "text": "raised billions of dollars",
+       "meaning": "筹集数十亿美元",
+       "note": "强调筹资规模"
+      }
+     ]
+    },
+    {
+     "en": "Hayden Field, a senior AI reporter for The Verge, is speaking with the company’s executives about future plans.",
+     "zh": "The Verge的高级AI记者Hayden Field正与公司高管交谈未来计划。",
+     "tip": "主干：Hayden Field ... speaking with ... executives；听：注意名词短语的连读。",
+     "focus": []
+    },
+    {
+     "en": "One key question is whether Anthropic can maintain a strong focus on safety while also meeting investor expectations.",
+     "zh": "一个关键问题是Anthropic是否能在满足投资者期望的同时，保持对安全的强烈关注。",
+     "tip": "主干：One key question ... can maintain a strong focus on safety；听：注意“can maintain”的弱化。",
+     "focus": [
+      {
+       "text": "maintain a strong focus on safety",
+       "meaning": "保持对安全的强烈关注",
+       "note": "强调持续关注"
+      }
+     ]
+    },
+    {
+     "en": "The company has already announced plans to invest heavily in safety research and development.",
+     "zh": "该公司已宣布计划在安全研发上大量投资。",
+     "tip": "主干：The company ... announced plans to invest heavily; 听：注意“invest heavily”的连读。",
+     "focus": [
+      {
+       "text": "invest heavily in safety research",
+       "meaning": "在安全研发上大量投资",
+       "note": "常见投资表述"
+      }
+     ]
+    },
+    {
+     "en": "Experts say that balancing profit and safety is a major challenge for all AI firms in the market.",
+     "zh": "专家表示，在市场上，平衡利润与安全是所有AI公司面临的主要挑战。",
+     "tip": "主干：Experts say ... balancing profit and safety is a major challenge；听：注意“balancing”的弱化。",
+     "focus": [
+      {
+       "text": "balancing profit and safety",
+       "meaning": "平衡利润与安全",
+       "note": "行业常用术语"
+      }
+     ]
+    },
+    {
+     "en": "Anthropic’s leadership believes that a clear safety roadmap will help attract long‑term investors.",
+     "zh": "Anthropic的领导层认为，明确的安全路线图有助于吸引长期投资者。",
+     "tip": "主干：Anthropic’s leadership ... believes that a clear safety roadmap；听：注意“long‑term investors”的连读。",
+     "focus": [
+      {
+       "text": "clear safety roadmap",
+       "meaning": "清晰的安全路线图",
+       "note": "战略规划用语"
+      }
+     ]
+    },
+    {
+     "en": "The company will release more detailed financial forecasts next month, which will be closely watched by analysts.",
+     "zh": "公司将在下个月公布更详细的财务预测，分析师将密切关注。",
+     "tip": "主干：The company will release ... next month；听：注意“release more detailed”的弱化。",
+     "focus": [
+      {
+       "text": "release more detailed financial forecasts",
+       "meaning": "公布更详细的财务预测",
+       "note": "财经报道常用"
+      }
+     ]
+    },
+    {
+     "en": "Investors and regulators alike will be watching to see if Anthropic can deliver on its safety promises.",
+     "zh": "投资者和监管机构都将关注Anthropic是否能兑现其安全承诺。",
+     "tip": "主干：Investors and regulators alike ... watching to see if ...；听：注意“watching to see”。",
+     "focus": []
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main concern discussed about Anthropic's IPO?",
+     "options": [
+      "Its marketing strategy",
+      "Its safety focus",
+      "Its product pricing",
+      "Its office location"
+     ],
+     "answer": 1,
+     "explainZh": "讨论的重点是公司能否在盈利与安全之间取得平衡。"
+    },
+    {
+     "q": "Who is speaking with Anthropic's executives?",
+     "options": [
+      "A government official",
+      "A senior AI reporter",
+      "A competitor CEO",
+      "A university professor"
+     ],
+     "answer": 1,
+     "explainZh": "The Verge的高级AI记者Hayden Field正在与高管交谈。"
+    }
+   ]
+  },
+  {
+   "id": "eigvkj",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "publishedAt": "2026-11-21T20:03:37.000Z",
+   "title": "UN Fails to Agree on Rules for Killer Robots",
+   "titleZh": "联合国未能就“杀手机器人”制定规则达成一致",
+   "summaryZh": "联合国外交官在日内瓦会议上讨论自主武器规则，但未达成协议。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "This week, UN diplomats met in Geneva to discuss rules for autonomous weapons, often called killer robots.",
+     "zh": "本周，联合国外交官在日内瓦会面，讨论自主武器的规则，通常称为杀手机器人。",
+     "tip": "主干：UN diplomats met in Geneva to discuss rules；听：注意连读和弱化词。",
+     "focus": [
+      {
+       "text": "UN diplomats met in Geneva",
+       "meaning": "联合国外交官在日内瓦会面",
+       "note": "常用地点短语"
+      },
+      {
+       "text": "autonomous weapons",
+       "meaning": "自主武器",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "They aimed to create guidelines that would limit how these weapons could be used in armed conflicts.",
+     "zh": "他们的目标是制定准则，限制这些武器在武装冲突中的使用方式。",
+     "tip": "主干：They aimed to create guidelines；听：关注动词短语和名词短语。",
+     "focus": [
+      {
+       "text": "create guidelines",
+       "meaning": "制定准则",
+       "note": "动词短语"
+      },
+      {
+       "text": "armed conflicts",
+       "meaning": "武装冲突",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "However, after a week of talks, the diplomats could not agree on any specific rules.",
+     "zh": "然而，经过一周的讨论，外交官们未能就任何具体规则达成一致。",
+     "tip": "主干：could not agree on any specific rules；听：注意否定词和形容词。",
+     "focus": [
+      {
+       "text": "could not agree",
+       "meaning": "未能达成一致",
+       "note": "否定结构"
+      },
+      {
+       "text": "specific rules",
+       "meaning": "具体规则",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "They decided instead to start discussing options for future negotiations, hoping to find common ground later.",
+     "zh": "他们决定改为开始讨论未来谈判的选项，希望以后能找到共同点。",
+     "tip": "主干：decided to start discussing options；听：注意动词搭配和连词。",
+     "focus": [
+      {
+       "text": "start discussing options",
+       "meaning": "开始讨论选项",
+       "note": "动词短语"
+      },
+      {
+       "text": "common ground",
+       "meaning": "共同点",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The failure reflects the difficulty of balancing national security interests with global safety concerns.",
+     "zh": "失败反映了平衡国家安全利益与全球安全关切的难度。",
+     "tip": "主干：failure reflects the difficulty；听：注意名词短语的搭配。",
+     "focus": [
+      {
+       "text": "global safety concerns",
+       "meaning": "全球安全关切",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Experts say the lack of agreement could slow the development of international norms on autonomous weapons.",
+     "zh": "专家表示，缺乏协议可能会减缓国际自主武器规范的发展。",
+     "tip": "主干：lack of agreement could slow；听：注意情态动词和名词短语。",
+     "focus": [
+      {
+       "text": "lack of agreement",
+       "meaning": "缺乏协议",
+       "note": "常用短语"
+      },
+      {
+       "text": "international norms",
+       "meaning": "国际规范",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The United Nations has been working on this issue since 2015, following growing concerns about lethal autonomous systems.",
+     "zh": "自2015年以来，联合国一直在处理此问题，因对致命自主系统的担忧日益增加。",
+     "tip": "主干：United Nations has been working；听：注意现在完成进行时。",
+     "focus": [
+      {
+       "text": "working on this issue",
+       "meaning": "处理此问题",
+       "note": "动词短语"
+      },
+      {
+       "text": "lethal autonomous systems",
+       "meaning": "致命自主系统",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "Next week, the UN will hold a follow‑up meeting in Geneva to revisit the topic and try new approaches.",
+     "zh": "下周，联合国将在日内瓦举行后续会议，重新审视该主题并尝试新方法。",
+     "tip": "主干：will hold a follow‑up meeting；听：注意未来时和连词。",
+     "focus": [
+      {
+       "text": "follow‑up meeting",
+       "meaning": "后续会议",
+       "note": "常用短语"
+      },
+      {
+       "text": "try new approaches",
+       "meaning": "尝试新方法",
+       "note": "动词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main goal of the UN diplomats' meeting in Geneva?",
+     "options": [
+      "To ban all autonomous weapons",
+      "To create guidelines for autonomous weapons",
+      "To increase funding for military research",
+      "To train soldiers in using robots"
+     ],
+     "answer": 1,
+     "explainZh": "会议的目标是制定自主武器的准则，而不是全面禁用或增加资金。"
+    }
+   ]
+  },
+  {
+   "id": "6irlro",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "publishedAt": "2026-11-22T18:08:43.000Z",
+   "title": "Data Centers Drive Big Tech Backlash",
+   "titleZh": "数据中心成为大科技反弹的核心",
+   "summaryZh": "记者巴黎·马克思在新书《超规模》中解释了数据中心为何引发大科技公司的反弹。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Data centers are now the focus of a growing backlash against big tech companies.",
+     "zh": "数据中心现在成为对大型科技公司的日益增长的反弹焦点。",
+     "tip": "主干：Data centers are now the focus；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "growing backlash",
+       "meaning": "日益增长的反弹",
+       "note": "常用来描述公众或媒体的强烈反对"
+      }
+     ]
+    },
+    {
+     "en": "Journalist Paris Marx explains why these facilities are attracting so much scrutiny.",
+     "zh": "记者巴黎·马克思解释了为何这些设施受到如此多的审查。",
+     "tip": "主干：Journalist Paris Marx explains；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "attracting so much scrutiny",
+       "meaning": "受到如此多的审查",
+       "note": "形容被关注的程度"
+      }
+     ]
+    },
+    {
+     "en": "His new book, titled \"Hyperscale,\" dives into the economics of massive data centers.",
+     "zh": "他的新版书《超规模》深入探讨了大型数据中心的经济学。",
+     "tip": "主干：His new book dives；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "dives into the economics",
+       "meaning": "深入探讨经济学",
+       "note": "常用于描述深入分析"
+      }
+     ]
+    },
+    {
+     "en": "These centers store and process billions of data points, powering everything from social media to cloud services.",
+     "zh": "这些中心存储和处理数十亿数据点，支持从社交媒体到云服务的一切。",
+     "tip": "主干：These centers store and process；听：注意弱化的冠词和连读。",
+     "focus": [
+      {
+       "text": "billions of data points",
+       "meaning": "数十亿数据点",
+       "note": "常见的数据量描述"
+      }
+     ]
+    },
+    {
+     "en": "Critics argue that the energy consumption of hyperscale facilities is unsustainable and harmful to the environment.",
+     "zh": "批评者认为超规模设施的能源消耗不可持续，对环境有害。",
+     "tip": "主干：Critics argue；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "unsustainable and harmful to the environment",
+       "meaning": "不可持续且有害环境",
+       "note": "形容对环境的负面影响"
+      }
+     ]
+    },
+    {
+     "en": "The book also highlights how data centers influence global data flows and internet speeds.",
+     "zh": "本书还强调了数据中心如何影响全球数据流和互联网速度。",
+     "tip": "主干：The book also highlights；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "global data flows",
+       "meaning": "全球数据流",
+       "note": "描述数据在全球范围内的移动"
+      }
+     ]
+    },
+    {
+     "en": "Policymakers are now calling for stricter regulations on energy use and carbon emissions in these facilities.",
+     "zh": "政策制定者现在要求对这些设施的能源使用和碳排放实施更严格的监管。",
+     "tip": "主干：Policymakers are now calling；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "stricter regulations on energy use",
+       "meaning": "更严格的能源使用法规",
+       "note": "常见的政策要求"
+      }
+     ]
+    },
+    {
+     "en": "If the backlash continues, we may see a shift toward greener, smaller-scale data centers worldwide.",
+     "zh": "如果反弹持续，我们可能会看到全球向更绿色、更小规模的数据中心转变。",
+     "tip": "主干：If the backlash continues；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "greener, smaller-scale data centers",
+       "meaning": "更绿色、更小规模的数据中心",
+       "note": "描述未来趋势"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main focus of Paris Marx's new book?",
+     "options": [
+      "The history of the internet",
+      "The economics of data centers",
+      "The design of smartphones",
+      "The future of social media"
+     ],
+     "answer": 1,
+     "explainZh": "书名《超规模》主要讨论大型数据中心的经济学。"
+    },
+    {
+     "q": "Which of the following is a concern raised about hyperscale facilities?",
+     "options": [
+      "They are too small",
+      "They consume too much energy",
+      "They are located in deserts",
+      "They are cheap to build"
+     ],
+     "answer": 1,
+     "explainZh": "批评者指出超规模设施的能源消耗不可持续。"
+    }
+   ]
+  },
+  {
+   "id": "oqy1u4",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-23T01:23:43.000Z",
+   "title": "Democrats Secure Largest House Majority Since 1992",
+   "titleZh": "民主党赢得自1992年以来最大众议院多数席位",
+   "summaryZh": "民主党在中期选举中赢得至少258席，超过共和党173席，标志着自1992年以来最大多数。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "In the recent U.S. midterm elections, Democrats captured the largest House majority since 1992.",
+     "zh": "在最近的美国中期选举中，民主党赢得了自1992年以来最大的众议院多数席位。",
+     "tip": "主干：Democrats captured the largest majority；听：注意连读 \"captured the\" 与 \"largest\" 的弱化。",
+     "focus": [
+      {
+       "text": "captured the largest",
+       "meaning": "夺得最大的",
+       "note": "常见短语"
+      },
+      {
+       "text": "House majority",
+       "meaning": "众议院多数",
+       "note": "政治用语"
+      }
+     ]
+    },
+    {
+     "en": "The key victory came from flipping a seat in North Carolina, turning it from Republican to Democratic control.",
+     "zh": "关键胜利来自翻转北卡罗来纳州的一席，将其从共和党转为民主党控制。",
+     "tip": "主干：flipping a seat in North Carolina；听：注意 \"flipping\" 的弱化与 \"North Carolina\" 的连读。",
+     "focus": [
+      {
+       "text": "flipping a seat",
+       "meaning": "翻转一席",
+       "note": "政治术语"
+      },
+      {
+       "text": "North Carolina",
+       "meaning": "北卡罗来纳州",
+       "note": "地名"
+      }
+     ]
+    },
+    {
+     "en": "Overall, Democrats now hold at least 258 seats in the House of Representatives.",
+     "zh": "总体而言，民主党现在在众议院持有至少258席。",
+     "tip": "主干：hold at least 258 seats；听：数词 258 的发音要清晰。",
+     "focus": [
+      {
+       "text": "hold at least",
+       "meaning": "至少持有",
+       "note": "常用表达"
+      },
+      {
+       "text": "258 seats",
+       "meaning": "258席",
+       "note": "数字+名词"
+      }
+     ]
+    },
+    {
+     "en": "Republicans, by contrast, control at least 173 seats after the election.",
+     "zh": "相比之下，共和党在选举后控制至少173席。",
+     "tip": "主干：control at least 173 seats；听：注意 \"at least\" 的弱化。",
+     "focus": [
+      {
+       "text": "control at least",
+       "meaning": "至少控制",
+       "note": "常见表达"
+      }
+     ]
+    },
+    {
+     "en": "This shift gives Democrats a stronger position to pass legislation on climate and infrastructure.",
+     "zh": "这一转变使民主党在通过气候和基础设施立法方面拥有更强的立场。",
+     "tip": "主干：gives Democrats a stronger position；听：注意 \"stronger\" 的重读。",
+     "focus": [
+      {
+       "text": "stronger position",
+       "meaning": "更强的立场",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The change also means more bipartisan cooperation may be needed to pass major bills.",
+     "zh": "这也意味着通过重大法案可能需要更多的两党合作。",
+     "tip": "主干：means more bipartisan cooperation；听：注意 \"bipartisan\" 的弱化。",
+     "focus": [
+      {
+       "text": "bipartisan cooperation",
+       "meaning": "两党合作",
+       "note": "政治用语"
+      }
+     ]
+    },
+    {
+     "en": "Experts say the new majority could reshape committee assignments and committee leadership roles.",
+     "zh": "专家表示，新多数可能重塑委员会任命和领导职务。",
+     "tip": "主干：could reshape committee assignments；听：注意 \"committee\" 的连读。",
+     "focus": [
+      {
+       "text": "committee assignments",
+       "meaning": "委员会任命",
+       "note": "政治用语"
+      }
+     ]
+    },
+    {
+     "en": "Voters will watch how the new majority handles the upcoming budget negotiations next month.",
+     "zh": "选民将关注新多数如何处理下个月即将到来的预算谈判。",
+     "tip": "主干：watch how the new majority handles；听：注意 \"handles\" 的弱化。",
+     "focus": [
+      {
+       "text": "budget negotiations",
+       "meaning": "预算谈判",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The results also highlight the importance of swing states in determining House control.",
+     "zh": "结果还凸显了摇摆州在决定众议院控制权中的重要性。",
+     "tip": "主干：highlight the importance of swing states；听：注意 \"swing states\" 的连读。",
+     "focus": [
+      {
+       "text": "swing states",
+       "meaning": "摇摆州",
+       "note": "政治用语"
+      }
+     ]
+    },
+    {
+     "en": "For more details, follow the official congressional website and reputable news outlets.",
+     "zh": "欲了解更多细节，请关注官方国会网站和可信新闻媒体。",
+     "tip": "主干：follow the official congressional website；听：注意 \"official\" 的弱化。",
+     "focus": [
+      {
+       "text": "official congressional website",
+       "meaning": "官方国会网站",
+       "note": "常用表达"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the significance of the Democrats winning 258 seats?",
+     "options": [
+      "It is the smallest majority since 1992",
+      "It is the largest majority since 1992",
+      "It is the largest majority since 2000",
+      "It is the smallest majority since 2000"
+     ],
+     "answer": 1,
+     "explainZh": "民主党赢得258席是自1992年以来最大的众议院多数。"
+    },
+    {
+     "q": "Which state’s seat flip was key to the Democrats’ majority?",
+     "options": [
+      "California",
+      "Texas",
+      "North Carolina",
+      "Florida"
+     ],
+     "answer": 2,
+     "explainZh": "北卡罗来纳州的席位翻转是关键胜利。"
+    }
+   ]
+  },
+  {
+   "id": "35yarg",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-22T09:20:45.000Z",
+   "title": "South Korea Education Minister Resigns Over Exam Cheating Scandal",
+   "titleZh": "韩国教育部长因考试作弊丑闻辞职",
+   "summaryZh": "韩国教育部长崔奎振因在大学入学考试中实施最后时刻的 AI 作弊防范措施而辞职，事件引发公众关注。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The South Korean education minister, Choi Kyo-jin, resigned yesterday after a scandal involving AI‑assisted cheating at the college entrance exam.",
+     "zh": "韩国教育部长崔奎振因大学入学考试中的 AI 辅助作弊丑闻，于昨日辞职。",
+     "tip": "主干：minister resigned；听：注意弱化动词‘resigned’的弱化音，连读‘after a scandal’。",
+     "focus": [
+      {
+       "text": "education minister",
+       "meaning": "教育部长",
+       "note": "常用职位称谓"
+      },
+      {
+       "text": "AI‑assisted cheating",
+       "meaning": "人工智能辅助作弊",
+       "note": "科技与教育结合的常见说法"
+      }
+     ]
+    },
+    {
+     "en": "Choi admitted that he ordered last‑minute measures to stop cheating, but the plan caused confusion and chaos among students.",
+     "zh": "崔承认他下令实施最后时刻的防作弊措施，但该计划导致学生们混乱不堪。",
+     "tip": "主干：Choi admitted; 听：注意连读‘last‑minute’和‘caused chaos’的弱化。",
+     "focus": [
+      {
+       "text": "last‑minute measures",
+       "meaning": "最后时刻的措施",
+       "note": "形容紧急行动"
+      }
+     ]
+    },
+    {
+     "en": "The exam, held nationwide, is the most important test for students aiming to enter university in South Korea.",
+     "zh": "这场全国性考试是学生进入韩国大学的最重要测试。",
+     "tip": "主干：exam is the most important test；听：注意‘most important’的重读。",
+     "focus": [
+      {
+       "text": "most important test",
+       "meaning": "最重要的考试",
+       "note": "强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "The government had previously warned that AI tools could be used by students to cheat, prompting a rapid response.",
+     "zh": "政府此前警告学生可能使用 AI 工具作弊，促使其迅速采取行动。",
+     "tip": "主干：government had warned；听：注意‘rapid response’的连读。",
+     "focus": [
+      {
+       "text": "warned that AI tools",
+       "meaning": "警告 AI 工具",
+       "note": "科技风险警示"
+      }
+     ]
+    },
+    {
+     "en": "Critics argue that the sudden crackdown was poorly planned and disrupted many students’ preparation.",
+     "zh": "批评者认为突然的打击计划不周，扰乱了许多学生的备考。",
+     "tip": "主干：Critics argue；听：注意‘sudden crackdown’的弱化。",
+     "focus": [
+      {
+       "text": "sudden crackdown",
+       "meaning": "突然的打击",
+       "note": "形容措施突然"
+      }
+     ]
+    },
+    {
+     "en": "Choi’s resignation follows a series of protests demanding accountability from the education ministry.",
+     "zh": "崔的辞职是在一系列要求教育部承担责任的抗议之后。",
+     "tip": "主干：resignation follows；听：注意‘series of protests’的连读。",
+     "focus": [
+      {
+       "text": "series of protests",
+       "meaning": "一系列抗议",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The scandal highlights the growing challenge of regulating AI in high‑stakes exams worldwide.",
+     "zh": "这起丑闻凸显了全球在高风险考试中监管 AI 的日益挑战。",
+     "tip": "主干：scandal highlights；听：注意‘high‑stakes exams’的弱化。",
+     "focus": [
+      {
+       "text": "high‑stakes exams",
+       "meaning": "高风险考试",
+       "note": "强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "The ministry has pledged to review exam security and improve digital monitoring tools.",
+     "zh": "教育部承诺审查考试安全并改进数字监测工具。",
+     "tip": "主干：ministry has pledged；听：注意‘digital monitoring tools’的连读。",
+     "focus": [
+      {
+       "text": "digital monitoring tools",
+       "meaning": "数字监测工具",
+       "note": "技术手段"
+      }
+     ]
+    },
+    {
+     "en": "Observers will watch how the new policies affect student fairness and the integrity of future exams.",
+     "zh": "观察者将关注新政策如何影响学生公平和未来考试的完整性。",
+     "tip": "主干：observers will watch；听：注意‘student fairness’的弱化。",
+     "focus": [
+      {
+       "text": "student fairness",
+       "meaning": "学生公平",
+       "note": "教育公平"
+      }
+     ]
+    },
+    {
+     "en": "Meanwhile, students and parents are calling for clearer guidelines on acceptable use of technology during tests.",
+     "zh": "与此同时，学生和家长要求制定更清晰的技术使用准则。",
+     "tip": "主干：students and parents are calling；听：注意‘clearer guidelines’的连读。",
+     "focus": [
+      {
+       "text": "clearer guidelines",
+       "meaning": "更清晰的准则",
+       "note": "规范制定"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main reason Choi Kyo-jin resigned?",
+     "options": [
+      "He was caught cheating",
+      "He ordered last-minute anti‑cheating measures",
+      "He was promoted",
+      "He retired voluntarily"
+     ],
+     "answer": 1,
+     "explainZh": "他因在考试中实施最后时刻的反作弊措施导致混乱而辞职。"
+    },
+    {
+     "q": "Which of the following best describes the exam's significance?",
+     "options": [
+      "A local test",
+      "An international competition",
+      "The most important test for university entry",
+      "A recreational activity"
+     ],
+     "answer": 2,
+     "explainZh": "这场考试是学生进入大学的最重要考试。"
+    }
+   ]
+  },
+  {
+   "id": "1cyludt",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "publishedAt": "2026-11-23T02:36:52.000Z",
+   "title": "Australian PM’s staff outnumber crossbench, Minns ends press conference after heckling",
+   "titleZh": "澳大利亚总理员工人数超过跨党派分配，米内斯结束新闻发布会遭嘲笑",
+   "summaryZh": "总理员工人数超过跨党派分配，米内斯发布会因听众嘲笑提前结束。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The Australian Prime Minister’s staff numbers now exceed the combined allocation for all crossbench members.",
+     "zh": "澳大利亚总理的员工人数现在超过了所有跨党派成员的总配额。",
+     "tip": "主干：员工人数超过配额；听：注意“exceed”与“combined”连读。",
+     "focus": [
+      {
+       "text": "combined allocation",
+       "meaning": "总配额",
+       "note": "常用名词短语"
+      }
+     ]
+    },
+    {
+     "en": "This shift reflects a growing trend of larger government teams in many democracies worldwide.",
+     "zh": "这一变化反映了许多民主国家政府团队规模不断增长的趋势。",
+     "tip": "主干：反映趋势；听：弱化“worldwide”音节。",
+     "focus": [
+      {
+       "text": "growing trend",
+       "meaning": "增长趋势",
+       "note": "常用短语"
+      },
+      {
+       "text": "larger government teams",
+       "meaning": "更大的政府团队",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "Opposition leader Kate Minns ended her press conference early after a row of heckling from the audience.",
+     "zh": "反对党领袖凯特·米内斯在听众嘲笑后提前结束了她的新闻发布会。",
+     "tip": "主干：结束发布会；听：注意“heckling”连读。",
+     "focus": [
+      {
+       "text": "ended her press conference early",
+       "meaning": "提前结束发布会",
+       "note": "常用表达"
+      },
+      {
+       "text": "row of heckling",
+       "meaning": "一阵嘲笑",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The incident highlights the intense political tensions that can arise during public events in Australia.",
+     "zh": "此事件突显了在澳大利亚公共活动中可能出现的激烈政治紧张。",
+     "tip": "主干：突显紧张；听：弱化“political tensions”。",
+     "focus": [
+      {
+       "text": "intense political tensions",
+       "meaning": "激烈的政治紧张",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Murray Watt, a Cabinet minister, said the recent climate summit failed to reach a final agreement.",
+     "zh": "内阁部长穆雷·沃特表示，最近的气候峰会未能达成最终协议。",
+     "tip": "主干：未达成协议；听：注意“failed to reach”。",
+     "focus": [
+      {
+       "text": "failed to reach",
+       "meaning": "未能达成",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "He described the outcome as disappointing, noting the difficulty of reconciling fossil fuel producers with climate‑impacted nations.",
+     "zh": "他称这一结果令人失望，并指出调和化石燃料生产国与受气候影响国家的难度。",
+     "tip": "主干：描述结果；听：弱化“fossil fuel producers”。",
+     "focus": [
+      {
+       "text": "reconciling fossil fuel producers",
+       "meaning": "调和化石燃料生产国",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "Australia’s defence cooperation with Japan and the Philippines has increased, strengthening regional security.",
+     "zh": "澳大利亚与日本和菲律宾的防务合作加强，提升了地区安全。",
+     "tip": "主干：加强防务合作；听：注意“defence cooperation”。",
+     "focus": [
+      {
+       "text": "defence cooperation",
+       "meaning": "防务合作",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The U.S. defence relationship in the region remains robust, supporting Australia’s strategic interests.",
+     "zh": "该地区的美国防务关系保持强劲，支持澳大利亚的战略利益。",
+     "tip": "主干：美国防务关系；听：弱化“robust”。",
+     "focus": [
+      {
+       "text": "U.S. defence relationship",
+       "meaning": "美国防务关系",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "These developments underscore the challenges of balancing domestic politics with international climate commitments.",
+     "zh": "这些发展凸显了在国内政治与国际气候承诺之间取得平衡的挑战。",
+     "tip": "主干：凸显挑战；听：注意“balancing domestic politics”。",
+     "focus": [
+      {
+       "text": "balancing domestic politics",
+       "meaning": "平衡国内政治",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Observers will watch how the government adjusts its staffing strategy and responds to public criticism in the coming weeks.",
+     "zh": "观察者将关注政府如何在未来几周内调整人事策略并回应公众批评。",
+     "tip": "主干：关注未来；听：弱化“watch”。",
+     "focus": [
+      {
+       "text": "watch how the government adjusts",
+       "meaning": "观察政府如何调整",
+       "note": "常用表达"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the main reason Kate Minns ended her press conference early?",
+     "options": [
+      "She was ill",
+      "She was interrupted by heckling",
+      "The press conference ran out of time",
+      "She was called off by the Prime Minister"
+     ],
+     "answer": 1,
+     "explainZh": "米内斯因听众的嘲笑而提前结束发布会。"
+    },
+    {
+     "q": "Which of the following best describes the outcome of the recent climate summit?",
+     "options": [
+      "It reached a final agreement",
+      "It was postponed",
+      "It failed to reach a final agreement",
+      "It was canceled"
+     ],
+     "answer": 2,
+     "explainZh": "会议未能达成最终协议。"
+    }
+   ]
+  },
+  {
+   "id": "tx0i8e",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
+   "publishedAt": "2026-11-23T01:23:07.000Z",
+   "title": "Tributes pour in for music legend Molly Meldrum",
+   "titleZh": "音乐传奇莫莉·梅尔德姆获致敬",
+   "summaryZh": "莫莉·梅尔德姆因主持《Countdown》逝世，众多明星与粉丝致敬。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Molly Meldrum, a famous Australian music host, died at the age of 83.",
+     "zh": "澳大利亚著名音乐主持人莫莉·梅尔德姆去世，享年83岁。",
+     "tip": "主干：Molly Meldrum died；听：弱化 ‘died’ 的 /d/ 音。",
+     "focus": [
+      {
+       "text": "died at the age of 83",
+       "meaning": "去世，享年83岁",
+       "note": "常用表达逝世年龄"
+      }
+     ]
+    },
+    {
+     "en": "She was best known for hosting the long‑running ABC show Countdown, which launched many Australian artists.",
+     "zh": "她最著名的是主持长期播出的 ABC 节目《Countdown》，该节目为许多澳大利亚艺人奠定了基础。",
+     "tip": "主干：She was best known for…；听：注意 /ɪ/ 的弱化。",
+     "focus": [
+      {
+       "text": "long‑running ABC show Countdown",
+       "meaning": "长期播出的 ABC 节目《Countdown》",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Meldrum helped launch the careers of singers like Kylie Minogue and the band INXS.",
+     "zh": "梅尔德姆帮助了凯莉·米诺格和乐队 INXS 等歌手的职业生涯起步。",
+     "tip": "主干：Meldrum helped launch…；听：连读 ‘helped launch’。",
+     "focus": [
+      {
+       "text": "helped launch the careers",
+       "meaning": "帮助启动…的职业生涯",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "He was praised as a “truly unique character” and “the fan all artists wish to have.”",
+     "zh": "他被赞誉为“真正独特的人物”和“所有艺术家都想拥有的粉丝”。",
+     "tip": "主干：He was praised as…；听：注意 /ʃ/ 的弱化。",
+     "focus": [
+      {
+       "text": "truly unique character",
+       "meaning": "真正独特的人物",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Friends like Peter Andre and Kate Ceberano shared warm memories of his generosity and humor.",
+     "zh": "朋友们，如彼得·安德烈和凯特·塞伯拉诺，分享了他慷慨幽默的温暖回忆。",
+     "tip": "主干：Friends shared…；听：连读 ‘shared warm memories’。",
+     "focus": [
+      {
+       "text": "shared warm memories",
+       "meaning": "分享温暖回忆",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "His influence shaped the Australian music scene for more than a decade.",
+     "zh": "他对澳大利亚音乐界的影响持续了十多年。",
+     "tip": "主干：His influence shaped…；听：弱化 /ʃ/ 的音。",
+     "focus": [
+      {
+       "text": "shaped the Australian music scene",
+       "meaning": "塑造澳大利亚音乐界",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "The music community mourns his loss, with many artists posting tributes online.",
+     "zh": "音乐界哀悼他的逝世，许多艺术家在网上发布致敬。",
+     "tip": "主干：The music community mourns…；听：注意 /ɪ/ 的弱化。",
+     "focus": [
+      {
+       "text": "music community mourns",
+       "meaning": "音乐界哀悼",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "Future events will honor his legacy, including a planned tribute concert in Melbourne.",
+     "zh": "未来的活动将纪念他的遗产，包括在墨尔本计划的致敬音乐会。",
+     "tip": "主干：Future events will honor…；听：连读 ‘will honor’。",
+     "focus": [
+      {
+       "text": "planned tribute concert",
+       "meaning": "计划中的致敬音乐会",
+       "note": "名词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was Molly Meldrum best known for?",
+     "options": [
+      "Hosting a cooking show",
+      "Hosting the ABC show Countdown",
+      "Writing music reviews",
+      "Playing in a band"
+     ],
+     "answer": 1,
+     "explainZh": "莫莉·梅尔德姆最著名的是主持 ABC 节目《Countdown》"
+    }
+   ]
+  }
+ ]
+}
