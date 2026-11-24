@@ -1,7 +1,15 @@
 {
- "latest": "2026-11-23",
- "updatedAt": "2026-11-23T02:59:02.656Z",
+ "latest": "2026-11-24",
+ "updatedAt": "2026-11-24T06:17:15.776Z",
  "days": [
+  {
+   "date": "2026-11-24",
+   "count": 7,
+   "ai": 5,
+   "world": 2,
+   "sentences": 67,
+   "headline": "Anthropic 推出 Claude Ship 自动化代码评审"
+  },
   {
    "date": "2026-11-23",
    "count": 10,

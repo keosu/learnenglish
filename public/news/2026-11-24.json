@@ -1,0 +1,1018 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T06:17:15.775Z",
+ "models": [
+  "Pollinations · openai"
+ ],
+ "articles": [
+  {
+   "id": "18bl3dh",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "publishedAt": "2026-11-23T22:05:50.000Z",
+   "title": "Anthropic Launches Claude Ship to Automate Code Review",
+   "titleZh": "Anthropic 推出 Claude Ship 自动化代码评审",
+   "summaryZh": "Anthropic 推出 Claude Ship，AI 代理可自动评审、修复并批准代码更改，旨在消除开发流程瓶颈。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Anthropic has launched Claude Ship, a new tool that lets AI agents review code changes automatically.",
+     "zh": "Anthropic 推出了 Claude Ship，一款新工具，让 AI 代理能够自动评审代码更改。",
+     "tip": "主干：Anthropic launched Claude Ship；听：注意连读和弱化的 \"has\"。",
+     "focus": [
+      {
+       "text": "AI agents review code changes",
+       "meaning": "AI 代理评审代码更改",
+       "note": "常用技术短语"
+      }
+     ]
+    },
+    {
+     "en": "The system can also fix bugs in the code before it is approved for merging.",
+     "zh": "该系统还可以在代码被批准合并之前修复错误。",
+     "tip": "主干：The system can also fix bugs；听：注意 \"can also\" 的弱化。",
+     "focus": [
+      {
+       "text": "fix bugs in the code",
+       "meaning": "修复代码中的错误",
+       "note": "技术常用表达"
+      }
+     ]
+    },
+    {
+     "en": "Developers can set rules for the AI to follow, ensuring the code meets company standards.",
+     "zh": "开发者可以为 AI 设置规则，确保代码符合公司标准。",
+     "tip": "主干：Developers can set rules；听：连读 \"can set\"。",
+     "focus": [
+      {
+       "text": "set rules for the AI",
+       "meaning": "为 AI 设置规则",
+       "note": "常见指令式表达"
+      }
+     ]
+    },
+    {
+     "en": "Claude Ship uses the same Claude language model that powers Anthropic’s chatbots.",
+     "zh": "Claude Ship 使用与 Anthropic 聊天机器人相同的 Claude 语言模型。",
+     "tip": "主干：Claude Ship uses the same Claude language model；听：注意 \"uses\" 的弱化。",
+     "focus": [
+      {
+       "text": "same Claude language model",
+       "meaning": "相同的 Claude 语言模型",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "The tool is designed to reduce the time developers spend on routine approvals.",
+     "zh": "该工具旨在减少开发者在例行批准上花费的时间。",
+     "tip": "主干：The tool is designed to reduce；听：注意 \"is designed\" 的弱化。",
+     "focus": [
+      {
+       "text": "reduce the time developers spend",
+       "meaning": "减少开发者花费的时间",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "It also helps teams maintain consistent quality across multiple projects.",
+     "zh": "它还帮助团队在多个项目中保持一致的质量。",
+     "tip": "主干：It also helps teams maintain；听：注意 \"helps\" 的弱化。",
+     "focus": [
+      {
+       "text": "maintain consistent quality",
+       "meaning": "保持一致的质量",
+       "note": "质量管理常用语"
+      }
+     ]
+    },
+    {
+     "en": "Anthropic says Claude Ship will integrate with popular version control systems like GitHub.",
+     "zh": "Anthropic 表示 Claude Ship 将与 GitHub 等流行版本控制系统集成。",
+     "tip": "主干：Anthropic says Claude Ship will integrate；听：注意 \"will\" 的弱化。",
+     "focus": [
+      {
+       "text": "integrate with popular version control systems",
+       "meaning": "与流行的版本控制系统集成",
+       "note": "软件集成常用语"
+      }
+     ]
+    },
+    {
+     "en": "The company hopes the automation will free developers to focus on more creative tasks.",
+     "zh": "公司希望自动化能让开发者专注于更具创造性的任务。",
+     "tip": "主干：The company hopes the automation will free；听：注意 \"hopes\" 的弱化。",
+     "focus": []
+    },
+    {
+     "en": "Users can preview changes before the AI makes a final approval, giving them control over the process.",
+     "zh": "用户可以在 AI 做出最终批准之前预览更改，让他们控制整个流程。",
+     "tip": "主干：Users can preview changes；听：注意 \"preview\" 的弱化。",
+     "focus": []
+    },
+    {
+     "en": "Next, Anthropic plans to add support for more programming languages and deeper integration with CI/CD pipelines.",
+     "zh": "接下来，Anthropic 计划支持更多编程语言，并更深入地与 CI/CD 管道集成。",
+     "tip": "主干：Next, Anthropic plans to add；听：注意 \"plans\" 的弱化。",
+     "focus": [
+      {
+       "text": "deeper integration with CI/CD pipelines",
+       "meaning": "更深入地与 CI/CD 管道集成",
+       "note": "软件开发常用语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main function of Claude Ship?",
+     "options": [
+      "It compiles code",
+      "It automates code reviews",
+      "It writes documentation",
+      "It manages servers"
+     ],
+     "answer": 1,
+     "explainZh": "Claude Ship 的主要功能是让 AI 自动评审代码更改。"
+    },
+    {
+     "q": "Which platform does Anthropic plan to integrate Claude Ship with?",
+     "options": [
+      "Slack",
+      "GitHub",
+      "Jira",
+      "Trello"
+     ],
+     "answer": 1,
+     "explainZh": "Anthropic 计划将 Claude Ship 与 GitHub 等版本控制系统集成。"
+    }
+   ]
+  },
+  {
+   "id": "tlbkhy",
+   "category": "ai",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "publishedAt": "2026-11-23T21:30:44.000Z",
+   "title": "States Sue SpaceX Over Grok’s Child‑Sex and Revenge‑Porn Images",
+   "titleZh": "各州起诉SpaceX，阻止Grok生成儿童性虐待与报复色情图像",
+   "summaryZh": "各州检察长指控SpaceX的AI模型Grok仍生成儿童性虐待和报复色情内容，尽管公司称已对所有输出进行筛查。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The United States states have filed lawsuits against SpaceX, demanding the company halt Grok’s production of child‑sex content and revenge porn.",
+     "zh": "美国各州已对SpaceX提起诉讼，要求公司停止Grok生成儿童性虐待和报复色情内容。",
+     "tip": "主干：各州提起诉讼；听：注意“lawsuits against”与“halt”连读。",
+     "focus": [
+      {
+       "text": "United States states",
+       "meaning": "美国各州",
+       "note": "常用于法律文件"
+      }
+     ]
+    },
+    {
+     "en": "SpaceX’s AI chatbot, Grok, is marketed as a safe tool that screens every output before it reaches users.",
+     "zh": "SpaceX的AI聊天机器人Grok被宣传为安全工具，所有输出在送达用户前都会被筛查。",
+     "tip": "主干：Grok是安全工具；听：弱化“every output”中的“every”。",
+     "focus": [
+      {
+       "text": "screens every output",
+       "meaning": "筛查每一次输出",
+       "note": "强调全面性"
+      }
+     ]
+    },
+    {
+     "en": "Despite SpaceX’s claims, state attorneys general argue that Grok continues to produce child sexual‑abuse material and revenge‑porn images.",
+     "zh": "尽管SpaceX声称如此，州检察长认为Grok仍在生成儿童性虐待和报复色情图像。",
+     "tip": "主干：州检察长争议；听：注意“child sexual‑abuse material”中的连字符。",
+     "focus": [
+      {
+       "text": "child sexual‑abuse material",
+       "meaning": "儿童性虐待材料",
+       "note": "法律术语"
+      }
+     ]
+    },
+    {
+     "en": "The lawsuits cite specific incidents where Grok allegedly produced illegal images after users requested them.",
+     "zh": "诉讼引用了具体事件，指Grok在用户请求后产生非法图像。",
+     "tip": "主干：诉讼引用事件；听：弱化“allegedly”。",
+     "focus": [
+      {
+       "text": "illegal images",
+       "meaning": "非法图像",
+       "note": "常见法律用语"
+      }
+     ]
+    },
+    {
+     "en": "SpaceX has denied wrongdoing, stating its content filters are updated regularly to prevent such violations.",
+     "zh": "SpaceX否认不当行为，称其内容过滤器定期更新以防止违规。",
+     "tip": "主干：SpaceX否认；听：注意“content filters are updated regularly”。",
+     "focus": [
+      {
+       "text": "content filters are updated regularly",
+       "meaning": "内容过滤器定期更新",
+       "note": "强调持续改进"
+      }
+     ]
+    },
+    {
+     "en": "The legal battle highlights the growing concern over AI tools that can create harmful sexual content involving minors.",
+     "zh": "这场法律争端凸显了人们对AI工具可能生成涉及未成年人有害性内容的担忧。",
+     "tip": "主干：法律争端关注；听：弱化“growing”。",
+     "focus": []
+    },
+    {
+     "en": "Regulators are now reviewing SpaceX’s compliance with federal child‑protection laws and AI safety standards.",
+     "zh": "监管机构正审查SpaceX是否符合联邦儿童保护法和AI安全标准。",
+     "tip": "主干：监管机构审查；听：注意“federal child‑protection laws”。",
+     "focus": [
+      {
+       "text": "federal child‑protection laws",
+       "meaning": "联邦儿童保护法",
+       "note": "法律术语"
+      }
+     ]
+    },
+    {
+     "en": "The outcome will set a precedent for how AI companies handle user‑generated sexual content involving minors.",
+     "zh": "结果将为AI公司如何处理涉及未成年人的用户生成性内容树立先例。",
+     "tip": "主干：结果设立先例；听：弱化“set a precedent”。",
+     "focus": [
+      {
+       "text": "user‑generated sexual content",
+       "meaning": "用户生成的性内容",
+       "note": "核心概念"
+      }
+     ]
+    },
+    {
+     "en": "Watch for court rulings next month, as they could force SpaceX to redesign Grok’s safety protocols.",
+     "zh": "请关注下个月的法庭裁决，它们可能迫使SpaceX重新设计Grok的安全协议。",
+     "tip": "主干：关注裁决；听：注意“could force”。",
+     "focus": [
+      {
+       "text": "redesign Grok’s safety protocols",
+       "meaning": "重新设计Grok的安全协议",
+       "note": "技术改进"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main issue the states are suing SpaceX over?",
+     "options": [
+      "Grok’s high cost",
+      "Grok’s data privacy policy",
+      "Grok’s child‑sex and revenge‑porn content",
+      "Grok’s user interface design"
+     ],
+     "answer": 2,
+     "explainZh": "各州指控SpaceX的AI模型Grok仍生成儿童性虐待和报复色情内容。"
+    },
+    {
+     "q": "Which term best describes SpaceX’s response to the allegations?",
+     "options": [
+      "Denial",
+      "Admission",
+      "Concession",
+      "Retraction"
+     ],
+     "answer": 0,
+     "explainZh": "SpaceX否认不当行为，并称其过滤器定期更新。"
+    }
+   ]
+  },
+  {
+   "id": "21nlpo",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "publishedAt": "2026-11-23T17:14:23.000Z",
+   "title": "Amazon Buys Decart’s AI Tech for $7.5 Billion",
+   "titleZh": "亚马逊以75亿美元收购Decart AI技术",
+   "summaryZh": "亚马逊以75亿美元收购Decart的AI优化技术和研究团队，准备推出Trainium芯片。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Amazon announced it will buy Decart’s AI optimization technology for $7.5 billion.",
+     "zh": "亚马逊宣布将以75亿美元收购Decart的AI优化技术。",
+     "tip": "主干：Amazon announced it will buy…；听：注意弱化的动词形式和连词。",
+     "focus": [
+      {
+       "text": "buy Decart’s AI optimization technology",
+       "meaning": "购买Decart的AI优化技术",
+       "note": "常见商务用语"
+      }
+     ]
+    },
+    {
+     "en": "The deal also includes Decart’s research team of engineers and scientists.",
+     "zh": "该交易还包括Decart的工程师和科学家研究团队。",
+     "tip": "主干：The deal also includes…；听：连词和名词短语的连读。",
+     "focus": [
+      {
+       "text": "includes Decart’s research team",
+       "meaning": "包括Decart的研究团队",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "Amazon plans to use the technology to enhance its Trainium AI chips.",
+     "zh": "亚马逊计划利用该技术提升其Trainium AI芯片。",
+     "tip": "主干：Amazon plans to use…；听：动词短语的弱化。",
+     "focus": [
+      {
+       "text": "use the technology to enhance",
+       "meaning": "使用技术来增强",
+       "note": "商务计划用语"
+      }
+     ]
+    },
+    {
+     "en": "Trainium chips are designed to run machine learning workloads efficiently.",
+     "zh": "Trainium芯片旨在高效运行机器学习工作负载。",
+     "tip": "主干：Trainium chips are designed…；听：形容词短语的连读。",
+     "focus": [
+      {
+       "text": "designed to run machine learning workloads",
+       "meaning": "旨在运行机器学习工作负载",
+       "note": "技术描述"
+      }
+     ]
+    },
+    {
+     "en": "Decart was founded in 2018 and has become a leader in AI model optimization.",
+     "zh": "Decart成立于2018年，已成为AI模型优化的领导者。",
+     "tip": "主干：Decart was founded…；听：过去式的连读。",
+     "focus": [
+      {
+       "text": "leader in AI model optimization",
+       "meaning": "AI模型优化的领导者",
+       "note": "行业地位"
+      }
+     ]
+    },
+    {
+     "en": "The acquisition signals Amazon’s push to dominate the AI hardware market.",
+     "zh": "此次收购表明亚马逊正在推动在AI硬件市场的主导地位。",
+     "tip": "主干：The acquisition signals…；听：动词短语的弱化。",
+     "focus": [
+      {
+       "text": "signals Amazon’s push",
+       "meaning": "表明亚马逊的推动",
+       "note": "商务语境"
+      }
+     ]
+    },
+    {
+     "en": "Investors expect the deal to boost Amazon’s AI services revenue.",
+     "zh": "投资者预计此次交易将提升亚马逊AI服务收入。",
+     "tip": "主干：Investors expect…；听：动词短语的连读。",
+     "focus": [
+      {
+       "text": "boost Amazon’s AI services revenue",
+       "meaning": "提升亚马逊AI服务收入",
+       "note": "财务用语"
+      }
+     ]
+    },
+    {
+     "en": "Regulators will review the deal for antitrust concerns before approval.",
+     "zh": "监管机构将审查该交易以防止反垄断问题。",
+     "tip": "主干：Regulators will review…；听：未来时的连读。",
+     "focus": [
+      {
+       "text": "review the deal for antitrust concerns",
+       "meaning": "审查交易以防反垄断问题",
+       "note": "法律用语"
+      }
+     ]
+    },
+    {
+     "en": "Amazon’s next step is to integrate Decart’s technology into its cloud platform.",
+     "zh": "亚马逊的下一步是将Decart的技术整合到其云平台。",
+     "tip": "主干：Amazon’s next step is to integrate…；听：动词短语的弱化。",
+     "focus": []
+    },
+    {
+     "en": "Watch for updates on how the new AI chips perform in real-world applications.",
+     "zh": "请关注后续关于新AI芯片在实际应用中的表现。",
+     "tip": "主干：Watch for updates…；听：动词短语的连读。",
+     "focus": []
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is Amazon acquiring from Decart?",
+     "options": [
+      "A new AI chip",
+      "A research team",
+      "AI optimization technology",
+      "A cloud service"
+     ],
+     "answer": 2,
+     "explainZh": "亚马逊收购的是Decart的AI优化技术和研究团队，但主要是技术。"
+    },
+    {
+     "q": "Which chip will Amazon use the new technology for?",
+     "options": [
+      "Graviton",
+      "Trainium",
+      "Inferentia",
+      "Neptune"
+     ],
+     "answer": 1,
+     "explainZh": "文章提到将使用Trainium芯片来提升AI性能。"
+    }
+   ]
+  },
+  {
+   "id": "1v18lum",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "publishedAt": "2026-11-23T22:25:12.000Z",
+   "title": "Trump Supports Nvidia CEO’s Comeback",
+   "titleZh": "特朗普支持英伟达CEO回归",
+   "summaryZh": "在英伟达董事会接受黄仁勋辞职后，特朗普表示他会重新站起来。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "After Nvidia’s board accepted Jensen Huang’s resignation, rumors spread about his alleged affair with a Chinese spy.",
+     "zh": "在英伟达董事会接受黄仁勋辞职后，关于他与中国间谍的传闻流传开来。",
+     "tip": "主干：After… rumors spread…；听：注意时间状语短语的弱读。",
+     "focus": [
+      {
+       "text": "accepted Jensen Huang’s resignation",
+       "meaning": "接受黄仁勋的辞职",
+       "note": "常见的正式表达"
+      }
+     ]
+    },
+    {
+     "en": "The resignation was announced amid growing scrutiny of Huang’s personal conduct and corporate governance.",
+     "zh": "辞职是在对黄仁勋个人行为和公司治理的日益审查中宣布的。",
+     "tip": "主干：The resignation was announced…；听：注意被动语态的重音。",
+     "focus": [
+      {
+       "text": "growing scrutiny",
+       "meaning": "日益审查",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "President Donald Trump appeared on Stephen A. Smith’s radio show shortly after the news broke.",
+     "zh": "在消息公布后不久，唐纳德·特朗普出现在史蒂芬·A·史密斯的广播节目中。",
+     "tip": "主干：President Donald Trump appeared…；听：把短语“shortly after”连读。",
+     "focus": [
+      {
+       "text": "shortly after the news broke",
+       "meaning": "在新闻爆出后不久",
+       "note": "时间短语"
+      }
+     ]
+    },
+    {
+     "en": "Trump said Huang would “end up on his feet,” suggesting a possible comeback for the CEO.",
+     "zh": "特朗普表示黄仁勋会“重新站起来”，暗示这位CEO可能会回归。",
+     "tip": "主干：Trump said…；听：注意引号内的弱读。",
+     "focus": [
+      {
+       "text": "end up on his feet",
+       "meaning": "重新站起来",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The comment was made in a highly partisan context, reflecting Trump’s political stance on business leadership.",
+     "zh": "这番评论是在高度党派的背景下发表的，反映了特朗普对商业领导的政治立场。",
+     "tip": "主干：The comment was made…；听：注意形容词短语的重音。",
+     "focus": [
+      {
+       "text": "highly partisan context",
+       "meaning": "高度党派的背景",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Nvidia’s shareholders are watching closely, as the company’s stock could be affected by leadership changes.",
+     "zh": "英伟达的股东正在密切关注，因为公司的股价可能会因领导层变动而受到影响。",
+     "tip": "主干：Nvidia’s shareholders are watching…；听：注意并列结构的弱读。",
+     "focus": [
+      {
+       "text": "could be affected by leadership changes",
+       "meaning": "可能因领导层变动而受到影响",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Industry analysts predict that any return of Huang would signal a shift in Nvidia’s strategic direction.",
+     "zh": "行业分析师预测，黄仁勋的任何回归都将标志着英伟达战略方向的转变。",
+     "tip": "主干：Industry analysts predict…；听：注意“any return of Huang”连读。",
+     "focus": [
+      {
+       "text": "any return of Huang",
+       "meaning": "黄仁勋的任何回归",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "If Trump’s support translates into political pressure, it could influence Nvidia’s board decisions in the coming months.",
+     "zh": "如果特朗普的支持转化为政治压力，可能会影响英伟达董事会在未来几个月的决策。",
+     "tip": "主干：If Trump’s support translates…；听：注意条件句的弱读。",
+     "focus": [
+      {
+       "text": "political pressure",
+       "meaning": "政治压力",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "Stakeholders should monitor upcoming board meetings for any signs of leadership restructuring.",
+     "zh": "利益相关者应关注即将召开的董事会会议，以寻找任何领导层重组的迹象。",
+     "tip": "主干：Stakeholders should monitor…；听：注意动词短语的重音。",
+     "focus": [
+      {
+       "text": "leadership restructuring",
+       "meaning": "领导层重组",
+       "note": "名词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What did Trump say about Jensen Huang’s future?",
+     "options": [
+      "He will retire permanently",
+      "He will end up on his feet",
+      "He will be fired",
+      "He will move to another company"
+     ],
+     "answer": 1,
+     "explainZh": "特朗普表示黄仁勋会“重新站起来”，暗示他有可能回归。"
+    },
+    {
+     "q": "Why are Nvidia shareholders concerned?",
+     "options": [
+      "Because of a potential stock price drop",
+      "Because of a new product launch",
+      "Because of a leadership change",
+      "Because of a legal settlement"
+     ],
+     "answer": 2,
+     "explainZh": "股东关注是因为公司领导层可能发生变动，可能影响股价。"
+    }
+   ]
+  },
+  {
+   "id": "hut9kl",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "publishedAt": "2026-11-23T22:10:32.000Z",
+   "title": "Nvidia CEO Jensen Huang Resumes Role After Scandal",
+   "titleZh": "英伟达CEO黄仁勋因丑闻后重返岗位",
+   "summaryZh": "黄仁勋承认与两位女性同事的不当关系，英伟达随后展开调查并召开董事会。此事件引发公司治理与高管诚信的关注。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Nvidia CEO Jensen Huang returned to his office after a scandal involving personal relationships.",
+     "zh": "英伟达CEO黄仁勋在涉及私人关系的丑闻后重返办公室。",
+     "tip": "主干：Nvidia CEO returned to his office；听：注意弱化的\"his\"与连读。",
+     "focus": [
+      {
+       "text": "returned to his office",
+       "meaning": "回到自己的办公室",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "He admitted to an affair with Megaspeed executive Alice Huang, a former co‑founder of the company.",
+     "zh": "他承认与梅加斯佩德执行官艾丽斯·黄有不正当关系，后者曾是公司联合创始人。",
+     "tip": "主干：He admitted to an affair；听：关注连读\"to an\"。",
+     "focus": [
+      {
+       "text": "admitted to an affair",
+       "meaning": "承认有不正当关系",
+       "note": "正式用语"
+      }
+     ]
+    },
+    {
+     "en": "Following the admission, Nvidia announced an internal investigation to determine the scope of the misconduct.",
+     "zh": "随后，英伟达宣布进行内部调查，以确定不当行为的范围。",
+     "tip": "主干：Nvidia announced an internal investigation；听：弱化\"an\"与连读\"investigation to\"。",
+     "focus": [
+      {
+       "text": "internal investigation",
+       "meaning": "内部调查",
+       "note": "常见商务词汇"
+      }
+     ]
+    },
+    {
+     "en": "The New York Times later reported evidence of a second affair with an executive who reported directly to Huang.",
+     "zh": "《纽约时报》随后报道有证据显示黄仁勋与一名直接向他汇报的高管发生了第二段不正当关系。",
+     "tip": "主干：reported evidence of a second affair；听：注意\"directly to\"的连读。",
+     "focus": [
+      {
+       "text": "directly to",
+       "meaning": "直接向",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "At the board meeting that evening, the company decided to suspend Huang pending the investigation’s outcome.",
+     "zh": "当晚的董事会会议上，公司决定暂停黄仁勋，待调查结果公布后再行决定。",
+     "tip": "主干：the company decided to suspend Huang；听：弱化\"to\"与连读\"suspend Huang\"。",
+     "focus": [
+      {
+       "text": "decided to suspend",
+       "meaning": "决定暂停",
+       "note": "正式表达"
+      }
+     ]
+    },
+    {
+     "en": "The suspension means Huang will not attend any meetings or make public statements until the board reviews the findings.",
+     "zh": "暂停意味着黄仁勋在董事会审查结果前不参加任何会议，也不发表公开声明。",
+     "tip": "主干：Huang will not attend any meetings；听：注意\"will not\"的弱化。",
+     "focus": [
+      {
+       "text": "will not attend",
+       "meaning": "不会参加",
+       "note": "常用否定结构"
+      }
+     ]
+    },
+    {
+     "en": "This development highlights the importance of corporate governance and ethical conduct in technology companies.",
+     "zh": "这一发展突显了科技公司治理和道德行为的重要性。",
+     "tip": "主干：This development highlights the importance；听：注意连读\"importance of\"。",
+     "focus": [
+      {
+       "text": "corporate governance",
+       "meaning": "公司治理",
+       "note": "专业术语"
+      }
+     ]
+    },
+    {
+     "en": "Investors and analysts are watching closely to see how Nvidia will restore trust after the scandal.",
+     "zh": "投资者和分析师密切关注英伟达在丑闻后如何恢复信任。",
+     "tip": "主干：Investors and analysts are watching closely；听：弱化\"and\"与连读\"watching closely\"。",
+     "focus": [
+      {
+       "text": "watching closely",
+       "meaning": "密切关注",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "The next update will likely come from the board’s final report, expected in the coming weeks.",
+     "zh": "下一次更新可能来自董事会的最终报告，预计将在未来几周公布。",
+     "tip": "主干：The next update will likely come；听：注意\"likely\"的弱化。",
+     "focus": [
+      {
+       "text": "final report",
+       "meaning": "最终报告",
+       "note": "常见商务词汇"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What action did Nvidia take after the scandal was revealed?",
+     "options": [
+      "Promoted Jensen Huang",
+      "Suspended Jensen Huang",
+      "Hired a new CEO",
+      "Closed the company"
+     ],
+     "answer": 1,
+     "explainZh": "公司决定暂停黄仁勋，待调查结果公布后再行决定。"
+    },
+    {
+     "q": "Which executive was involved in the second affair?",
+     "options": [
+      "Alice Huang",
+      "A senior engineer",
+      "An external consultant",
+      "A board member"
+     ],
+     "answer": 0,
+     "explainZh": "报道显示与直接向黄汇报的高管发生第二段不正当关系。"
+    }
+   ]
+  },
+  {
+   "id": "1g3i47z",
+   "category": "world",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+   "publishedAt": "2026-11-23T12:42:03.000Z",
+   "title": "Democrats Win House by Largest Margin in 50 Years",
+   "titleZh": "民主党以50年来最大优势赢得众议院",
+   "summaryZh": "民主党赢得众议院，取得50年来最大优势；气候峰会COP31延长至最长时长，未达成协议。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Democrats won the U.S. House of Representatives with the largest margin in half a century.",
+     "zh": "民主党以50年来最大优势赢得了美国众议院。",
+     "tip": "主干：Democrats won the House；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "largest margin",
+       "meaning": "最大优势",
+       "note": "形容词+名词，表示程度"
+      }
+     ]
+    },
+    {
+     "en": "They flipped 47 seats in the recent election, and could flip a total of 49 seats after all votes are counted.",
+     "zh": "他们在最近的选举中翻盘了47个席位，最终可能翻盘49个席位。",
+     "tip": "主干：They flipped 47 seats；听：注意数字的清晰发音。",
+     "focus": []
+    },
+    {
+     "en": "The result means Democrats will hold a stronger majority in the House than any other party has in the past 50 years.",
+     "zh": "这意味着民主党在众议院的多数席位比过去50年任何一党都要强。",
+     "tip": "主干：means Democrats will hold a stronger majority；听：关注连音和弱化的助动词。",
+     "focus": [
+      {
+       "text": "stronger majority",
+       "meaning": "更强的多数",
+       "note": "形容词+名词，强调程度"
+      }
+     ]
+    },
+    {
+     "en": "The new majority will give the party more power to set the legislative agenda and pass bills.",
+     "zh": "新的多数席位将赋予该党更多制定立法议程和通过法案的权力。",
+     "tip": "主干：will give the party more power；听：注意动词短语的连读。",
+     "focus": [
+      {
+       "text": "set the legislative agenda",
+       "meaning": "制定立法议程",
+       "note": "常见政治短语"
+      }
+     ]
+    },
+    {
+     "en": "Meanwhile, the COP31 climate summit in Baku ran two days longer than planned.",
+     "zh": "与此同时，巴库的COP31气候峰会比计划多了两天。",
+     "tip": "主干：COP31 climate summit ran two days longer；听：注意时间短语的连读。",
+     "focus": [
+      {
+       "text": "ran two days longer",
+       "meaning": "多了两天",
+       "note": "动词短语，表示持续时间"
+      }
+     ]
+    },
+    {
+     "en": "It became the longest summit in COP history, lasting 17 days instead of the usual 15.",
+     "zh": "它成为COP历史上最长的峰会，持续了17天，而不是通常的15天。",
+     "tip": "主干：became the longest summit；听：留意数字的发音。",
+     "focus": [
+      {
+       "text": "longest summit",
+       "meaning": "最长的峰会",
+       "note": "形容词+名词，强调极端"
+      }
+     ]
+    },
+    {
+     "en": "Despite the extended talks, the summit ended without a binding agreement on climate targets.",
+     "zh": "尽管谈判延长，峰会仍未达成关于气候目标的具有约束力的协议。",
+     "tip": "主干：ended without a binding agreement；听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "binding agreement",
+       "meaning": "具有约束力的协议",
+       "note": "常见国际关系短语"
+      }
+     ]
+    },
+    {
+     "en": "The lack of a deal means countries will continue to negotiate and adjust their commitments in future COP meetings.",
+     "zh": "缺乏协议意味着各国将继续在未来的COP会议中谈判并调整其承诺。",
+     "tip": "主干：means countries will continue to negotiate；听：注意动词短语的连读。",
+     "focus": [
+      {
+       "text": "continue to negotiate",
+       "meaning": "继续谈判",
+       "note": "动词短语，常用于外交场合"
+      }
+     ]
+    },
+    {
+     "en": "Observers say the U.S. will play a key role in shaping the next climate negotiations, especially after the new House majority.",
+     "zh": "观察人士表示，美国将在下一轮气候谈判中发挥关键作用，尤其是在新的众议院多数席位之后。",
+     "tip": "主干：will play a key role；听：注意重音在关键词上。",
+     "focus": [
+      {
+       "text": "key role",
+       "meaning": "关键作用",
+       "note": "常见短语，强调重要性"
+      }
+     ]
+    },
+    {
+     "en": "Watch for the next COP meeting in 2027, where leaders will try to close the gaps left by COP31.",
+     "zh": "关注2027年的下一次COP会议，领导人将尝试弥补COP31留下的差距。",
+     "tip": "主干：watch for the next COP meeting；听：注意动词短语的连读。",
+     "focus": [
+      {
+       "text": "close the gaps",
+       "meaning": "弥补差距",
+       "note": "动词短语，常用于谈判"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How many seats did Democrats flip in the recent election?",
+     "options": [
+      "47",
+      "49",
+      "50",
+      "52"
+     ],
+     "answer": 0,
+     "explainZh": "根据报道，民主党在最近的选举中翻盘了47个席位。"
+    },
+    {
+     "q": "What was the duration of the COP31 summit?",
+     "options": [
+      "15 days",
+      "16 days",
+      "17 days",
+      "18 days"
+     ],
+     "answer": 2,
+     "explainZh": "COP31峰会持续了17天，比通常的15天更长。"
+    }
+   ]
+  },
+  {
+   "id": "1icjul8",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "publishedAt": "2026-11-24T05:51:48.000Z",
+   "title": "Australia’s Mid-Year Budget Update Shows Modest Savings",
+   "titleZh": "澳大利亚中期预算更新显示适度节省",
+   "summaryZh": "政府将实现盈余，但不会大幅削减开支。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The Australian government announced that the mid-year budget will save more money than it spends.",
+     "zh": "澳大利亚政府宣布，中期预算将节省比支出更多的钱。",
+     "tip": "主干：政府宣布中期预算将节省；听：注意“save more than it spends”连读。",
+     "focus": []
+    },
+    {
+     "en": "It said the savings would not come from a harsh “slash and burn” approach.",
+     "zh": "它表示节省不会来自严厉的“削减和烧毁”方法。",
+     "tip": "主干：它表示节省不会来自；听：弱化“slash and burn”中的 /s/。",
+     "focus": [
+      {
+       "text": "slash and burn",
+       "meaning": "严厉削减",
+       "note": "常见比喻"
+      }
+     ]
+    },
+    {
+     "en": "Instead, the government will spread cuts across several departments.",
+     "zh": "相反，政府将把削减分散到多个部门。",
+     "tip": "主干：政府将把削减分散到；听：注意“spread cuts”连读。",
+     "focus": [
+      {
+       "text": "spread cuts",
+       "meaning": "分散削减",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The mid-year economic outlook will be released a few days after the budget.",
+     "zh": "中期经济展望将在预算后几天发布。",
+     "tip": "主干：中期经济展望将在预算后几天发布；听：注意“few days after”。",
+     "focus": [
+      {
+       "text": "few days after",
+       "meaning": "几天后",
+       "note": "时间表达"
+      }
+     ]
+    },
+    {
+     "en": "The government said it would avoid cuts that affect people’s payments or sensitive parts of the economy.",
+     "zh": "政府表示将避免影响人们付款或经济敏感部分的削减。",
+     "tip": "主干：政府表示将避免影响人们付款；听：注意弱化“affect”。",
+     "focus": [
+      {
+       "text": "people’s payments",
+       "meaning": "人们的付款",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Stock markets reacted strongly, showing the current volatility of global markets.",
+     "zh": "股市强烈反应，显示全球市场的当前波动。",
+     "tip": "主干：股市强烈反应；听：注意“strongly reacting”。",
+     "focus": []
+    },
+    {
+     "en": "Experts link this volatility to uncertainty in the AI sector and broader economic conditions.",
+     "zh": "专家将这种波动与人工智能行业的不确定性和更广泛的经济状况联系起来。",
+     "tip": "主干：专家将这种波动与不确定性联系；听：注意“link to”。",
+     "focus": []
+    },
+    {
+     "en": "The budget aims to keep the economy stable while preparing for future challenges.",
+     "zh": "预算旨在保持经济稳定，同时为未来挑战做准备。",
+     "tip": "主干：预算旨在保持经济稳定；听：注意“aims to keep”。",
+     "focus": [
+      {
+       "text": "aims to keep",
+       "meaning": "旨在保持",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Investors will watch the next quarterly report for more details on spending cuts.",
+     "zh": "投资者将关注下一个季度报告，以获取更多关于削减支出的细节。",
+     "tip": "主干：投资者将关注下一个季度报告；听：注意“watch the next quarterly report”。",
+     "focus": [
+      {
+       "text": "watch the next quarterly report",
+       "meaning": "关注下一个季度报告",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The government’s approach reflects a cautious strategy amid uncertain economic conditions.",
+     "zh": "政府的做法反映了在不确定的经济条件下的谨慎策略。",
+     "tip": "主干：政府的做法反映了谨慎策略；听：注意“cautious strategy”。",
+     "focus": [
+      {
+       "text": "cautious strategy",
+       "meaning": "谨慎策略",
+       "note": "常用短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main reason the Australian government will not use a \"slash and burn\" approach?",
+     "options": [
+      "To avoid cutting essential services",
+      "To spread savings across multiple departments",
+      "To increase tax revenue",
+      "To reduce the national debt"
+     ],
+     "answer": 1,
+     "explainZh": "政府计划将削减分散到多个部门，而不是大幅削减。"
+    },
+    {
+     "q": "Which sector’s uncertainty is linked to the current market volatility?",
+     "options": [
+      "Healthcare",
+      "Technology",
+      "Agriculture",
+      "Energy"
+     ],
+     "answer": 1,
+     "explainZh": "专家将波动与人工智能（技术）行业的不确定性联系起来。"
+    }
+   ]
+  }
+ ]
+}
