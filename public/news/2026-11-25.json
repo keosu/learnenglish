@@ -1,0 +1,1243 @@
+{
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T05:12:16.479Z",
+ "models": [
+  "Pollinations · openai"
+ ],
+ "articles": [
+  {
+   "id": "xugxe3",
+   "category": "ai",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "publishedAt": "2026-11-24T13:00:00.000Z",
+   "title": "GPT‑6 Models Show Protein‑Design Skills",
+   "titleZh": "GPT‑6 模型展示蛋白质设计能力",
+   "summaryZh": "GPT‑6 能够设计蛋白质结构和序列，实验发现它能与五种靶标结合。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Scientists at OpenAI announced that GPT‑6 can design new protein structures and sequences.",
+     "zh": "OpenAI 的科学家宣布 GPT‑6 能够设计新的蛋白质结构和序列。",
+     "tip": "主干：Scientists at OpenAI announced…；听：注意“design new protein structures and sequences”中的弱化。",
+     "focus": [
+      {
+       "text": "design new protein structures",
+       "meaning": "设计新的蛋白质结构",
+       "note": "常用短语"
+      },
+      {
+       "text": "sequences",
+       "meaning": "序列",
+       "note": "单词"
+      }
+     ]
+    },
+    {
+     "en": "The model uses advanced reasoning and code to predict how proteins fold.",
+     "zh": "该模型使用高级推理和代码来预测蛋白质如何折叠。",
+     "tip": "主干：The model uses…；听：关注“advanced reasoning and code”中的连读。",
+     "focus": [
+      {
+       "text": "advanced reasoning",
+       "meaning": "高级推理",
+       "note": "形容词短语"
+      },
+      {
+       "text": "predict how proteins fold",
+       "meaning": "预测蛋白质折叠方式",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Lab tests showed the designed proteins could bind to five different biological targets.",
+     "zh": "实验室测试表明，设计的蛋白质能够与五种不同的生物靶标结合。",
+     "tip": "主干：Lab tests showed…；听：注意“bind to five different biological targets”中的弱化。",
+     "focus": [
+      {
+       "text": "bind to five different biological targets",
+       "meaning": "与五种不同的生物靶标结合",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "This is the first time a language model has demonstrated real protein‑design capability.",
+     "zh": "这是语言模型首次展示真正的蛋白质设计能力。",
+     "tip": "主干：This is the first time…；听：注意“real protein‑design capability”中的弱化。",
+     "focus": [
+      {
+       "text": "real protein‑design capability",
+       "meaning": "真正的蛋白质设计能力",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "The breakthrough could accelerate drug discovery by generating novel therapeutic proteins.",
+     "zh": "这一突破可能通过生成新型治疗蛋白加速药物发现。",
+     "tip": "主干：The breakthrough could accelerate…；听：关注“novel therapeutic proteins”中的连读。",
+     "focus": [
+      {
+       "text": "accelerate drug discovery",
+       "meaning": "加速药物发现",
+       "note": "动词短语"
+      },
+      {
+       "text": "novel therapeutic proteins",
+       "meaning": "新型治疗蛋白",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Researchers plan to test the model on more complex proteins and larger datasets.",
+     "zh": "研究人员计划在更复杂的蛋白质和更大的数据集上测试该模型。",
+     "tip": "主干：Researchers plan to test…；听：注意“more complex proteins and larger datasets”中的弱化。",
+     "focus": [
+      {
+       "text": "more complex proteins",
+       "meaning": "更复杂的蛋白质",
+       "note": "形容词短语"
+      },
+      {
+       "text": "larger datasets",
+       "meaning": "更大的数据集",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "OpenAI will release a public API allowing scientists to experiment with GPT‑6 protein designs.",
+     "zh": "OpenAI 将发布公共 API，让科学家尝试 GPT‑6 蛋白质设计。",
+     "tip": "主干：OpenAI will release…；听：关注“public API”中的弱化。",
+     "focus": [
+      {
+       "text": "public API",
+       "meaning": "公共 API",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "The next step is to validate the proteins in living cells and animal models.",
+     "zh": "下一步是验证蛋白质在活细胞和动物模型中的效果。",
+     "tip": "主干：The next step is to validate…；听：注意“living cells and animal models”中的连读。",
+     "focus": [
+      {
+       "text": "validate the proteins",
+       "meaning": "验证蛋白质",
+       "note": "动词短语"
+      },
+      {
+       "text": "living cells and animal models",
+       "meaning": "活细胞和动物模型",
+       "note": "名词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What capability did GPT‑6 demonstrate in the lab tests?",
+     "options": [
+      "It can write scientific papers",
+      "It can design protein structures",
+      "It can predict weather patterns",
+      "It can translate languages"
+     ],
+     "answer": 1,
+     "explainZh": "实验室测试显示 GPT‑6 能够设计蛋白质结构和序列。"
+    },
+    {
+     "q": "Which of the following is a potential benefit of this breakthrough?",
+     "options": [
+      "Faster internet browsing",
+      "New drug discovery",
+      "Improved smartphone battery life",
+      "Better video game graphics"
+     ],
+     "answer": 1,
+     "explainZh": "突破可能加速药物发现，生成新型治疗蛋白。"
+    }
+   ]
+  },
+  {
+   "id": "fjm8e3",
+   "category": "ai",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "publishedAt": "2026-11-23T20:00:00.000Z",
+   "title": "Claude AI Now Handles Pull Requests and Ship Fixes",
+   "titleZh": "Claude AI 现在能处理拉取请求并发布修复",
+   "summaryZh": "Anthropic 推出 Claude Ship，AI 可自动审查、修复并批准代码拉取请求，帮助工程师更快发布代码。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Anthropic has announced a new product called Claude Ship that can automatically review pull requests.",
+     "zh": "Anthropic 宣布了一款名为 Claude Ship 的新产品，能够自动审查拉取请求。",
+     "tip": "主干：Anthropic has announced a new product；听：注意“has announced”的弱化和“product”重音。",
+     "focus": [
+      {
+       "text": "automatically review pull requests",
+       "meaning": "自动审查拉取请求",
+       "note": "常用技术短语"
+      }
+     ]
+    },
+    {
+     "en": "The AI can also fix bugs in the code and approve the changes for deployment.",
+     "zh": "AI 还可以修复代码中的错误并批准更改以进行部署。",
+     "tip": "主干：The AI can also fix bugs；听：连词“also”轻读，强调“fix”。",
+     "focus": [
+      {
+       "text": "fix bugs in the code",
+       "meaning": "修复代码中的错误",
+       "note": "技术用语"
+      }
+     ]
+    },
+    {
+     "en": "Engineers have already been using Claude’s Code Review feature to spot errors before merging code.",
+     "zh": "工程师已经在使用 Claude 的 Code Review 功能，在合并代码前发现错误。",
+     "tip": "主干：Engineers have already been using；听：过去完成时的弱化，注意“Code Review”。",
+     "focus": [
+      {
+       "text": "spot errors before merging code",
+       "meaning": "在合并代码前发现错误",
+       "note": "常见表达"
+      }
+     ]
+    },
+    {
+     "en": "Claude Ship works by analyzing the pull request, suggesting changes, and then automatically applying them if approved.",
+     "zh": "Claude Ship 通过分析拉取请求，建议更改，然后在批准后自动应用。",
+     "tip": "主干：Claude Ship works by analyzing；听：强调“analyzing”，注意“suggesting changes”。",
+     "focus": [
+      {
+       "text": "analyzing the pull request",
+       "meaning": "分析拉取请求",
+       "note": "技术描述"
+      }
+     ]
+    },
+    {
+     "en": "The new feature is built on Anthropic’s existing Claude model, which already understands code syntax and logic.",
+     "zh": "该新功能基于 Anthropic 已有的 Claude 模型，该模型已能理解代码语法和逻辑。",
+     "tip": "主干：The new feature is built on；听：注意“built on”的弱化，重音在“Claude model”。",
+     "focus": [
+      {
+       "text": "understands code syntax and logic",
+       "meaning": "理解代码语法和逻辑",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "This means developers can save time by letting the AI handle routine review tasks.",
+     "zh": "这意味着开发者可以通过让 AI 处理日常审查任务来节省时间。",
+     "tip": "主干：This means developers can save time；听：注意“means”弱化，强调“save time”。",
+     "focus": [
+      {
+       "text": "handle routine review tasks",
+       "meaning": "处理日常审查任务",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "Companies using the platform report fewer bugs in production and faster release cycles.",
+     "zh": "使用该平台的公司报告生产环境中的错误更少，发布周期更快。",
+     "tip": "主干：Companies using the platform report；听：注意“report”的弱化，重音在“fewer bugs”。",
+     "focus": [
+      {
+       "text": "faster release cycles",
+       "meaning": "更快的发布周期",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "Future updates may add support for other version control systems beyond GitHub.",
+     "zh": "未来更新可能会增加对 GitHub 之外其他版本控制系统的支持。",
+     "tip": "主干：Future updates may add；听：注意“may add”的弱化，强调“support”。",
+     "focus": [
+      {
+       "text": "support for other version control systems",
+       "meaning": "支持其他版本控制系统",
+       "note": "技术术语"
+      }
+     ]
+    },
+    {
+     "en": "If you’re a software engineer, consider testing Claude Ship to see how it streamlines your workflow.",
+     "zh": "如果你是软件工程师，考虑测试 Claude Ship，看看它如何简化你的工作流程。",
+     "tip": "主干：If you’re a software engineer, consider testing；听：注意“consider”的弱化，重音在“streamlines”。",
+     "focus": [
+      {
+       "text": "streamlines your workflow",
+       "meaning": "简化你的工作流程",
+       "note": "常用表达"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main function of Claude Ship?",
+     "options": [
+      "It creates new code from scratch",
+      "It automatically reviews and fixes pull requests",
+      "It manages project budgets",
+      "It designs user interfaces"
+     ],
+     "answer": 1,
+     "explainZh": "Claude Ship 的主要功能是自动审查、修复并批准拉取请求。"
+    },
+    {
+     "q": "Which platform might Claude Ship support in future updates?",
+     "options": [
+      "Only GitHub",
+      "Only GitLab",
+      "Other version control systems",
+      "All operating systems"
+     ],
+     "answer": 2,
+     "explainZh": "未来更新可能会增加对 GitHub 之外其他版本控制系统的支持。"
+    }
+   ]
+  },
+  {
+   "id": "1cstu8u",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "publishedAt": "2026-11-24T18:02:59.000Z",
+   "title": "UK Warns AI-Driven Cyberattacks Reveal Years of Weak Security",
+   "titleZh": "英国警告 AI 驱动的网络攻击暴露多年安全薄弱点",
+   "summaryZh": "英国网络机构警告，AI 黑客工具利用简单安全漏洞，强调基础建设的重要性。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "The UK government has warned that AI-driven cyberattacks are exposing long‑standing security weaknesses.",
+     "zh": "英国政府警告，AI驱动的网络攻击正在暴露长期存在的安全弱点。",
+     "tip": "主干：UK government warned; 听：注意弱化的过去时态，连读。",
+     "focus": [
+      {
+       "text": "AI-driven cyberattacks",
+       "meaning": "由 AI 驱动的网络攻击",
+       "note": "常用短语"
+      },
+      {
+       "text": "exposing long‑standing security weaknesses",
+       "meaning": "暴露长期存在的安全弱点",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Cybersecurity experts say that the tools used by hackers rely on simple, often overlooked, flaws in software.",
+     "zh": "网络安全专家表示，黑客使用的工具依赖于软件中简单且常被忽视的缺陷。",
+     "tip": "主干：experts say; 听：注意连读的 'often overlooked'。",
+     "focus": [
+      {
+       "text": "simple, often overlooked, flaws",
+       "meaning": "简单、常被忽视的缺陷",
+       "note": "形容词短语"
+      },
+      {
+       "text": "tools used by hackers",
+       "meaning": "黑客使用的工具",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "The British cyber agency, GCHQ, highlighted that building strong foundations has never mattered more.",
+     "zh": "英国网络机构 GCHQ 强调，建立坚固基础从未比现在更重要。",
+     "tip": "主干：GCHQ highlighted; 听：注意 'has never mattered more' 的强调。",
+     "focus": [
+      {
+       "text": "building strong foundations",
+       "meaning": "建立坚固基础",
+       "note": "动名词短语"
+      },
+      {
+       "text": "has never mattered more",
+       "meaning": "从未比现在更重要",
+       "note": "强调语气"
+      }
+     ]
+    },
+    {
+     "en": "GCHQ has been monitoring AI hacking tools for months, noting that many are designed to automate vulnerability discovery.",
+     "zh": "GCHQ 已监控 AI 黑客工具数月，指出许多工具旨在自动化发现漏洞。",
+     "tip": "主干：GCHQ has been monitoring; 听：注意现在完成进行时。",
+     "focus": [
+      {
+       "text": "automate vulnerability discovery",
+       "meaning": "自动化发现漏洞",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "The agency urges businesses to patch software promptly and to adopt robust, AI‑aware security protocols.",
+     "zh": "该机构敦促企业及时修补软件并采用强大、AI 友好的安全协议。",
+     "tip": "主干：agency urges; 听：注意 'promptly' 的弱读。",
+     "focus": [
+      {
+       "text": "patch software promptly",
+       "meaning": "及时修补软件",
+       "note": "动词短语"
+      },
+      {
+       "text": "AI‑aware security protocols",
+       "meaning": "AI 友好的安全协议",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "This warning follows a series of high‑profile breaches that cost companies millions in damages and reputational harm.",
+     "zh": "此警告跟随一系列高调漏洞，导致公司损失数百万并损害声誉。",
+     "tip": "主干：warning follows; 听：注意 'high‑profile breaches' 的连读。",
+     "focus": [
+      {
+       "text": "high‑profile breaches",
+       "meaning": "高调漏洞",
+       "note": "形容词短语"
+      }
+     ]
+    },
+    {
+     "en": "Industry analysts predict that AI tools will become the main vector for cyberattacks in the next decade.",
+     "zh": "行业分析师预测，AI 工具将在未来十年内成为主要的网络攻击向量。",
+     "tip": "主干：analysts predict; 听：注意 'main vector' 的重音。",
+     "focus": [
+      {
+       "text": "main vector",
+       "meaning": "主要向量",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "The UK government has pledged to invest billions in cyber resilience, aiming to protect critical infrastructure and public services.",
+     "zh": "英国政府承诺投入数十亿美元提升网络弹性，保护关键基础设施和公共服务。",
+     "tip": "主干：government pledged; 听：注意 'invest billions' 的弱化。",
+     "focus": [
+      {
+       "text": "invest billions",
+       "meaning": "投入数十亿美元",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Citizens are encouraged to keep their devices updated and to report any suspicious activity to local authorities.",
+     "zh": "市民被鼓励保持设备更新，并向当地当局报告任何可疑活动。",
+     "tip": "主干：citizens encouraged; 听：注意 'keep devices updated' 的连读。",
+     "focus": []
+    },
+    {
+     "en": "In the coming weeks, GCHQ will release a detailed guide on AI‑driven threat detection and mitigation strategies.",
+     "zh": "在接下来几周，GCHQ 将发布关于 AI 驱动威胁检测与缓解策略的详细指南。",
+     "tip": "主干：GCHQ will release; 听：注意 'AI‑driven' 的连读。",
+     "focus": [
+      {
+       "text": "AI‑driven threat detection",
+       "meaning": "AI 驱动威胁检测",
+       "note": "形容词短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main reason the UK government issued the warning?",
+     "options": [
+      "AI tools are too expensive",
+      "AI-driven attacks expose security weaknesses",
+      "Cyberattacks are decreasing",
+      "AI tools are not used by hackers"
+     ],
+     "answer": 1,
+     "explainZh": "政府警告是因为 AI 驱动的攻击揭露了长期存在的安全弱点。"
+    },
+    {
+     "q": "Which agency is responsible for monitoring AI hacking tools in the UK?",
+     "options": [
+      "MI5",
+      "GCHQ",
+      "FBI",
+      "NSA"
+     ],
+     "answer": 1,
+     "explainZh": "英国网络机构 GCHQ 正在监控 AI 黑客工具。"
+    }
+   ]
+  },
+  {
+   "id": "dezvic",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "publishedAt": "2026-11-24T16:10:00.000Z",
+   "title": "Crusoe Investor Bets on Solar and Batteries for Future AI Data Centers",
+   "titleZh": "Crusoe 投资者押注太阳能和电池供未来 AI 数据中心",
+   "summaryZh": "未来 AI 数据中心每年需要数十吉瓦电力，一位 Crusoe 投资者认为太阳能和储能是最佳方案。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Next‑generation AI data centers will need tens of gigawatts of power each year.",
+     "zh": "未来的 AI 数据中心每年将需要数十吉瓦的电力。",
+     "tip": "主干：Next‑generation AI data centers will need…；听：注意“gigawatts”的发音，弱化“each year”。",
+     "focus": [
+      {
+       "text": "tens of gigawatts",
+       "meaning": "数十吉瓦",
+       "note": "常用来描述大规模电力需求"
+      }
+     ]
+    },
+    {
+     "en": "A key investor in the tech firm Crusoe sees solar power as the obvious solution.",
+     "zh": "Crusoe 的一位重要投资者认为太阳能是明显的解决方案。",
+     "tip": "主干：A key investor…sees…as the obvious solution；听：连接词“as the”轻读。",
+     "focus": [
+      {
+       "text": "solar power",
+       "meaning": "太阳能",
+       "note": "常用能源词汇"
+      }
+     ]
+    },
+    {
+     "en": "He argues that batteries can store excess solar energy for use when the sun is low.",
+     "zh": "他认为电池可以储存多余的太阳能，在日照不足时使用。",
+     "tip": "主干：He argues that batteries can store…；听：注意“store excess solar energy”连读。",
+     "focus": [
+      {
+       "text": "store excess solar energy",
+       "meaning": "储存多余的太阳能",
+       "note": "能源管理常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The data centers will host large AI models that require constant, reliable power supply.",
+     "zh": "这些数据中心将托管大型 AI 模型，需要持续、可靠的电力供应。",
+     "tip": "主干：The data centers will host…；听：强调“constant, reliable”。",
+     "focus": [
+      {
+       "text": "constant, reliable power supply",
+       "meaning": "持续、可靠的电力供应",
+       "note": "电力需求描述"
+      }
+     ]
+    },
+    {
+     "en": "Solar panels can generate electricity during daylight, reducing the need for fossil‑fuel generators.",
+     "zh": "太阳能板在白天发电，减少对化石燃料发电机的需求。",
+     "tip": "主干：Solar panels can generate…；听：弱化“during daylight”。",
+     "focus": []
+    },
+    {
+     "en": "Energy storage batteries help smooth power fluctuations, ensuring the AI workloads run smoothly.",
+     "zh": "电池储能帮助平滑电力波动，确保 AI 工作负载顺利运行。",
+     "tip": "主干：Energy storage batteries help smooth…；听：注意“smoothly”轻读。",
+     "focus": [
+      {
+       "text": "smooth power fluctuations",
+       "meaning": "平滑电力波动",
+       "note": "电力稳定性短语"
+      }
+     ]
+    },
+    {
+     "en": "The investment also supports the broader shift toward greener, more sustainable data centers worldwide.",
+     "zh": "这项投资还支持全球向更绿色、更可持续数据中心的转变。",
+     "tip": "主干：The investment also supports…；听：强调“greener, more sustainable”。",
+     "focus": [
+      {
+       "text": "greener, more sustainable",
+       "meaning": "更绿色、更可持续",
+       "note": "可持续发展常用形容词"
+      }
+     ]
+    },
+    {
+     "en": "Industry analysts predict that solar and battery solutions could cut data center energy costs by up to 30 percent.",
+     "zh": "行业分析师预测，太阳能和电池方案可将数据中心能源成本降低多达 30%。",
+     "tip": "主干：Industry analysts predict that…；听：注意“could cut…by up to 30 percent”。",
+     "focus": [
+      {
+       "text": "cut data center energy costs",
+       "meaning": "降低数据中心能源成本",
+       "note": "成本削减短语"
+      }
+     ]
+    },
+    {
+     "en": "Crusoe plans to pilot these technologies in its upcoming data center projects next year.",
+     "zh": "Crusoe 计划在明年的新数据中心项目中试点这些技术。",
+     "tip": "主干：Crusoe plans to pilot…；听：弱化“next year”。",
+     "focus": [
+      {
+       "text": "pilot these technologies",
+       "meaning": "试点这些技术",
+       "note": "技术试验短语"
+      }
+     ]
+    },
+    {
+     "en": "Stakeholders should watch for regulatory approvals and the pace of battery price reductions.",
+     "zh": "利益相关者应关注监管批准和电池价格下降的速度。",
+     "tip": "主干：Stakeholders should watch for…；听：注意“regulatory approvals”。",
+     "focus": [
+      {
+       "text": "regulatory approvals",
+       "meaning": "监管批准",
+       "note": "监管相关短语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main reason the investor favors solar power for AI data centers?",
+     "options": [
+      "Because it is cheaper than fossil fuels",
+      "Because it provides constant power",
+      "Because it reduces the need for batteries",
+      "Because it can be stored easily"
+     ],
+     "answer": 0,
+     "explainZh": "投资者认为太阳能能减少对化石燃料发电机的需求，成本更低。"
+    },
+    {
+     "q": "Which benefit does battery storage provide in this context?",
+     "options": [
+      "It increases the size of data centers",
+      "It smooths power fluctuations",
+      "It eliminates the need for solar panels",
+      "It reduces AI model size"
+     ],
+     "answer": 1,
+     "explainZh": "电池储能帮助平滑电力波动，确保 AI 工作负载顺利运行。"
+    }
+   ]
+  },
+  {
+   "id": "1tlb0qi",
+   "category": "ai",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "publishedAt": "2026-11-24T22:27:52.000Z",
+   "title": "Huang Says Succession Plan Adds Unnecessary Hierarchy",
+   "titleZh": "黄仁勋认为接班计划会产生不必要的层级结构",
+   "summaryZh": "英伟达创始人黄仁勋表示，接班计划会导致不必要的层级。公司最近两周正在测试没有创始人的运作方式。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "NVIDIA CEO Jensen Huang said a succession plan creates unnecessary hierarchy.",
+     "zh": "英伟达首席执行官黄仁勋表示，接班计划会产生不必要的层级结构。",
+     "focus": [
+      {
+       "text": "succession plan",
+       "meaning": "接班计划",
+       "note": "常用来讨论领导交接"
+      },
+      {
+       "text": "unnecessary hierarchy",
+       "meaning": "不必要的层级结构",
+       "note": "强调层级多余"
+      }
+     ]
+    },
+    {
+     "en": "The company has spent the last two weeks testing operations without its founder.",
+     "zh": "公司过去两周一直在测试没有创始人的运作方式。",
+     "focus": [
+      {
+       "text": "the last two weeks",
+       "meaning": "过去两周",
+       "note": "时间短语"
+      },
+      {
+       "text": "without its founder",
+       "meaning": "没有创始人",
+       "note": "强调缺失"
+      }
+     ]
+    },
+    {
+     "en": "During this period, employees reported that decision‑making became faster and more flexible.",
+     "zh": "在此期间，员工报告说决策变得更快、更灵活。",
+     "focus": [
+      {
+       "text": "decision‑making became faster",
+       "meaning": "决策变得更快",
+       "note": "形容词短语"
+      },
+      {
+       "text": "more flexible",
+       "meaning": "更灵活",
+       "note": "形容词"
+      }
+     ]
+    },
+    {
+     "en": "However, some executives noted that the absence of a single leader caused confusion in priorities.",
+     "zh": "然而，一些高管指出，缺少单一领导导致了优先级混乱。",
+     "focus": [
+      {
+       "text": "absence of a single leader",
+       "meaning": "缺少单一领导",
+       "note": "名词短语"
+      },
+      {
+       "text": "caused confusion in priorities",
+       "meaning": "导致优先级混乱",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "Huang explained that a clear hierarchy can slow innovation by adding extra approval layers.",
+     "zh": "黄仁勋解释说，清晰的层级结构会通过增加额外的审批层来减缓创新。",
+     "focus": [
+      {
+       "text": "clear hierarchy",
+       "meaning": "清晰的层级结构",
+       "note": "形容词短语"
+      },
+      {
+       "text": "extra approval layers",
+       "meaning": "额外的审批层",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "He believes that empowering teams to self‑manage reduces bureaucracy and speeds product development.",
+     "zh": "他认为，赋予团队自我管理权可以减少官僚主义并加速产品开发。",
+     "focus": [
+      {
+       "text": "empowering teams to self‑manage",
+       "meaning": "赋予团队自我管理权",
+       "note": "动词短语"
+      },
+      {
+       "text": "reduces bureaucracy",
+       "meaning": "减少官僚主义",
+       "note": "动词短语"
+      }
+     ]
+    },
+    {
+     "en": "NVIDIA’s board has approved a flexible leadership model that blends shared responsibility with clear accountability.",
+     "zh": "英伟达董事会批准了一种灵活的领导模式，融合了共享责任与明确问责。",
+     "focus": [
+      {
+       "text": "flexible leadership model",
+       "meaning": "灵活的领导模式",
+       "note": "名词短语"
+      },
+      {
+       "text": "shared responsibility with clear accountability",
+       "meaning": "共享责任与明确问责",
+       "note": "并列结构"
+      }
+     ]
+    },
+    {
+     "en": "Industry analysts say this approach could set a new standard for tech companies facing rapid change.",
+     "zh": "行业分析师表示，这种方法可能为面对快速变化的科技公司设定新的标准。",
+     "focus": [
+      {
+       "text": "industry analysts say",
+       "meaning": "行业分析师表示",
+       "note": "常用开头"
+      },
+      {
+       "text": "new standard for tech companies",
+       "meaning": "科技公司的新标准",
+       "note": "名词短语"
+      }
+     ]
+    },
+    {
+     "en": "NVIDIA plans to monitor the model closely and adjust if any bottlenecks appear.",
+     "zh": "英伟达计划密切监测该模式，并在出现任何瓶颈时进行调整。",
+     "focus": [
+      {
+       "text": "monitor the model closely",
+       "meaning": "密切监测该模式",
+       "note": "动词短语"
+      },
+      {
+       "text": "adjust if any bottlenecks appear",
+       "meaning": "在出现任何瓶颈时进行调整",
+       "note": "条件句"
+      }
+     ]
+    },
+    {
+     "en": "The next update will be released next month, giving stakeholders a clear view of the results.",
+     "zh": "下个月将发布下一次更新，让利益相关者清晰了解结果。",
+     "focus": []
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What did Jensen Huang say about a succession plan?",
+     "options": [
+      "It speeds up innovation",
+      "It creates unnecessary hierarchy",
+      "It is essential for growth",
+      "It reduces employee morale"
+     ],
+     "answer": 1,
+     "explainZh": "黄仁勋认为接班计划会产生不必要的层级结构。"
+    },
+    {
+     "q": "How did employees describe decision‑making during the two‑week test?",
+     "options": [
+      "Slower and rigid",
+      "Faster and more flexible",
+      "Unchanged",
+      "More confusing"
+     ],
+     "answer": 1,
+     "explainZh": "员工报告说决策变得更快、更灵活。"
+    }
+   ]
+  },
+  {
+   "id": "16luw09",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+   "publishedAt": "2026-11-25T01:31:46.000Z",
+   "title": "China Investigates Politburo Member Chen Jining",
+   "titleZh": "中国调查政治局成员陈敬宁",
+   "summaryZh": "中国调查了政治局成员陈敬宁，显示习近平最新的权力清洗正在继续。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "China has launched an investigation into Shanghai’s Communist Party chief Chen Jining.",
+     "zh": "中国已对上海市委书记陈敬宁展开调查。",
+     "tip": "主干：China has launched an investigation；听：注意动词短语的弱化，‘investigation’ 轻读。",
+     "focus": [
+      {
+       "text": "has launched an investigation",
+       "meaning": "已展开调查",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "Chen Jining is a member of China’s elite Politburo, the country’s top leadership body.",
+     "zh": "陈敬宁是中国政治局成员，国家最高领导层。",
+     "tip": "主干：Chen Jining is a member；听：连读‘member of’；重音在‘Politburo’。",
+     "focus": [
+      {
+       "text": "member of China’s elite Politburo",
+       "meaning": "中国精英政治局成员",
+       "note": "强调政治局"
+      }
+     ]
+    },
+    {
+     "en": "He is regarded as a potential future leader, a contender for higher office.",
+     "zh": "他被视为未来领导人，有望升任更高职位。",
+     "tip": "主干：He is regarded as a potential future leader；听：‘potential’ 轻读。",
+     "focus": [
+      {
+       "text": "regarded as a potential future leader",
+       "meaning": "被视为未来领导人",
+       "note": "常用表达"
+      }
+     ]
+    },
+    {
+     "en": "This is the fourth Politburo member to be probed since 2025.",
+     "zh": "这是自2025年以来第四位被调查的政治局成员。",
+     "tip": "主干：This is the fourth…；听：注意数字‘fourth’的弱化。",
+     "focus": [
+      {
+       "text": "fourth Politburo member",
+       "meaning": "第四位政治局成员",
+       "note": "数字顺序"
+      }
+     ]
+    },
+    {
+     "en": "China’s anti-graft watchdog is investigating him for suspected severe violations of discipline and laws.",
+     "zh": "中国反腐机关正在以涉嫌严重违纪违法为由调查他。",
+     "tip": "主干：is investigating him；听：连读‘suspected severe violations’。",
+     "focus": []
+    },
+    {
+     "en": "The investigation follows a common euphemism used by state media to hint at corruption.",
+     "zh": "调查采用了国家媒体常用的委婉语，暗示腐败。",
+     "tip": "主干：The investigation follows…；听：‘common euphemism’ 轻读。",
+     "focus": [
+      {
+       "text": "common euphemism",
+       "meaning": "常用委婉语",
+       "note": "表达方式"
+      }
+     ]
+    },
+    {
+     "en": "Xi Jinping’s latest purge shows a continued effort to consolidate power within the Communist Party.",
+     "zh": "习近平最新的肃清显示党内持续巩固权力。",
+     "tip": "主干：Xi Jinping’s latest purge shows；听：连读‘latest purge’。",
+     "focus": [
+      {
+       "text": "Xi Jinping’s latest purge",
+       "meaning": "习近平最新的肃清",
+       "note": "政治背景"
+      }
+     ]
+    },
+    {
+     "en": "Observers expect more investigations in the coming months as the party tightens its control.",
+     "zh": "观察人士预计未来几个月会有更多调查，党将进一步加强控制。",
+     "tip": "主干：Observers expect more investigations；听：‘more investigations’ 轻读。",
+     "focus": [
+      {
+       "text": "more investigations",
+       "meaning": "更多调查",
+       "note": "预测用语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the main reason for the investigation into Chen Jining?",
+     "options": [
+      "He is a foreign spy",
+      "He has been involved in financial fraud",
+      "He is suspected of severe violations of discipline and laws",
+      "He is a rival of Xi Jinping"
+     ],
+     "answer": 2,
+     "explainZh": "陈敬宁被调查是因为涉嫌严重违纪违法。"
+    },
+    {
+     "q": "How many Politburo members have been investigated since 2025?",
+     "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+     ],
+     "answer": 2,
+     "explainZh": "自2025年以来，已调查四名政治局成员。"
+    }
+   ]
+  },
+  {
+   "id": "oui37e",
+   "category": "world",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+   "publishedAt": "2026-11-25T03:57:11.000Z",
+   "title": "Colombia’s President Leads Supermarket Hostage Rescue",
+   "titleZh": "哥伦比亚总统前往购物中心人质救援现场",
+   "summaryZh": "哥伦比亚总统抵达卡塔赫纳购物中心，人质被枪手扣押，军警展开救援。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "President Gustavo Petro arrived in Cartagena to oversee a supermarket hostage rescue operation.",
+     "zh": "哥伦比亚总统古斯塔沃·佩特罗抵达卡塔赫纳，监督购物中心人质救援行动。",
+     "tip": "主干：President arrived; 听：注意动词过去式的轻读。",
+     "focus": [
+      {
+       "text": "oversee a supermarket hostage rescue operation",
+       "meaning": "监督购物中心人质救援行动",
+       "note": "常见短语，强调管理"
+      }
+     ]
+    },
+    {
+     "en": "The standoff began early Tuesday and has lasted several hours, with gunmen holding at least twenty people inside.",
+     "zh": "这场僵局于周二早些时候开始，持续数小时，枪手在商店内扣押至少二十人。",
+     "tip": "主干：standoff began; 听：注意连读和弱化的冠词。",
+     "focus": [
+      {
+       "text": "has lasted several hours",
+       "meaning": "持续数小时",
+       "note": "常用时间短语"
+      }
+     ]
+    },
+    {
+     "en": "A large force of security personnel, navy officers, and special forces is now on the scene.",
+     "zh": "大量安全人员、海军官员和特种部队已抵达现场。",
+     "tip": "主干：A large force is on the scene; 听：注意连读的“force is”。",
+     "focus": []
+    },
+    {
+     "en": "Abelardo de la Espriella, the president’s chief of staff, will take command of the operation.",
+     "zh": "佩特罗的参谋长阿贝拉多·德拉·埃斯普里埃拉将接管此次行动。",
+     "tip": "主干：will take command; 听：注意动词短语的连读。",
+     "focus": [
+      {
+       "text": "take command of the operation",
+       "meaning": "接管行动",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "The city’s police chief says the goal is to free hostages without civilian casualties.",
+     "zh": "市警局长表示目标是无平民伤亡地解救人质。",
+     "tip": "主干：goal is to free; 听：注意动词不定式的弱读。",
+     "focus": [
+      {
+       "text": "free hostages without civilian casualties",
+       "meaning": "无平民伤亡地解救人质",
+       "note": "强调安全"
+      }
+     ]
+    },
+    {
+     "en": "Cartagena is a popular tourist destination, making the incident especially concerning for travelers.",
+     "zh": "卡塔赫纳是热门旅游目的地，这使得事件对游客尤其令人担忧。",
+     "tip": "主干：is a popular tourist destination; 听：注意形容词短语的连读。",
+     "focus": [
+      {
+       "text": "popular tourist destination",
+       "meaning": "热门旅游目的地",
+       "note": "常见短语"
+      }
+     ]
+    },
+    {
+     "en": "The government has urged residents to stay calm and follow official instructions.",
+     "zh": "政府敦促居民保持冷静并遵守官方指示。",
+     "tip": "主干：urged residents to stay calm; 听：注意动词不定式的弱化。",
+     "focus": [
+      {
+       "text": "stay calm and follow official instructions",
+       "meaning": "保持冷静并遵守官方指示",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Police expect the operation to conclude within the next few hours, but they remain cautious.",
+     "zh": "警方预计行动将在接下来几个小时内结束，但仍保持谨慎。",
+     "tip": "主干：expect the operation to conclude; 听：注意连读和弱化。",
+     "focus": [
+      {
+       "text": "conclude within the next few hours",
+       "meaning": "在接下来几个小时内结束",
+       "note": "时间短语"
+      }
+     ]
+    },
+    {
+     "en": "International observers are monitoring the situation closely, hoping for a peaceful resolution.",
+     "zh": "国际观察者正密切关注局势，希望实现和平解决。",
+     "tip": "主干：are monitoring the situation; 听：注意动词现在进行时的弱读。",
+     "focus": [
+      {
+       "text": "monitoring the situation closely",
+       "meaning": "密切关注局势",
+       "note": "常用短语"
+      }
+     ]
+    },
+    {
+     "en": "Updates will be provided as the rescue operation progresses and hostages are released.",
+     "zh": "随着救援行动进展和人质获释，将提供最新信息。",
+     "tip": "主干：updates will be provided; 听：注意未来式的连读。",
+     "focus": [
+      {
+       "text": "as the rescue operation progresses",
+       "meaning": "随着救援行动进展",
+       "note": "时间状语"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Who is taking command of the hostage rescue operation?",
+     "options": [
+      "President Gustavo Petro",
+      "Abelardo de la Espriella",
+      "The police chief",
+      "A special forces officer"
+     ],
+     "answer": 1,
+     "explainZh": "阿贝拉多·德拉·埃斯普里埃拉是总统的参谋长，将接管行动。"
+    },
+    {
+     "q": "What is the main goal of the operation according to the police chief?",
+     "options": [
+      "To capture the gunmen",
+      "To free hostages without civilian casualties",
+      "To evacuate tourists",
+      "To negotiate a ransom"
+     ],
+     "answer": 1,
+     "explainZh": "警局长强调目标是无平民伤亡地解救人质。"
+    }
+   ]
+  },
+  {
+   "id": "b0a41l",
+   "category": "world",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "publishedAt": "2026-11-25T04:49:55.000Z",
+   "title": "Trump Deportation Battle Ends as Kilmar Ábrego García Leaves U.S. for Spain",
+   "titleZh": "特朗普驱逐案结束：基尔马尔·阿布雷戈·加西亚离开美国前往西班牙",
+   "summaryZh": "基尔马尔·阿布雷戈·加西亚离开美国，结束了特朗普政府的驱逐争议。此案成为美国移民议题的焦点。",
+   "level": "B2",
+   "sentences": [
+    {
+     "en": "Kilmar Ábrego García has left the United States for Spain, ending a long legal battle.",
+     "zh": "基尔马尔·阿布雷戈·加西亚已离开美国前往西班牙，结束了长期的法律争端。",
+     "tip": "主干：Kilmar Ábrego García has left the United States for Spain；听：注意连读和弱化的助动词。",
+     "focus": [
+      {
+       "text": "left the United States",
+       "meaning": "离开美国",
+       "note": "常用表达离境"
+      }
+     ]
+    },
+    {
+     "en": "He was previously ordered to return to El Salvador, but the U.S. court reversed that decision.",
+     "zh": "他曾被命令返回萨尔瓦多，但美国法院推翻了该决定。",
+     "tip": "主干：He was previously ordered to return；听：留意过去分词的弱读。",
+     "focus": [
+      {
+       "text": "ordered to return",
+       "meaning": "被命令返回",
+       "note": "常见法律用语"
+      }
+     ]
+    },
+    {
+     "en": "The case became a flash point in the debate over President Donald Trump's immigration agenda.",
+     "zh": "此案成为关于唐纳德·特朗普移民议程辩论的焦点。",
+     "tip": "主干：The case became a flash point；听：强调flash point的重音。",
+     "focus": [
+      {
+       "text": "flash point",
+       "meaning": "焦点",
+       "note": "比喻性短语"
+      }
+     ]
+    },
+    {
+     "en": "Supporters of the Trump administration praised the decision as a victory for law and order.",
+     "zh": "特朗普政府的支持者称赞此决定是法律与秩序的胜利。",
+     "tip": "主干：Supporters praised the decision；听：注意连读和弱化的助动词。",
+     "focus": [
+      {
+       "text": "law and order",
+       "meaning": "法律与秩序",
+       "note": "常见政治口号"
+      }
+     ]
+    },
+    {
+     "en": "Opponents argued that the ruling ignored human rights and the rights of asylum seekers.",
+     "zh": "反对者认为该裁决忽视了人权和寻求庇护者的权利。",
+     "tip": "主干：Opponents argued that the ruling；听：关注连读和弱化的助动词。",
+     "focus": [
+      {
+       "text": "human rights",
+       "meaning": "人权",
+       "note": "常见国际用语"
+      }
+     ]
+    },
+    {
+     "en": "The U.S. Supreme Court declined to review the lower court’s decision, effectively ending the legal fight.",
+     "zh": "美国最高法院拒绝复核下级法院的决定，正式结束了这场法律争斗。",
+     "tip": "主干：The U.S. Supreme Court declined to review；听：注意复合动词的弱化。",
+     "focus": [
+      {
+       "text": "declined to review",
+       "meaning": "拒绝复核",
+       "note": "常见法律表达"
+      }
+     ]
+    },
+    {
+     "en": "Now García will settle in Spain, where he hopes to rebuild his life and career.",
+     "zh": "现在加西亚将定居西班牙，他希望在那儿重建生活和事业。",
+     "tip": "主干：García will settle in Spain；听：注意将来时的弱化。",
+     "focus": [
+      {
+       "text": "rebuild his life",
+       "meaning": "重建他的生活",
+       "note": "常见表达"
+      }
+     ]
+    },
+    {
+     "en": "The case highlights the ongoing tension between immigration enforcement and humanitarian concerns in the U.S.",
+     "zh": "此案凸显了美国移民执法与人道关怀之间的持续紧张关系。",
+     "tip": "主干：The case highlights the ongoing tension；听：注意连读和弱化的助动词。",
+     "focus": [
+      {
+       "text": "ongoing tension",
+       "meaning": "持续紧张",
+       "note": "常见表达"
+      }
+     ]
+    },
+    {
+     "en": "Observers will watch how this decision influences future immigration policies and court rulings.",
+     "zh": "观察者将关注此决定如何影响未来的移民政策和法庭裁决。",
+     "tip": "主干：Observers will watch how this decision；听：注意将来时的弱化。",
+     "focus": [
+      {
+       "text": "future immigration policies",
+       "meaning": "未来的移民政策",
+       "note": "常见表达"
+      }
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What was the final outcome for Kilmar Ábrego García?",
+     "options": [
+      "He was deported to El Salvador",
+      "He stayed in the U.S.",
+      "He left the U.S. for Spain",
+      "He was sentenced to prison"
+     ],
+     "answer": 2,
+     "explainZh": "加西亚最终离开美国前往西班牙，结束了法律争端。"
+    },
+    {
+     "q": "Which court declined to review the lower court’s decision?",
+     "options": [
+      "The U.S. District Court",
+      "The U.S. Court of Appeals",
+      "The U.S. Supreme Court",
+      "The U.S. Federal Court"
+     ],
+     "answer": 2,
+     "explainZh": "美国最高法院拒绝复核下级法院的决定。"
+    }
+   ]
+  }
+ ]
+}
